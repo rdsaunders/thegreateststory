@@ -5,18 +5,24 @@ fields:
 - type: text
   name: title
   label: Title
-  description: The title of the post.
+  description: The title of the story as it appears on the card.
   config:
     required: true
 - type: text
   name: subtitle
   label: Subtitle
-  description: The text shown just below the post title.
+  description: The subtitle as displayed on the card.
+- type: text
+  name: excerpt
+  label: Summary
+  description: The summary of the story, to be displayed on the homepage and in search
+    engines.
 - type: datetime
   name: date
-  label: Date
+  label: Publish date
   config:
     required: true
+  default: now
 - type: file
   name: thumb_img_path
   label: Featured Image
@@ -25,10 +31,6 @@ fields:
   name: content_img_path
   label: Alternative Featured Image
   description: The image shown in the single post.
-- type: text
-  name: excerpt
-  label: Summary
-  description: The sumamry of the story displayed on the homepage
 - type: text
   name: layout
   label: Layout
