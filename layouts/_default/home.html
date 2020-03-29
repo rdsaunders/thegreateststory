@@ -17,16 +17,16 @@
         {{ end }}
         <div class="post-card-content">
           <header class="post-header">
-            <div class="post-meta">
+            {{/*  <div class="post-meta">
               <time class="published"
               datetime="{{ $post.Date | dateFormat "2006-01-02 15:04" }}">{{ $post.Date | dateFormat "January 02, 2006" }}</time>
-            </div>
+            </div>  */}}
             <h2 class="post-title"><a href="{{ $post.URL }}" rel="bookmark">{{ $post.Params.title }}</a></h2>
           </header><!-- .post-header -->
           <div class="post-excerpt">
             <p>{{ $post.Params.excerpt }}</p>
             <p class="read-more">
-              <a class="button inverse" href="{{ $post.URL }}">Read more</a>
+              <a class="button inverse" href="{{ $post.URL }}">View story</a>
             </p>
           </div><!-- .post-excerpt -->
         </div><!-- .post-card-content -->
