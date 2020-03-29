@@ -50,7 +50,7 @@ sections:
   - social
 - type: document
   path: config.yaml
-  label: Global site configuration
+  label: Global site config
   templates:
   - config
 upload_dir: static/images
