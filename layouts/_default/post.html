@@ -19,6 +19,30 @@
     </div>
     {{ end }}
     <div class="post-content">
+    {{ if .Params.scripture }}
+    <div>
+      <h2>Read it</h2>
+      <p>{{ .Params.scripture }}</p>
+    </div>
+    {{ end }}
+    {{ if .Params.questions }}
+    <div>
+      <h2>Quiz it</h2>
+      {{ .Params.questions | markdownify }}
+    </div>
+    {{ end }}
+    {{ if .Params.prayer }}
+    <div>
+      <h2>Pray it</h2>
+      {{ .Params.prayer | markdownify }}
+    </div>
+    {{ end }}
+    {{ if .Params.action }}
+    <div>
+      <h2>Do it</h2>
+      {{ .Params.action | markdownify }}
+    </div>
+    {{ end }}
       {{ .Content | safeHTML }}
     </div><!-- .post-content -->
   </article><!-- .post -->
