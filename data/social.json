@@ -13,22 +13,10 @@
             "url": "https://www.instagram.com/"
         },
         {
-            "type": "github",
-            "title": "GitHub",
-            "icon": "fa-github",
-            "url": "https://github.com/"
-        },
-        {
-            "type": "linkedin",
-            "title": "LinkedIn",
-            "icon": "fa-linkedin",
-            "url": "https://www.linkedin.com/"
-        },
-        {
-            "type": "devto",
-            "title": "DEV",
-            "icon": "fa-dev",
-            "url": "https://dev.to/"
+            "type": "facebook",
+            "title": "Facebook",
+            "icon": "fa-facebook",
+            "url": "https://www.facebook.com/"
         }
     ]
 }

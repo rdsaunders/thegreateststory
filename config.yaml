@@ -1,16 +1,16 @@
-title: Stackbit Ampersand Theme
+title: The Greatest Story
 baseURL: /
 params:
   layout_style: grid
   palette: green
   header:
-    title: Ampersand
-    logo_img: images/logo.png
+    title: The Greatest Story
+    logo_img: 
     has_nav: true
   footer:
     content: '&copy; All rights reserved.'
     links:
-      - text: Made with Stackbit
+      - text: The Greatest Story
         url: 'https://www.stackbit.com'
         new_window: true
     has_social: true
