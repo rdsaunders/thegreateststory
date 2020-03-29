@@ -23,6 +23,15 @@ fields:
   config:
     required: true
   default: now
+- name: watch
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html
+  label: Watch it
 - name: scripture
   type: textarea
   default: ''
@@ -74,15 +83,6 @@ fields:
   default: post
   config:
     required: true
-- name: watch
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: html
-  label: Watch it
 pages:
 - content/posts/temptation.md
 - content/posts/the-flood.md
