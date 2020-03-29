@@ -2,7 +2,7 @@
 title: The Greatest Story
 baseURL: "/"
 params:
-  layout_style: list
+  layout_style: grid
   palette: green
   header:
     title: The Greatest Story
