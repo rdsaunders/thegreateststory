@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: 
 sections:
+- type: heading
+  label: Content
 - type: directory
   path: content/posts
   label: Stories
@@ -16,26 +18,6 @@ sections:
   label: Home
   templates:
   - home
-- type: document
-  path: config.yaml
-  label: Global Site Config
-  templates:
-  - config
-- type: document
-  path: data/social.json
-  label: Social Links
-  templates:
-  - social
-- type: document
-  path: data/author.json
-  label: Author
-  templates:
-  - author
-- type: document
-  path: content/contact.md
-  label: Contact
-  templates:
-  - contact
 - type: directory
   path: content
   label: Page
@@ -45,10 +27,32 @@ sections:
   templates:
   - page
 - type: document
+  path: data/author.json
+  label: Author
+  templates:
+  - author
+- type: heading
+  label: Configuration
+- type: document
+  path: content/contact.md
+  label: Contact
+  templates:
+  - contact
+- type: document
   path: data/subscribe.json
   label: Subscribe
   templates:
   - subscribe
+- type: document
+  path: data/social.json
+  label: Social Links
+  templates:
+  - social
+- type: document
+  path: config.yaml
+  label: Global Site Config
+  templates:
+  - config
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
