@@ -20,7 +20,7 @@ sections:
   - home
 - type: directory
   path: content
-  label: Page
+  label: Pages
   create: all
   match: "**/*"
   exclude: "{posts/**,_index.md,contact.md}"
