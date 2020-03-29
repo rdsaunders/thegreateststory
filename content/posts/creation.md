@@ -23,8 +23,8 @@ prayer: |-
 
   And you could thank God for something that he has made.
 action: Keep you eyes peeled – what could you say “wow” about that God has made today?
-watch: '&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZZPfCWV81pE"
+watch: <p>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZZPfCWV81pE"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen&gt;&lt;/iframe&gt;'
+  allowfullscreen&gt;&lt;/iframe&gt;</p>
 
 ---
