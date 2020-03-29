@@ -45,12 +45,12 @@ sections:
   - subscribe
 - type: document
   path: data/social.json
-  label: Social Links
+  label: Social links
   templates:
   - social
 - type: document
   path: config.yaml
-  label: Global Site Config
+  label: Global site configuration
   templates:
   - config
 upload_dir: static/images
