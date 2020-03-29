@@ -1,20 +1,21 @@
+---
 title: The Greatest Story
-baseURL: /
+baseURL: "/"
 params:
-  layout_style: grid
+  layout_style: list
   palette: green
   header:
     title: The Greatest Story
     logo_img: 
     has_nav: true
   footer:
-    content: '&copy; All rights reserved.'
+    content: "&copy; All rights reserved."
     links:
-      - text: The Greatest Story
-        url: 'https://www.stackbit.com'
-        new_window: true
+    - text: The Greatest Story
+      url: https://www.stackbit.com
+      new_window: true
     has_social: true
 disableKinds:
-  - RSS
-  - taxonomy
-  - taxonomyTerm
+- RSS
+- taxonomy
+- taxonomyTerm
