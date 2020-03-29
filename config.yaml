@@ -3,18 +3,18 @@ title: The Greatest Story
 baseURL: "/"
 params:
   layout_style: grid
-  palette: green
+  palette: blue
   header:
     title: The Greatest Story
     logo_img: 
-    has_nav: true
+    has_nav: false
   footer:
     content: "&copy; All rights reserved."
     links:
     - text: The Greatest Story
       url: https://www.stackbit.com
       new_window: true
-    has_social: true
+    has_social: false
 disableKinds:
 - RSS
 - taxonomy
