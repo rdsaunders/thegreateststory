@@ -11,8 +11,8 @@ params:
   footer:
     content: "&copy; All rights reserved."
     links:
-    - text: The Greatest Story
-      url: https://www.stackbit.com
+    - text: The Bible Course
+      url: https://www.biblesociety.org.uk/explore-the-bible/the-bible-course/
       new_window: true
     has_social: false
 disableKinds:
