@@ -23,6 +23,42 @@ fields:
   config:
     required: true
   default: now
+- name: scripture
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Read it
+- name: questions
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Quiz it
+- name: prayer
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Pray it
+- name: action
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Do it
 - type: file
   name: thumb_img_path
   label: Featured Image
