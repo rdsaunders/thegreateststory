@@ -28,6 +28,11 @@
     <div>
       <h2>Read it</h2>
       <p>{{ .Params.scripture }}</p>
+      {{ if .Params.read_scripture }}
+        <div class="post-scripture">
+          <p>{{ .Params.read_scripture | safeHTML }}</p>
+        </div>
+      {{ end }}
     </div>
     {{ end }}
     {{ if .Params.questions }}

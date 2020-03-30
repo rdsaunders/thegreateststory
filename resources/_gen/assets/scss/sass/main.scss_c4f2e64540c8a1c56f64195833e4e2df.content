@@ -812,6 +812,9 @@ img {
   .post-thumbnail img {
     width: 100%; }
 
+.post-scripture {
+  font-family: "PT Serif", serif; }
+
 /* Post feed */
 .post-feed {
   margin-bottom: 4vw; }
