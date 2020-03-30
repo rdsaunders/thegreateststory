@@ -33,6 +33,11 @@ fields:
       format: markdown
   label: Watch it
 - name: scripture
+  type: text
+  config:
+    required: false
+  label: Scripture reference
+- name: read_scripture
   type: textarea
   default: ''
   config:
