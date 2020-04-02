@@ -120,3 +120,5 @@ fields:
   default: post
   config:
     required: true
+pages:
+- content/posts/the-tower-of-babel.md
