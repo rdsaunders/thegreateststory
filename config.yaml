@@ -1,11 +1,11 @@
 ---
-title: The Greatest Story
+title: The Greatest Story Ever
 baseURL: "/"
 params:
   layout_style: grid
   palette: blue
   header:
-    title: The Greatest Story
+    title: The Greatest Story Ever
     logo_img: 
     has_nav: false
   footer:
