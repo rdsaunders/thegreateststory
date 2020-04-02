@@ -44,7 +44,7 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-  label: Review it
+  label: Review it (optional)
   description: Provide a summary of the previous story and how this story fits in.
 - name: watch
   type: textarea
