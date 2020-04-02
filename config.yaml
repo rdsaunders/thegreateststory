@@ -19,3 +19,5 @@ disableKinds:
 - RSS
 - taxonomy
 - taxonomyTerm
+permalinks:
+  posts: /stories/:title/

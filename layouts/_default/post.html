@@ -50,13 +50,13 @@
     {{ if .Params.prayer }}
     <div>
       <h2>Pray it</h2>
-      <p>{{ .Params.prayer }}</p>
+      <p>{{ .Params.prayer | markdownify }}</p>
     </div>
     {{ end }}
     {{ if .Params.action }}
     <div>
       <h2>Do it</h2>
-      <p>{{ .Params.action }}</p>
+      <p>{{ .Params.action | markdownify }}</p>
     </div>
     {{ end }}
       {{ .Content | safeHTML }}
