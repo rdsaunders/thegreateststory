@@ -18,6 +18,12 @@
       <img class="thumbnail" src="{{ .Params.content_img_path | relURL }}" alt="{{ .Params.title }}" />
     </div>
     {{ end }}
+    {{ if .Params.review }}
+    <div>
+      <h2>Review it</h2>
+      <p>{{ .Params.review | safeHTML }}</p>
+    </div>
+    {{ end }}
     {{ if .Params.watch }}
     <div class="post-thumbnail">
       <p>{{ .Params.watch | safeHTML }}</p>
