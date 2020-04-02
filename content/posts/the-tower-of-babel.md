@@ -2,7 +2,6 @@
 action = ""
 content_img_path = ""
 date = 2020-04-02T11:41:59Z
-draft = true
 excerpt = ""
 layout = "post"
 prayer = ""
