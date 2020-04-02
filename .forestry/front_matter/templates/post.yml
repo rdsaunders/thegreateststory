@@ -23,6 +23,16 @@ fields:
   config:
     required: true
   default: now
+- name: review
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Review it
+  description: Provide a summary or background to review the previous story.
 - name: watch
   type: textarea
   default: ''
