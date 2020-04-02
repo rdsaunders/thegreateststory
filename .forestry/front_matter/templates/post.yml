@@ -12,6 +12,17 @@ fields:
   name: subtitle
   label: Subtitle
   description: The subtitle as displayed on the physical card.
+- name: order
+  type: number
+  label: Display order
+  description: Enter the number of the story and where it fits in the bible story
+    line. This will be used to display the order of the cards on the homepage.
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: '1'
 - type: text
   name: excerpt
   label: Summary
@@ -95,8 +106,8 @@ fields:
   label: Do it
 - type: file
   name: thumb_img_path
-  label: Featured Image
-  description: The image shown in the blog feed.
+  label: Card image
+  description: The image to be shown on the card on the homepage.
 - type: file
   name: content_img_path
   label: Alternative Featured Image
