@@ -21,7 +21,7 @@ prayer: |-
 
   Help us to be like you. Help us to care for our world.
 
-  And you could thank God for something that he has made.
+  _And you could thank God for something that he has made._
 action: Keep you eyes peeled – what could you say “wow” about that God has made today?
 watch: <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZPfCWV81pE"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
@@ -31,5 +31,7 @@ read_scripture: So God created human beings, making them to be like himself. He 
   descendants will live all over the earth and bring it under their control. I am
   putting you in charge of the fish, the birds, and all the wild animals.
 order: 1
+review: Have a look at the from of your first card. What is the picture about and
+  what do the words say?
 
 ---
