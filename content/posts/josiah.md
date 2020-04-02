@@ -16,7 +16,7 @@ questions: |-
   * After reading the book of the law what difficult thing did Josiah do?
   * When do you find it difficult to do the thing that pleases the Lord?
 prayer: Pray that we will hear God’s word and do the thing that pleases him.
-action: Today, don’t worry about what other think. Do what pleases God!
+action: Today, don’t worry about what others think. Do what pleases God!
 read_scripture: Josiah did what was pleasing to the Lord; he followed the example
   of his ancestor King David, strictly obeying all the laws of God.
 
