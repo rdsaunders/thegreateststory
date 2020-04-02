@@ -823,7 +823,7 @@ img {
     font-size: 14px; }
   .post-card .post-title {
     font-size: 1.66667rem;
-    margin-bottom: 0.83333rem; }
+    margin-bottom: 0.5rem; }
   .post-card .post-excerpt {
     font-size: 16px; }
 
