@@ -1,16 +1,16 @@
 +++
 action = ""
 content_img_path = ""
-date = 2020-03-29T00:00:00Z
+date = 2020-04-02T11:41:59Z
 excerpt = ""
 layout = "post"
 prayer = ""
 questions = ""
 read_scripture = ""
 scripture = ""
-subtitle = "Things turn bad"
-thumb_img_path = "/images/IMG_2204.jpg"
-title = "Temptation"
+subtitle = ""
+thumb_img_path = "/images/IMG_2197.jpg"
+title = "The tower of babel"
 watch = ""
 
 +++
