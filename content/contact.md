@@ -6,6 +6,7 @@ menu:
     name: Contact
     weight: 6
 layout: contact
+published: false
 ---
 
 Fill the form below to get in touch with me.
