@@ -23,3 +23,5 @@ fields:
   default: page
   config:
     required: true
+pages:
+- content/get-started.md
