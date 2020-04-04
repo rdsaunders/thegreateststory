@@ -19,6 +19,8 @@ prayer: Dear God, Help us to hear your word and do the thing that pleases you.
 action: Today, don’t worry about what others think. Do what pleases God!
 read_scripture: Josiah did what was pleasing to the Lord; he followed the example
   of his ancestor King David, strictly obeying all the laws of God.
+place: Finally - have a look at the back of your card. What does it say? You can now
+  place your card onto your story line.
 draft: true
 
 ---
