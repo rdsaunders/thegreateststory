@@ -2,6 +2,7 @@
 action = "On a clear night do some stargazing. Thank God for keeping His promises."
 content_img_path = ""
 date = 2020-04-04T09:21:39Z
+draft = true
 excerpt = ""
 layout = "post"
 order = 5
