@@ -313,7 +313,7 @@ blockquote {
       margin-bottom: 0; }
   blockquote small,
   blockquote cite {
-    color: #9e9e9e;
+    color: #757575;
     display: block;
     font-size: 0.66667em;
     font-style: normal;
@@ -353,7 +353,7 @@ table {
   width: 100%; }
 
 caption {
-  color: #9e9e9e;
+  color: #757575;
   font-size: 0.88889rem;
   font-style: normal;
   margin-bottom: 1em;
@@ -716,7 +716,7 @@ img {
 
 .menu-item a:hover,
 .current-menu-item a {
-  color: #9e9e9e; }
+  color: #757575; }
 
 .menu-toggle {
   display: none; }
@@ -788,7 +788,7 @@ img {
   margin-bottom: 3.33333em; }
 
 .post-meta {
-  color: #9e9e9e;
+  color: #757575;
   font-size: 0.88889rem;
   letter-spacing: 0.07em;
   line-height: 1.5;
@@ -951,7 +951,7 @@ img {
     position: relative;
     text-align: center; }
   .pagination .page-number {
-    color: #9e9e9e;
+    color: #757575;
     display: inline-block;
     font-size: 14px;
     letter-spacing: 0.07em;
@@ -1061,7 +1061,7 @@ img {
     margin: 0 5% 0.83333em 0;
     width: 30px; }
     .social-links a:hover {
-      color: #9e9e9e; }
+      color: #757575; }
   .social-links .fab {
     font-size: 18px; }
 
@@ -1144,7 +1144,7 @@ img {
 .palette-black a {
   border-color: #323232; }
   .palette-black a:hover {
-    border-color: #9e9e9e; }
+    border-color: #757575; }
 
 .palette-black blockquote:before {
   color: #323232; }
