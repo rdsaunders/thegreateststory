@@ -55,6 +55,12 @@
       <p>{{ .Params.prayer | markdownify }}</p>
     </div>
     {{ end }}
+    {{ if .Params.place }}
+    <div>
+      <h2>Place it</h2>
+      <p>{{ .Params.place | markdownify }}</p>
+    </div>
+    {{ end }}
     {{ if .Params.action }}
     <div>
       <h2>Do it</h2>
