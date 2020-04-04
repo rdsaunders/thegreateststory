@@ -36,6 +36,11 @@ fields:
   default: now
   description: The date that the card was first published.
   hidden: true
+- type: file
+  name: content_img_path
+  label: Timeline
+  description: The timeline and marker to display above a story
+  hidden: false
 - name: review
   type: textarea
   default: ''
@@ -118,11 +123,6 @@ fields:
   name: thumb_img_path
   label: Card image
   description: The image to be shown on the card on the homepage.
-- type: file
-  name: content_img_path
-  label: Alternative Featured Image
-  description: The image shown in the single post.
-  hidden: true
 - type: text
   name: layout
   label: Layout
