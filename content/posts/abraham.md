@@ -11,7 +11,7 @@ read_scripture = "The LORD said to Abram, “Leave your country, your relatives,
 review = "Tell the story so far, using the cards from previous days along the storyline.\n\nHave a look at your next card..."
 scripture = "Genesis 12:1-3"
 subtitle = "God makes a promise"
-thumb_img_path = ""
+thumb_img_path = "/images/Abraham.png"
 title = "Abraham "
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/NdqrwGJYePQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
