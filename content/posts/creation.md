@@ -17,11 +17,7 @@ questions: |-
   * What do you think it means that we are like God? 1v.27
 scripture: Genesis 1:27-28
 prayer: |-
-  Thank you God that you love us and you made this wonderful world for us to enjoy.
-
-  Help us to be like you. Help us to care for our world.
-
-  Amen
+  Thank you God that you love us and you made this wonderful world for us to enjoy. Help us to be like you. Help us to care for our world. Amen
 
   _And you could thank God for something that he has made._
 action: Keep your eyes peeled – what could you say “wow” about that God has made?
