@@ -12,9 +12,10 @@ questions: |-
   * What is your favourite animal?
   * What is your favourite fruit?
   * What is your favourite sport or hobby?
-  * Of all the things God made, what was his favorite?
-  * How does it make you feel to know that you’re God’s favorite and he loves you?
-  * What do you think it means that we are like God? 1v.27
+  * Of all the things God made, what was his favourite?
+  * How does it make you feel to know that you’re God’s favourite and he loves you?
+  * What do you think it means that we are like God? 1v.27 _(Move the conversation away from talking about physical characteristics and talk about personality and abilities.)_
+  * God told Adam and Eve to care for the world that he had made for them. How can we do this? v.28
 scripture: Genesis 1:27-28
 prayer: |-
   Thank you God that you love us and you made this wonderful world for us to enjoy. Help us to be like you. Help us to care for our world. Amen
