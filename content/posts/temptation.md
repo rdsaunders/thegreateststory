@@ -1,6 +1,6 @@
 +++
 action = "As you are making choices today, think:  What would God want me to do?... And don’t talk to snakes!"
-content_img_path = ""
+content_img_path = "/images/page-timeline.png"
 date = 2020-04-04T09:09:16Z
 excerpt = ""
 layout = "post"
