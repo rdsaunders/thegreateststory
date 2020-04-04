@@ -1,6 +1,7 @@
 ---
 title: The Greatest Story Ever
 baseURL: "/"
+language: en-GB
 params:
   layout_style: grid
   palette: blue

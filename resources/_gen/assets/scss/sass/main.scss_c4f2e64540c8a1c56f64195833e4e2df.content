@@ -1088,20 +1088,20 @@ img {
  * ----------------------------------------------------------------------------
  */
 .palette-blue a {
-  border-color: #108afb; }
+  border-color: #016fd6; }
   .palette-blue a:hover {
     border-color: currentColor; }
 
 .palette-blue blockquote:before {
-  color: #108afb; }
+  color: #016fd6; }
 
 .palette-blue button,
 .palette-blue input[type="submit"],
 .palette-blue input[type="button"],
 .palette-blue input[type="reset"],
 .palette-blue .button {
-  background: #108afb;
-  border-color: #108afb;
+  background: #016fd6;
+  border-color: #016fd6;
   color: #fff; }
   .palette-blue button:hover, .palette-blue button:focus, .palette-blue button:active,
   .palette-blue input[type="submit"]:hover,
@@ -1117,29 +1117,29 @@ img {
   .palette-blue .button:focus,
   .palette-blue .button:active {
     background: 0;
-    border-color: #108afb;
-    color: #108afb; }
+    border-color: #016fd6;
+    color: #016fd6; }
 
 .palette-blue .button.inverse {
   background: 0;
-  color: #108afb; }
+  color: #016fd6; }
   .palette-blue .button.inverse:hover, .palette-blue .button.inverse:focus, .palette-blue .button.inverse:active {
-    background: #108afb;
-    border-color: #108afb;
+    background: #016fd6;
+    border-color: #016fd6;
     color: #fff; }
 
 .palette-blue .site-header {
-  border-top-color: #108afb; }
+  border-top-color: #016fd6; }
 
 @media only screen and (max-width: 1100px) {
   .palette-blue .site-navigation {
-    border-top-color: #108afb; } }
+    border-top-color: #016fd6; } }
 
 @media only screen and (min-width: 681px) {
   .palette-blue.layout-grid .post-card-content:only-child {
-    border-color: rgba(16, 138, 251, 0.1); }
+    border-color: rgba(1, 111, 214, 0.1); }
   .palette-blue.layout-list .post-card-content:only-child {
-    border-color: rgba(16, 138, 251, 0.1); } }
+    border-color: rgba(1, 111, 214, 0.1); } }
 
 .palette-black a {
   border-color: #323232; }
