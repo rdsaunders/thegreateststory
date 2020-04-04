@@ -11,7 +11,7 @@ read_scripture = "Now the snake was the most cunning animal that the LORD God ha
 review = "Tell the story so far, using the card from previous day on the storyline.\n\nHave a look at your next card.  What is the picture about and what do the words say?"
 scripture = "Genesis 3:1-3"
 subtitle = "Things turn bad"
-thumb_img_path = ""
+thumb_img_path = "/images/Temptation.png"
 title = "Temptation"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Kg2lkCxjMg8\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
