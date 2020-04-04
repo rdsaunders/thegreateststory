@@ -1,6 +1,6 @@
 +++
 action = "On a clear night do some stargazing. Thank God for keeping His promises."
-content_img_path = ""
+content_img_path = "/images/page-timeline.png"
 date = 2020-04-04T09:21:39Z
 excerpt = ""
 layout = "post"
