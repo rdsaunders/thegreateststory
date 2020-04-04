@@ -11,7 +11,7 @@ menu:
 * **Learn it**: see how key Bible characters and events form one BIG story
 * **Live it**: discover how the Bible helps us live life to the full today
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ahpCe-ugFAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="full-bleed"><iframe width="560" height="315" src="https://www.youtube.com/embed/ahpCe-ugFAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 The Greatest Story Ever provides session plans that last 10-15 min based on a key character or event in the Bible. Each session is linked to a card that can be hung over a string storyline or stood up on a surface, forming a visual guide for where each story fits into the BIG picture. The card also tags to a webpage of content that provides the session plan. Scan the QR code with your mobile device or tablet to get there. Each session follows the same pattern:
 
