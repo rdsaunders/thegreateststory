@@ -1,15 +1,13 @@
 ---
 layout: page
 title: Get started
-subtitle: Getting started with The Greatest Story Ever devotionals
+subtitle: A resource to help families experience the Bible together
 img_path: ''
 menu:
   main:
     weight: 5
 
 ---
-**A resource to help families experience the Bible together**
-
 * **Learn it**: see how key Bible characters and events form one BIG story
 * **Live it**: discover how the Bible helps us live life to the full today
 
