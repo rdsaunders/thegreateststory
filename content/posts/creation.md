@@ -31,5 +31,7 @@ read_scripture: So God created human beings, making them to be like himself. He 
 order: 1
 review: 'Have a look at the front of your first card. What is the picture about and
   what do the words say? '
+place: Finally - have a look at the back of your card. What does it say? You can now
+  place your card onto your story line.
 
 ---
