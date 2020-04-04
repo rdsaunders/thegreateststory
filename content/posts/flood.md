@@ -2,7 +2,6 @@
 action = "Draw a rainbow. Keep it with you. Remember God cares for you."
 content_img_path = ""
 date = 2020-04-04T09:16:50Z
-draft = true
 excerpt = ""
 layout = "post"
 order = 3
