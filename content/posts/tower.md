@@ -1,6 +1,6 @@
 +++
 action = "When you do something great today, thank God for enabling you to do it!"
-content_img_path = ""
+content_img_path = "/images/page-timeline.png"
 date = 2020-04-02T13:22:41Z
 excerpt = ""
 layout = "post"
