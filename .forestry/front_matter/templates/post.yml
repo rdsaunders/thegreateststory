@@ -121,5 +121,6 @@ fields:
   config:
     required: true
 pages:
+- content/posts/abraham.md
 - content/posts/flood.md
 - content/posts/temptation.md
