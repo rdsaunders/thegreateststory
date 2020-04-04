@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ .Site.Params.language }}">
+<html lang="{{ .Site.Params.language | safeHTML }}">
     <head>    
         
         <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
