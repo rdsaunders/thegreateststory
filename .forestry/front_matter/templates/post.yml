@@ -121,4 +121,5 @@ fields:
   config:
     required: true
 pages:
+- content/posts/flood.md
 - content/posts/temptation.md
