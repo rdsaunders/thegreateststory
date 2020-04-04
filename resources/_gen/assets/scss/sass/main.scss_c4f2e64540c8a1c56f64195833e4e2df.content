@@ -190,7 +190,8 @@ html {
 body {
   background: #fff;
   color: #5e5e5e;
-  line-height: 1.66667; }
+  line-height: 1.66667;
+  overflow-x: hidden; }
 
 a {
   border-bottom: 2px solid #3cb464;
@@ -525,6 +526,10 @@ img {
 .post-content:after {
   content: "";
   display: table; }
+
+.full-bleed {
+  width: 100vw;
+  margin-left: calc(50% - 50vw); }
 
 /**
  * Icons

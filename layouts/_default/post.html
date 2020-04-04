@@ -24,12 +24,14 @@
       <p>{{ .Params.review | safeHTML }}</p>
     </div>
     {{ end }}
-    {{ if .Params.watch }}
-    <div class="post-thumbnail">
-      <p>{{ .Params.watch | safeHTML }}</p>
-    </div>
-    {{ end }}
+
     <div class="post-content">
+      {{ if .Params.watch }}
+      <div>
+        <h2>Watch it</h2>
+        <div class="full-bleed">{{ .Params.watch | safeHTML }}</div>
+      </div>
+      {{ end }}
     {{ if .Params.scripture }}
     <div>
       <h2>Read it</h2>

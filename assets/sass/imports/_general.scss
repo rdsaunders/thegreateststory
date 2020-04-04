@@ -17,6 +17,7 @@ body {
   background: #fff;
   color: _palette(primary);
   line-height: 1.66667;
+  overflow-x: hidden;
 }
 
 a {
@@ -400,4 +401,9 @@ img {
 .post-content:after {
   content: "";
   display: table;
+}
+
+.full-bleed {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
 }
