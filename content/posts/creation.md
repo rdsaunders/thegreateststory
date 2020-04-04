@@ -33,5 +33,6 @@ review: 'Have a look at the front of your first card. What is the picture about 
   what do the words say? '
 place: Finally - have a look at the back of your card. What does it say? You can now
   place your card onto your story line.
+qrcode: "/images/qr-creation.png"
 
 ---
