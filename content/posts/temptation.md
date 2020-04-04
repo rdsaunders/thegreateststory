@@ -2,7 +2,6 @@
 action = "As you are making choices today, think – What would God want me to do?... And don’t talk to snakes!"
 content_img_path = ""
 date = 2020-04-04T09:09:16Z
-draft = true
 excerpt = ""
 layout = "post"
 order = 2
