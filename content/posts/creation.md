@@ -29,7 +29,7 @@ read_scripture: So God created human beings, making them to be like himself. He 
   descendants will live all over the earth and bring it under their control. I am
   putting you in charge of the fish, the birds, and all the wild animals.
 order: 1
-review: Have a look at the front of your first card. What is the picture about and
-  what do the words say? Now scan it.
+review: 'Have a look at the front of your first card. What is the picture about and
+  what do the words say? '
 
 ---
