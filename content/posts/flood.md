@@ -11,7 +11,7 @@ read_scripture = "\nWhen the LORD saw how wicked everyone on earth was and how e
 review = "Tell the story so far, using the cards from previous days along the storyline.\n\nHave a look at from of your next card. What is the picture about and what do the words say?"
 scripture = "Genesis 6:5-7, 9:14-15"
 subtitle = "World washed clean"
-thumb_img_path = ""
+thumb_img_path = "/images/Flood.png"
 title = "Flood"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4yzN0fUxjkQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
