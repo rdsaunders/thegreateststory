@@ -7,19 +7,14 @@ excerpt: ''
 layout: post
 subtitle: God made it good
 questions: |-
-  God made everything for us to enjoy and said it was good.
+  **God made everything for us to enjoy and said it was good.**
 
-  What is your favourite animal?
-
-  What is your favourite fruit?
-
-  What is your favourite sport or hobby?
-
-  Of all the things God made, what was his favorite?
-
-  How does it make you feel to know that you’re God’s favorite and he loves you?
-
-  What do you think it means that we are like God? 1v.27
+  * What is your favourite animal?
+  * What is your favourite fruit?
+  * What is your favourite sport or hobby?
+  * Of all the things God made, what was his favorite?
+  * How does it make you feel to know that you’re God’s favorite and he loves you?
+  * What do you think it means that we are like God? 1v.27
 scripture: Genesis 1:27-28
 prayer: |-
   Thank you God that you love us and you made this wonderful world for us to enjoy.
@@ -39,6 +34,6 @@ read_scripture: So God created human beings, making them to be like himself. He 
   putting you in charge of the fish, the birds, and all the wild animals.
 order: 1
 review: Have a look at the front of your first card. What is the picture about and
-  what do the words say?
+  what do the words say? Now scan it.
 
 ---
