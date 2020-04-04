@@ -1,6 +1,6 @@
 +++
 action = "Draw a rainbow. Keep it with you. Remember God cares for you."
-content_img_path = ""
+content_img_path = "/images/page-timeline.png"
 date = 2020-04-04T09:16:50Z
 excerpt = ""
 layout = "post"
