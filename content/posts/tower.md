@@ -12,7 +12,7 @@ read_scripture = "\nThey said, “Now let's build a city with a tower that reach
 review = "Tell the story so far, using the cards from previous three days along the storyline.\n\nHave a look at your next card..."
 scripture = "Genesis 11:4&9"
 subtitle = "The people scatter"
-thumb_img_path = "/images/Tower-1.png"
+thumb_img_path = "/images/Tower.png"
 title = "Tower"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CW-NXNzdZhM\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
