@@ -95,6 +95,16 @@ fields:
       format: markdown
   label: Pray it
   description: What to focus on when praying together.
+- name: place
+  type: textarea
+  default: Finally - have a look at the back of your card. What does it say? You can
+    now place your card onto your story line.
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Place it
 - name: action
   type: textarea
   default: ''
@@ -120,16 +130,6 @@ fields:
   default: post
   config:
     required: true
-- name: place
-  type: textarea
-  default: Finally - have a look at the back of your card. What does it say? You can
-    now place your card onto your story line.
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Place it
 pages:
 - content/posts/abraham.md
 - content/posts/flood.md
