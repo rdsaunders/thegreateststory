@@ -35,3 +35,5 @@ fields:
   hidden: true
   label: Layout
   default: set
+pages:
+- content/sets/beginnings.md
