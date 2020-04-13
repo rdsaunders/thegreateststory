@@ -13,6 +13,13 @@ sections:
   match: "**/*"
   templates:
   - post
+- type: directory
+  path: content/sets
+  label: Sets
+  create: documents
+  match: "**/*"
+  templates:
+  - set
 - type: document
   path: content/_index.md
   label: Home
