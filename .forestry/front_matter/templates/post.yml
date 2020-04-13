@@ -73,7 +73,7 @@ fields:
     schema:
       format: markdown
   label: Watch it
-  description: Copy the YouTube embed code into this box e.g. YouTube > Share > Embed
+  description: Paste the YouTube embed code into this box e.g. YouTube > Share > Embed
     > Copy
 - name: scripture
   type: text
