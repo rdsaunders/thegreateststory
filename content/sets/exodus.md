@@ -1,5 +1,7 @@
 ---
-title: Exodus
-layout: "post"
-subtitle: "They leave egypt"
+title: Poetry
+layout: post
+subtitle: ''
+colour: "#4A90E2"
+
 ---
