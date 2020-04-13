@@ -32,7 +32,7 @@ sections:
   label: Pages
   create: documents
   match: "**/*"
-  exclude: "{posts/**,_index.md,contact.md}"
+  exclude: "{posts/**,sets/**,_index.md,contact.md}"
   templates:
   - page
 - type: document
