@@ -5,10 +5,6 @@
     {{ partial $section.component $include_dict }}
   {{ end }}
 
-  <div class="post-thumbnail">
-    <img src="{{ .Params.image | relURL }}" alt="" />
-  </div>
-
   <div class="post-feed">
     {{ $display_posts := ((.Site.GetPage "section" "/sets").Pages.ByParam "order") }}
     {{ range $post := $display_posts }}
