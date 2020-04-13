@@ -15,19 +15,19 @@
     <article class="post post-card">
       <div class="post-card-inside">
         {{ if $post.Params.thumb_img_path }}
-        <a class="post-card-thumbnail" href="{{ $post.URL }}">
+        <a class="post-card-thumbnail" href="{{ $post.Permalink }}">
           <img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" />
         </a>
         {{ end }}
         <div class="post-card-content">
           <header class="post-header">
-            <h2 class="post-title"><a href="{{ $post.URL }}" rel="bookmark">{{ $post.Params.title }}</a></h2>
+            <h2 class="post-title"><a href="{{ $post.Permalink }}" rel="bookmark">{{ $post.Params.title }}</a></h2>
             <div class="post-subtitle">{{ $post.Params.subtitle }}</div>
           </header>
           <div class="post-excerpt">
             <p>{{ $post.Params.excerpt }}</p>
             <p class="read-more">
-              <a class="button inverse" href="{{ $post.URL }}">View story</a>
+              <a class="button inverse" href="{{ $post.Permalink }}">View story</a>
             </p>
           </div>
         </div>
