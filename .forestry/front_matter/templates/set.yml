@@ -1,4 +1,20 @@
 ---
 label: Set
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Subtitle
+- name: colour
+  type: color
+  label: Colour
+  config:
+    required: false
+    color_format: Hex
