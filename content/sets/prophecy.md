@@ -1,6 +1,6 @@
 +++
 colour = "#417505"
-layout = ""
+layout = "set"
 subtitle = ""
 title = "Prophecy"
 

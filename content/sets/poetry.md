@@ -1,6 +1,6 @@
 ---
 title: Poetry
-layout: post
+layout: set
 subtitle: ''
 colour: "#4A90E2"
 

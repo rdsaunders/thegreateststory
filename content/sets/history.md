@@ -1,6 +1,6 @@
 ---
 title: History
-layout: post
+layout: set
 subtitle: ''
 colour: "#D0021B"
 
