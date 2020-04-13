@@ -12,6 +12,7 @@ questions = "**Even in a perfect world there were rules.**\n\n* What kind of rul
 read_scripture = "Now the snake was the most cunning animal that the LORD God had made. The snake asked the woman, “Did God really tell you not to eat fruit from any tree in the garden?”\n“We may eat the fruit of any tree in the garden,” the woman answered, “except the tree in the middle of it. God told us not to eat the fruit of that tree or even touch it; if we do, we will die.”\n"
 review = "Tell the story so far, using the card from previous day on the storyline.\n\nHave a look at your next card.  What is the picture about and what do the words say?"
 scripture = "Genesis 3:1-3"
+set = "sets/history.md"
 subtitle = "Things turn bad"
 thumb_img_path = "/images/Temptation.png"
 title = "Temptation"

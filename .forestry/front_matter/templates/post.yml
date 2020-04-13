@@ -12,6 +12,19 @@ fields:
   name: subtitle
   label: Subtitle
   description: The subtitle as displayed on the physical card.
+- name: set
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: sets
+      file: 
+      path: 
+  label: Set
+  description: What set does this card belong to?
 - name: order
   type: number
   label: Display order
