@@ -20,4 +20,5 @@ fields:
     color_format: Hex
 pages:
 - content/sets/gospels.md
+- content/sets/letters.md
 - content/sets/prophecy.md
