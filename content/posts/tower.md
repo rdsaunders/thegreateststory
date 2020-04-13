@@ -12,6 +12,7 @@ questions = "* How many languages can you all say “Hello” in?\n* What other 
 read_scripture = "\nThey said, “Now let's build a city with a tower that reaches the sky, so that we can make a name for ourselves and not be scattered all over the earth.”\nThe city was called Babylon, because there the LORD mixed up the language of all the people, and from there he scattered them all over the earth.\n"
 review = "Tell the story so far, using the cards from previous three days along the storyline.\n\nHave a look at your next card..."
 scripture = "Genesis 11:4&9"
+set = "sets/beginnings.md"
 subtitle = "The people scatter"
 thumb_img_path = "/images/Tower.png"
 title = "Tower"
