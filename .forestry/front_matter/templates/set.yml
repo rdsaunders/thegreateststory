@@ -12,6 +12,16 @@ fields:
   config:
     required: false
   label: Subtitle
+- name: order
+  type: number
+  label: Display order
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 - name: colour
   type: color
   label: Colour
