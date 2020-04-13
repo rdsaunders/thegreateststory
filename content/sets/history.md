@@ -1,6 +1,7 @@
 ---
-title: Genesis
+title: History
 layout: post
-subtitle: The opening sequence
+subtitle: ''
+colour: "#D0021B"
 
 ---
