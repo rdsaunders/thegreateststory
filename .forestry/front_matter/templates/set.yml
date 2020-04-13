@@ -18,6 +18,13 @@ fields:
   config:
     required: false
     color_format: Hex
+- name: layout
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: Layout
+  default: set
 pages:
 - content/sets/gospels.md
 - content/sets/letters.md
