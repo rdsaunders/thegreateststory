@@ -2,7 +2,6 @@
 action = "Put on something colourful and remember God’s got a plan even when it’s tricky."
 content_img_path = ""
 date = 2020-04-13T09:22:56Z
-draft = true
 excerpt = ""
 layout = "post"
 order = nil
