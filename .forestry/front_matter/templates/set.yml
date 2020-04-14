@@ -41,8 +41,8 @@ fields:
   default: set
 pages:
 - content/sets/beginnings.md
+- content/sets/exile.md
 - content/sets/exit-entrance.md
 - content/sets/family.md
-- content/sets/home-away.md
 - content/sets/leaders.md
 - content/sets/messengers.md
