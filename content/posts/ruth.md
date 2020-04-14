@@ -5,7 +5,7 @@ date = 2020-04-14T19:26:11Z
 draft = true
 excerpt = ""
 layout = "post"
-order = 0
+order = 13
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
 prayer = "Dear God,\n\nThank you that through Jesus I can be redeemed and brought into your family.\n\nHelp me to be a friend who is as loyal as Ruth and as generous as Boaz.\n\nAmen"
 qrcode = ""
@@ -14,7 +14,7 @@ read_scripture = "But Ruth answered, “Don't ask me to leave you! Let me go wit
 review = "Tell the story so far, using the cards from previous days along the storyline.\n\nNow take a look at the next card… The story of Ruth is set in the time of the Judges when Israel kept forgetting God."
 scripture = "Ruth 1:16, 4:13-14"
 set = []
-subtitle = ""
+subtitle = "Joining God's family"
 thumb_img_path = ""
 title = "Ruth"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/irThVpdeSXk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
