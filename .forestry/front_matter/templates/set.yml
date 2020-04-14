@@ -7,11 +7,15 @@ fields:
   config:
     required: false
   label: Title
-- name: subtitle
-  type: text
+- name: summary
+  type: textarea
+  default: ''
   config:
     required: false
-  label: Subtitle
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Summary
 - name: order
   type: number
   label: Display order
