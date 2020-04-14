@@ -1,8 +1,9 @@
 +++
 colour = "#4A90E2"
 layout = "set"
-order = 0
+order = 1
 subtitle = ""
+summary = "Genesis is the first book in the Bible and means “beginnings”. It tells the story of how God created the world and made humans to live in relationship with him."
 title = "Beginnings"
 
 +++
