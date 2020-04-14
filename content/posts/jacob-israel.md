@@ -15,7 +15,7 @@ review = "Tell the story so far, using the cards from previous days along the st
 scripture = "Genesis 32: 27-29"
 set = "sets/chosen-family.md"
 subtitle = "God gives a name"
-thumb_img_path = ""
+thumb_img_path = "/images/Jacob-Israel.png"
 title = "Jacob "
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0zIbU866z6A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
