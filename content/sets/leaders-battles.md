@@ -1,8 +1,9 @@
 +++
-colour = "#D0021B"
+colour = "#9013FE"
 layout = "set"
-order = 0
+order = 4
 subtitle = ""
-title = "Leaders & battles"
+summary = "God gave Israel leaders to help them live his way. Judges were wise warriors. Kings were anointed rulers. Sadly, Israel kept forgetting God and turning to idols during this period."
+title = "Leaders"
 
 +++
