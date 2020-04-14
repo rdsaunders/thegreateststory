@@ -2,7 +2,6 @@
 action = "Find out about what God’s people are doing to help those who are still in slavery today.\n\n[https://www.modernslaveryeducation.com/slaverytoday](https://www.modernslaveryeducation.com/slaverytoday \"https://www.modernslaveryeducation.com/slaverytoday\")"
 content_img_path = ""
 date = 2020-04-13T09:32:34Z
-draft = true
 excerpt = ""
 layout = "post"
 order = 8
