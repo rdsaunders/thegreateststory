@@ -2,7 +2,6 @@
 action = "Set a reminder on your phone or put a note in your pocket to remember to thank God for the wonderful things He’s done."
 content_img_path = ""
 date = 2020-04-13T19:37:49Z
-draft = true
 excerpt = ""
 layout = "post"
 order = 12
