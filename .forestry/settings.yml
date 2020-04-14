@@ -15,7 +15,7 @@ sections:
   - post
 - type: directory
   path: content/sets
-  label: Sets
+  label: Sets / Markers
   create: documents
   match: "**/*"
   templates:
