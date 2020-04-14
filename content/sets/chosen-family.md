@@ -1,8 +1,9 @@
 +++
-colour = "#9013FE"
+colour = "#F8E71C"
 layout = "set"
-order = 0
+order = 2
 subtitle = ""
-title = "Chosen family"
+summary = "As the world turned bad, God had a plan to put things right. He chose a special family that started with Abraham and later became the nation of Israel (with 12 tribes)."
+title = "Family"
 
 +++
