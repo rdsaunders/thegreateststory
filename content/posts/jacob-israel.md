@@ -16,7 +16,7 @@ scripture = "Genesis 32: 27-29"
 set = "sets/chosen-family.md"
 subtitle = "God gives a name"
 thumb_img_path = ""
-title = "Jacob / Israel "
+title = "Jacob "
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0zIbU866z6A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++
