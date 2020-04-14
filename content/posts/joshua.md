@@ -2,7 +2,6 @@
 action = "Memorise Joshua’s words and say them whenever you’re intimidated.\n\n“The LORD is with us…so don't be afraid.” Numbers 14v.9"
 content_img_path = ""
 date = 2020-04-13T10:18:19Z
-draft = true
 excerpt = ""
 layout = "post"
 order = 10
