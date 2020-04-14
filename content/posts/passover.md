@@ -2,7 +2,6 @@
 action = "\nMunch a cracker or some flat bread and thank God for Passover and freedom."
 content_img_path = ""
 date = 2020-04-13T09:47:54Z
-draft = true
 excerpt = ""
 layout = "post"
 order = 9
