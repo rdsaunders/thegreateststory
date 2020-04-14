@@ -2,7 +2,6 @@
 action = "Next time you feel afraid tell yourself, “God is with me. We can do this!”"
 content_img_path = ""
 date = 2020-04-13T09:11:58Z
-draft = true
 excerpt = ""
 layout = "post"
 order = 6
