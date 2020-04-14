@@ -5,7 +5,7 @@ date = 2020-04-13T09:22:56Z
 draft = true
 excerpt = ""
 layout = "post"
-order = 0
+order = nil
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
 prayer = "Thank you God that you have a good plan for my life, even when tough stuff happens. Help me to forgive those who hurt me.  I trust you to work it all out. \n\nAmen"
 qrcode = ""
@@ -15,7 +15,7 @@ review = "Tell the story so far, using the cards from previous days along the st
 scripture = "Genesis 37:3, 50:19-21"
 set = "sets/chosen-family.md"
 subtitle = "God works it out"
-thumb_img_path = ""
+thumb_img_path = "/images/Joseph.png"
 title = "Joseph"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/NQ7wLTBnF84\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
