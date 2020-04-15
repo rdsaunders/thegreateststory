@@ -151,6 +151,7 @@ fields:
     required: true
 pages:
 - content/posts/abraham.md
+- content/posts/david.md
 - content/posts/flood.md
 - content/posts/gideon.md
 - content/posts/jacob-israel.md
