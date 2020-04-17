@@ -2,7 +2,6 @@
 action = "\nAt your next family meal set an extra place as a reminder that you are hosting the presence of God."
 content_img_path = ""
 date = 2020-04-16T13:47:14Z
-draft = true
 excerpt = ""
 layout = "post"
 order = 15
