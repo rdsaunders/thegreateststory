@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Get in touch
 img_path: ''
 layout: contact
 published: false
