@@ -3,7 +3,7 @@ title: Greatest Story Ever
 baseURL: "/"
 params:
   language: en-GB
-  layout_style: grid
+  layout_style: horizontal
   palette: blue
   header:
     title: Greatest Story Ever

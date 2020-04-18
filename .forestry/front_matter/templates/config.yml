@@ -31,6 +31,7 @@ fields:
       options:
       - grid
       - list
+      - horizontal
   - type: select
     name: palette
     label: Color Palette

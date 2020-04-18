@@ -175,6 +175,32 @@
       }
     }
   }
+
+  .layout-horizontal {
+
+    .post-feed {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+  
+      &::-webkit-scrollbar {
+        display: none;
+      }
+    
+    }
+
+    .post-card {
+      height: 100%;
+      flex: 0 0 30%;
+      margin: 0 1rem 0 0;
+      scroll-snap-align: center;
+
+    } 
+
+  }
+
 }
 
 @media only screen and (min-width: 751px) {
