@@ -11,8 +11,10 @@
         {{ end }}
         {{ if eq .Params.layout "home" }}
         <h1 class="site-title"><a href='{{ "/" | relURL }}'>{{ .Site.Params.header.title }}</a></h1>
+        <div class="site-subtitle">{{ .Site.Params.header.sub_title }}</div>
         {{ else }}
         <p class="site-title"><a href='{{ "/" | relURL }}'>{{ .Site.Params.header.title }}</a></p>
+        <div class="site-subtitle">{{ .Site.Params.header.sub_title }}</div>
         {{ end }}
       </div><!-- .site-branding -->
 

@@ -52,6 +52,10 @@ fields:
       name: title
       label: Header Title
       description: The title displayed in the header if no logo image added.
+    - type: text
+      name: sub_title
+      label: Sub title
+      description: The subtitle displayed in the header if no logo image added.
     - type: file
       name: logo_img
       label: Logo

@@ -1,12 +1,13 @@
 ---
-title: The Greatest Story Ever
+title: Greatest Story Ever
 baseURL: "/"
 params:
   language: en-GB
   layout_style: grid
   palette: blue
   header:
-    title: The Greatest Story Ever
+    title: Greatest Story Ever
+    sub_title: The Family Bible Course
     logo_img: 
     has_nav: true
   footer:
