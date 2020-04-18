@@ -24,4 +24,5 @@ fields:
   config:
     required: true
 pages:
+- content/downloads.md
 - content/get-started.md
