@@ -14,7 +14,7 @@ review = "Tell the story so far, using the cards from previous days along the st
 scripture = "Judges 6:12-14"
 set = "sets/leaders.md"
 subtitle = "Israel gets stuck "
-thumb_img_path = ""
+thumb_img_path = "/images/Gideon.png"
 title = "Judge Gideon"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/U68cIMZSgvQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
