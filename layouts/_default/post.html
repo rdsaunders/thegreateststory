@@ -25,7 +25,8 @@
       {{ if .Params.watch }}
       <div>
         <h2>Watch it</h2>
-        <div class="full-bleed">{{ .Params.watch | safeHTML }}</div>
+        <!-- <div class="full-bleed">{{ .Params.watch | safeHTML }}</div> -->
+        {{ .Params.watch | safeHTML }}
       </div>
       {{ end }}
     {{ if .Params.scripture }}
