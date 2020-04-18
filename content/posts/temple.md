@@ -2,7 +2,6 @@
 action = "\nAt your next family meal set an extra place as a reminder that you are hosting the presence of God."
 content_img_path = ""
 date = 2020-04-16T13:47:14Z
-draft = true
 excerpt = ""
 layout = "post"
 order = 15
@@ -15,7 +14,7 @@ review = "Tell the story so far, using the cards from previous days along the st
 scripture = "I KINGS 8:20-21"
 set = "sets/leaders.md"
 subtitle = "A home for God"
-thumb_img_path = ""
+thumb_img_path = "/images/Solomons-temple.png"
 title = "Solomon's Temple"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2n0N6iE3n30\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
