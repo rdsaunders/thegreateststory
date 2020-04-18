@@ -2,7 +2,6 @@
 action = "Do something kind and generous for a friend today."
 content_img_path = ""
 date = 2020-04-14T19:26:11Z
-draft = true
 excerpt = ""
 layout = "post"
 order = 13
