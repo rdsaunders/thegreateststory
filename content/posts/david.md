@@ -15,7 +15,7 @@ review = "Tell the story so far, using the cards from previous days along the st
 scripture = "1 Samuel 16:6-7, 13"
 set = "sets/leaders.md"
 subtitle = "A heart for God"
-thumb_img_path = ""
+thumb_img_path = "/images/David.png"
 title = "King David"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OnNXbj6udy4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
