@@ -2,7 +2,6 @@
 action = "\nGo look in the mirror and tell yourself: “God’s more concerned about my heart than my hair!”"
 content_img_path = ""
 date = 2020-04-15T20:52:04Z
-draft = true
 excerpt = ""
 layout = "post"
 order = 14
