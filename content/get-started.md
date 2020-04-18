@@ -6,7 +6,6 @@ img_path: ''
 menu:
   main:
     weight: 2
-
 ---
 * **Learn it**: see how key Bible characters and events form one BIG story
 * **Live it**: discover how the Bible helps us live life to the full today

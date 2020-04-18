@@ -21,3 +21,8 @@ disableKinds:
 permalinks:
   posts: "/stories/:title/"
   sets: "/sets/:title/"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
