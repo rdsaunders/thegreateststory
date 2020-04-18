@@ -904,7 +904,9 @@ img {
     flex: 1 1 auto; }
     .layout-list .post-card-content:only-child {
       border-right: 165px solid rgba(60, 180, 100, 0.1);
-      padding-right: 7%; }
+      padding-right: 7%; } }
+
+@media only screen and (min-width: 751px) {
   .layout-horizontal .post-feed {
     display: flex;
     flex-wrap: nowrap;
@@ -916,10 +918,8 @@ img {
   .layout-horizontal .post-card {
     height: 100%;
     flex: 0 0 30%;
-    margin: 0 1rem 0 0;
-    scroll-snap-align: center; } }
-
-@media only screen and (min-width: 751px) {
+    margin: 0 0.5rem 0 0.5rem;
+    scroll-snap-align: center; }
   .post-feed {
     margin-bottom: 1.66667em; }
   .post-card {
