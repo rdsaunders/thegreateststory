@@ -91,7 +91,7 @@ fields:
     schema:
       format: markdown
   label: Read it
-  description: Copy and paste the bible verses for this reading. If you use <a href="www.biblegateway.com"
+  description: Copy and paste the bible verses for this reading. If you use <a href="http://www.biblegateway.com"
     title="" target="_blank">biblegateway</a> you can choose to exclude footnotes
     and verse numbers.
 - name: questions
