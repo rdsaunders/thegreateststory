@@ -142,7 +142,8 @@ fields:
   config:
     maxSize: 250
   label: QR Code
-  description: 'A QR code for this page, can be generated at: https://www.qrcode-monkey.com/'
+  description: 'A QR code for this page, can be generated at: <a href="https://www.qrcode-monkey.com/"
+    title="https://www.qrcode-monkey.com/" target="_blank">https://www.qrcode-monkey.com/</a>'
 - type: text
   name: layout
   label: Layout
