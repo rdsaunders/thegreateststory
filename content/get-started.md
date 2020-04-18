@@ -5,7 +5,7 @@ subtitle: A resource to help families experience the Bible together
 img_path: ''
 menu:
   main:
-    weight: 5
+    weight: 2
 
 ---
 * **Learn it**: see how key Bible characters and events form one BIG story
