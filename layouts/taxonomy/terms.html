@@ -1,6 +1,6 @@
 {{ define "content" }}
   <div class="post-feed">
-        {{ range .Pages }}
+        {{ range .Pages.ByParam "order" }}
         <article class="post post-card">
           <div class="post-card-inside">
              <div class="post-card-content">
