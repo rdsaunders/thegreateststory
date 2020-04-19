@@ -1,4 +1,19 @@
 {{ define "content" }}
+<article class="post page">
+  <header class="post-header">
+    <h1 class="post-title"><span style="background-color: {{ .Params.colour }}; width: 24px; height: 24px; border-radius: 12px; display: inline-block; margin-right: 8px;"></span>{{ .Title }}</h1>
+  </header>
+  {{ if .Params.excerpt }}
+  <div class="post-subtitle">
+    {{ .Params.excerpt | safeHTML }}
+  </div>
+  {{ end }}
+  {{ if .Params.content_img_path }}
+  <div class="post-thumbnail">
+    <img class="thumbnail" src="{{ .Params.content_img_path | relURL }}" alt="{{ .Params.title }}" />
+  </div>
+  {{ end }}
+  <div class="post-content">
 
 <div class="post-feed">
     {{ range .Data.Pages.ByParam "order" }}
@@ -25,4 +40,8 @@
       </article>
     {{ end }}
 </div>
+
+{{ .Content | safeHTML }}
+</div>
+</article>
 {{ end }}
