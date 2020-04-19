@@ -5,6 +5,6 @@ layout = "page"
 subtitle = "Get started by downloading your card sets. "
 title = "Downloads"
 [menu.main]
-weight = 3
+weight = 4
 
 +++

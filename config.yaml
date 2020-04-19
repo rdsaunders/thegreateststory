@@ -25,3 +25,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+menu:
+  main:
+  - url: "/sets/"
+    name: Sets
+    weight: 2
