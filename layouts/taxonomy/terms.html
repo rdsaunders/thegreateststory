@@ -1,24 +1,38 @@
 {{ define "content" }}
-  <div class="post-feed">
-        {{ range .Pages.ByParam "order" }}
-        <article class="post post-card">
-          <div class="post-card-inside">
-             <div class="post-card-content">
-              <header class="post-header">
-                <h2 class="post-title"><span style="background-color: {{ .Page.Params.colour }}; width: 24px; height: 24px; border-radius: 12px; display: inline-block; margin-right: 8px;"></span><a href="{{ .Page.Permalink }}" rel="bookmark">{{ .Page.Params.title }}</a></h2>
-                <div class="post-subtitle">{{ .Page.Params.subtitle }}</div>
-              </header>
-              <div class="post-excerpt">
-                <p>{{ .Page.Params.excerpt }}</p>
-                <p class="read-more">
-                  <a class="button inverse" href="{{ .Page.Permalink }}">View set</a>
-                </p>
-              </div>
-            </div>
-          </div>
-        </article>
-        {{ end }}
-        
-      </div>
+<div class="set-wrapper">
+    {{ range .Pages.ByParam "order" }}
+      <div class="set">
 
+        <ul class="cards">
+            {{ range .Data.Pages.ByParam "order" }}
+            <li class="card">
+                  <h3 class="card-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Params.title }}</a></h3>
+                  {{ if .Params.thumb_img_path }}
+                    <img class="card-image" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
+                  {{ end }}
+                  <div>
+                      <p class="card-subtitle">{{ .Params.subtitle }}</p>
+                  </div>
+                </li>
+            {{ end }}
+        </ul>
+        
+        <div style="background-color: {{ .Page.Params.colour }}; width: 100%; height: 0.5em; margin-bottom: 0.5em;"></div>
+
+        <header>
+
+            <h2 class="set-title">{{ .Page.Params.title }}</h2>
+            {{ if .Page.Params.period }}
+            <div>({{ .Page.Params.period }})</div>
+            {{ end }}
+            {{ if .Page.Params.excerpt }}
+            <div class="set-excerpt">
+              <p>{{ .Page.Params.excerpt }}</p>
+            </div>
+            {{ end }}
+        </header>
+
+      </div>
+    {{ end }}
+  </div>
 {{ end }}

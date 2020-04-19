@@ -1,7 +1,6 @@
-/**
- * Content
- * ----------------------------------------------------------------------------
- */
+// Content
+// ----------------------------------------------------------------------------
+
 .post {
   margin-bottom: 3.33333em;
 }
@@ -47,10 +46,33 @@
   font-family: _font(secondary);
 }
 
-/* Post feed */
+// Post feed
 .post-feed {
   margin-bottom: 4vw;
 }
+
+
+.post-feed {
+display: flex;
+flex-wrap: nowrap;
+overflow-x: scroll;
+-webkit-overflow-scrolling: touch;
+scroll-snap-type: x mandatory;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+}
+
+.post-card {
+  height: 100%;
+  flex: 0 0 80%;
+  margin: 0 0.5rem 0 0.5rem;
+  scroll-snap-align: center;
+
+} 
+
 
 .post-card {
   margin-bottom: 4vw;
@@ -76,11 +98,7 @@
 .post-card-inside {
   border: 1px solid _palette(border);
   border-radius: 3px;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
   flex-direction: column;
 }
 
@@ -103,34 +121,20 @@
 @media only screen and (min-width: 681px) {
   .layout-grid {
     .post-feed {
-      display: -ms-flexbox;
-      display: -webkit-flex;
       display: flex;
-      -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
       flex-wrap: wrap;
       margin-left: -2vw;
       margin-right: -2vw;
     }
 
     .post-card {
-      display: -webkit-flex;
-      display: -ms-flexbox;
       display: flex;
-      -webkit-flex: 0 0 33.3333333333%;
-      -ms-flex: 0 0 33.3333333333%;
-      flex: 0 0 33.3333333333%;
-      -webkit-flex-direction: column;
-      -ms-flex-direction: column;
+      flex: 0 0 25%;
       flex-direction: column;
     }
 
     .post-card-inside {
-      -webkit-flex: 1 1 auto;
-      -ms-flex: 1 1 auto;
       flex: 1 1 auto;
-      -webkit-flex-direction: column;
-      -ms-flex-direction: column;
       flex-direction: column;
       margin-left: 2vw;
       margin-right: 2vw;
@@ -145,15 +149,11 @@
 
   .layout-list {
     .post-card-inside {
-      -webkit-flex-direction: row-reverse;
-      -ms-flex-direction: row-reverse;
       flex-direction: row-reverse;
     }
 
     .post-card-thumbnail {
       border-radius: 0 3px 3px 0;
-      -webkit-flex: 0 0 40%;
-      -ms-flex: 0 0 40%;
       flex: 0 0 40%;
 
       img {
@@ -165,8 +165,6 @@
     }
 
     .post-card-content {
-      -webkit-flex: 1 1 auto;
-      -ms-flex: 1 1 auto;
       flex: 1 1 auto;
 
       &:only-child {
@@ -179,30 +177,7 @@
 
 @media only screen and (min-width: 751px) {
 
-  .layout-horizontal {
 
-    .post-feed {
-    display: flex;
-    flex-wrap: nowrap;
-    overflow-x: scroll;
-    -webkit-overflow-scrolling: touch;
-    scroll-snap-type: x mandatory;
-  
-      &::-webkit-scrollbar {
-        display: none;
-      }
-    
-    }
-
-    .post-card {
-      height: 100%;
-      flex: 0 0 30%;
-      margin: 0 0.5rem 0 0.5rem;
-      scroll-snap-align: center;
-
-    } 
-
-  }
   .post-feed {
     margin-bottom: 1.66667em;
   }
@@ -210,6 +185,14 @@
   .post-card {
     margin-bottom: 1.66667em;
   }
+  .post-card {
+    height: 100%;
+    flex: 0 0 25%;
+    margin: 0 0.5rem 0 0.5rem;
+    scroll-snap-align: center;
+  
+  } 
+  
 
   .layout-grid {
     .post-feed {
@@ -301,4 +284,94 @@
 .post-nav-title {
   font-size: 1.33333rem;
   margin-bottom: 1.66667rem;
+}
+
+.set-wrapper {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: scroll;
+
+}
+
+.set {
+  -webkit-overflow-scrolling: touch;
+  scroll-snap-type: x mandatory;
+}
+.cards {
+  display: flex;
+  min-height: 20rem;
+  margin: 0.5rem 0;
+  position: relative;
+  list-style-type: none;
+  padding: 0;
+}
+
+.card {
+  width: 12rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  text-align: center;
+  border: 1px solid #A5D3FD;
+  padding: 0.75rem;
+  border-radius: 0.33rem;
+  position: relative;
+}
+
+.card a {
+  outline: none;
+}
+
+.card h3 a {
+  text-decoration: none;
+  border: none;
+}
+
+.card h3 a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.card h2 a:focus {
+  outline: none;
+  text-decoration: underline;
+}
+
+.card:focus-within,
+.card:hover {
+  box-shadow: 0 0 0 0.33rem #A5D3FD;
+}
+
+.card:focus-within h2 a:focus {
+  text-decoration: none;
+}
+
+
+
+.card-subtitle {
+  margin-bottom: 0;
+}
+
+.card-image {
+  margin-bottom: 0.5rem;
+  border-radius: 0.25rem;
+
+}
+
+.set-excerpt {
+  width: 80%;
+}
+
+@media only screen and (min-width: 681px) {
+  .set-excerpt {
+    width: 30vw;
+    max-width: 28rem;
+  }
+}
+
+.set-title {
+  margin-bottom: 0;
 }
