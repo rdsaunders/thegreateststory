@@ -39,10 +39,3 @@ fields:
   hidden: true
   label: Layout
   default: set
-pages:
-- content/sets/beginnings.md
-- content/sets/exile.md
-- content/sets/exodus.md
-- content/sets/family.md
-- content/sets/leaders.md
-- content/sets/messengers.md
