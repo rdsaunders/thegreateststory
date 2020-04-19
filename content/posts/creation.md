@@ -35,5 +35,6 @@ place: Finally - have a look at the back of your card. What does it say? You can
   place your card onto your story line.
 qrcode: "/images/qr-creation.png"
 set: sets/beginnings.md
-
+sets: 
+- beginnings
 ---

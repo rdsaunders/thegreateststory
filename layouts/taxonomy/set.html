@@ -1,0 +1,28 @@
+{{ define "content" }}
+
+<div class="post-feed">
+    {{ range .Data.Pages.ByParam "order" }}
+    <article class="post post-card">
+        <div class="post-card-inside">
+          {{ if .Params.thumb_img_path }}
+          <a class="post-card-thumbnail" href="{{ .Permalink }}">
+            <img class="thumbnail" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
+          </a>
+          {{ end }}
+          <div class="post-card-content">
+            <header class="post-header">
+              <h2 class="post-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Params.title }}</a></h2>
+              <div class="post-subtitle">{{ .Params.subtitle }}</div>
+            </header>
+            <div class="post-excerpt">
+              <p>{{ .Params.excerpt }}</p>
+              <p class="read-more">
+                <a class="button inverse" href="{{ .Permalink }}">View story</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </article>
+    {{ end }}
+</div>
+{{ end }}

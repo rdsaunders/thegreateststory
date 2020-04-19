@@ -16,12 +16,11 @@ params:
     has_social: false
 disableKinds:
 - RSS
-- taxonomy
-- taxonomyTerm
 permalinks:
   posts: "/stories/:title/"
   sets: "/sets/:title/"
-
+taxonomies:
+  set: sets
 markup:
   goldmark:
     renderer:
