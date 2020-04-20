@@ -1,6 +1,13 @@
 ---
 title: Home
-sections: []
+sections:
+- template: intro
+  component: intro.html
+  type: intro
+  title: Hero title
+  section_id: ''
+  content: ''
+  actions: []
 layout: home
 image: ''
 menu:
