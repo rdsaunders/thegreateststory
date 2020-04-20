@@ -7,6 +7,11 @@ fields:
   config:
     required: false
   label: Title
+- name: period
+  type: text
+  config:
+    required: false
+  label: Period
 - name: excerpt
   type: textarea
   default: ''
