@@ -12,7 +12,7 @@ fields:
   name: subtitle
   label: Subtitle
   description: The subtitle as displayed on the physical card.
-- name: set
+- name: timeline
   type: select
   default: []
   config:
@@ -20,11 +20,11 @@ fields:
     options: []
     source:
       type: pages
-      section: sets
+      section: ''
       file: 
       path: 
-  label: Set
-  description: What set does this card belong to?
+  label: Timeline
+  description: What part of the timeline does this story belong to?
 - name: order
   type: number
   label: Display order
