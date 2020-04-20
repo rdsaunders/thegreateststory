@@ -24,7 +24,7 @@
                 <h2 class="set-title">{{ .Page.Params.title }}</h2>
 
                 {{ if .Page.Params.period }}
-                <div>({{ .Page.Params.period }})</div>
+                <div class="timeline-period">{{ .Page.Params.period }}</div>
                 {{ end }}
 
                 {{ if .Page.Params.excerpt }}
