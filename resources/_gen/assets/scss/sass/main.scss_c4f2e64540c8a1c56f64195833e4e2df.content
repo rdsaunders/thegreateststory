@@ -1045,7 +1045,11 @@ img {
     max-width: 28rem; } }
 
 .set-title {
-  margin-bottom: 0; }
+  margin-bottom: 0.25em; }
+
+.timeline-period {
+  font-size: 1rem;
+  font-weight: normal; }
 
 /**
  * Subscribe
