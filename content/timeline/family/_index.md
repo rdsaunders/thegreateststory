@@ -7,6 +7,6 @@ excerpt: As the world turned bad, God had a plan to put things right. He chose a
   tribes).
 title: Family
 period: 1800-1700 BC
-set_download: "/images/Set_ Family.pdf"
+set_download: "/images/set_family.pdf"
 
 ---

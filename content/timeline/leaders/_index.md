@@ -7,6 +7,6 @@ excerpt: God gave Israel leaders to help them live his way. Judges were wise war
   during this period.
 title: Leaders
 period: 1200-900 BC
-set_download: "/images/Set_ Leaders.pdf"
+set_download: "/images/set_leaders.pdf"
 
 ---
