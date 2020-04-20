@@ -31,6 +31,11 @@ fields:
     min: 
     max: 
     step: 
+- name: set_download
+  type: file
+  config:
+    maxSize: 250
+  label: Set download
 - name: colour
   type: color
   label: Colour
