@@ -407,3 +407,9 @@ img {
   width: 100vw;
   margin-left: calc(50% - 50vw);
 }
+
+.feedback {
+  padding: 1rem;
+  background-color: _palette(bg);
+  border-radius: 3px;
+}

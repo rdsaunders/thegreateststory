@@ -18,23 +18,15 @@
 }
 
 .social-links {
-  display: -ms-flexbox;
-  display: -webkit-flex;
   display: flex;
   margin-bottom: 0.83333rem;
 
   a {
-    -ms-flex-align: center;
-    -webkit-align-items: center;
     align-items: center;
     border: 0;
     color: inherit;
-    display: -ms-flexbox;
-    display: -webkit-flex;
     display: flex;
     height: 30px;
-    -ms-flex-pack: center;
-    -webkit-justify-content: center;
     justify-content: center;
     margin: 0 5% 0.83333em 0;
     width: 30px;
@@ -51,14 +43,10 @@
 
 @media only screen and (min-width: 601px) {
   .site-footer-inside {
-    display: -ms-flexbox;
-    display: -webkit-flex;
     display: flex;
   }
 
   .social-links {
-    -webkit-flex: 0 0 auto;
-    -ms-flex: 0 0 auto;
     flex: 0 0 auto;
     margin-left: auto;
 
