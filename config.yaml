@@ -27,8 +27,3 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-menu:
-  main:
-  - url: "/timeline/"
-    name: Bible timeline
-    weight: 2
