@@ -16,7 +16,7 @@ fields:
   name: component
   label: Component
   hidden: true
-  default: intro.html
+  default: hero.html
   config:
     required: true
 - type: textarea

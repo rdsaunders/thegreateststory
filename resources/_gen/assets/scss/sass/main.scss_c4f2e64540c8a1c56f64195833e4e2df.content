@@ -535,6 +535,13 @@ img {
   background-color: #f7f7f7;
   border-radius: 3px; }
 
+.row {
+  display: flex; }
+
+.col {
+  width: 50%;
+  max-width: 50%; }
+
 /**
  * Icons
  * ----------------------------------------------------------------------------

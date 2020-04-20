@@ -2,7 +2,7 @@
 title: Home
 sections:
 - template: hero
-  component: intro.html
+  component: hero.html
   type: intro
   title: Family Bible Course
   actions:

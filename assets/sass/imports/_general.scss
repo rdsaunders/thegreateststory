@@ -413,3 +413,12 @@ img {
   background-color: _palette(bg);
   border-radius: 3px;
 }
+
+.row {
+  display: flex;
+}
+
+.col {
+  width: 50%;
+  max-width: 50%;
+}
