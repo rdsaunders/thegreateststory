@@ -24,7 +24,7 @@ sections:
   label: Site content
 - type: document
   path: content/_index.md
-  label: Home
+  label: Homepage
   templates:
   - home
 - type: directory
