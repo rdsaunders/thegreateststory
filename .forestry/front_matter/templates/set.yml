@@ -1,5 +1,5 @@
 ---
-label: Set
+label: Timeline
 hide_body: true
 fields:
 - name: title
@@ -32,10 +32,3 @@ fields:
   config:
     required: false
     color_format: Hex
-- name: layout
-  type: text
-  config:
-    required: false
-  hidden: true
-  label: Layout
-  default: set
