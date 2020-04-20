@@ -35,11 +35,6 @@ sections:
   exclude: "{posts/**,timeline/**,_index.md,contact.md}"
   templates:
   - page
-- type: document
-  path: data/author.json
-  label: Author
-  templates:
-  - author
 - type: heading
   label: Configuration
 - type: document
