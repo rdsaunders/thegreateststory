@@ -1,0 +1,19 @@
+<div id="{{ .section.section_id }}" class="hero-block">
+
+  <div class="hero-title">
+    {{ partial "markdownify-block" .section.title }}
+  </div>
+
+  <div class="hero-textarea">
+    {{ partial "markdownify-block" .section.content }}
+  </div>
+  
+  {{ if .section.actions }}
+  <p class="intro-cta">
+    {{ range $action := .section.actions }}
+    <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
+    {{ end }}
+  </p>
+  {{ end }}
+
+</div><!-- .hero -->
