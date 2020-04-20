@@ -1,7 +1,7 @@
 {{ define "content" }}
 <div class="set-wrapper">
     {{ range .Pages.ByParam "order" }}
-      <div class="set">
+      <section class="set">
 
         <ul class="cards">
             {{ range .Data.Pages.ByParam "order" }}
@@ -32,7 +32,7 @@
             {{ end }}
         </header>
 
-      </div>
+      </section>
     {{ end }}
   </div>
 {{ end }}
