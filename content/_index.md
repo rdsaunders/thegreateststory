@@ -2,7 +2,7 @@
 title: Home
 sections: []
 layout: home
-image: "/images/storyline.png"
+image: ''
 menu:
   main:
     weight: 1
