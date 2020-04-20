@@ -6,5 +6,6 @@ excerpt: Exodus means “exit” or “way out”. It’s the story of God rescu
   slavery in Egypt, parting the Red Sea and bringing them into the Promised Land.
 title: Exodus
 period: 1300-1200 BC
+set_download: "/images/Set_ Exodus.pdf"
 
 ---
