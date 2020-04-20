@@ -9,11 +9,6 @@ fields:
     used.
   config:
     required: true
-- name: image
-  type: file
-  config:
-    maxSize: 250
-  label: Featured image
 - type: blocks
   name: sections
   label: Sections
