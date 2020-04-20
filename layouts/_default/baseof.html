@@ -1,7 +1,9 @@
 <!doctype html>
 <html lang="{{ .Site.Params.language | safeHTML }}">
     <head>    
-        
+        {{ if .Site.Params.google_analytics }}
+          {{ partial "google-analytics.html" . }}
+        {{ end }}
         <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />

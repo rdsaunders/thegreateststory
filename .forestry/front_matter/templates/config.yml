@@ -20,6 +20,10 @@ fields:
   config:
     required: true
   fields:
+  - type: text
+    name: google-analytics
+    label: Google Analytics
+    description: Add your google analytics ID here.
   - type: select
     name: layout_style
     label: Layout Style
