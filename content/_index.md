@@ -1,6 +1,15 @@
 ---
 title: Home
-sections: []
+sections:
+- template: hero
+  component: intro.html
+  type: intro
+  title: Family Bible Course
+  actions:
+  - label: Get started
+    url: "/get-started/"
+  section_id: ''
+  content: ''
 layout: home
 image: ''
 menu:
