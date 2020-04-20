@@ -8,6 +8,13 @@ sections:
   section_id: ''
   content: ''
   actions: []
+- template: intro
+  component: intro.html
+  type: intro
+  title: FAQ
+  section_id: ''
+  content: ''
+  actions: []
 layout: home
 image: ''
 menu:
