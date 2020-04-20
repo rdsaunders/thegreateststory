@@ -20,15 +20,15 @@ disableKinds:
 - RSS
 permalinks:
   posts: "/stories/:title/"
-  sets: "/sets/:title/"
+  timeline: "/timeline/:title/"
 taxonomies:
-  set: sets
+  timeline: timeline
 markup:
   goldmark:
     renderer:
       unsafe: true
 menu:
   main:
-  - url: "/sets/"
-    name: Sets
+  - url: "/timeline/"
+    name: Bible timeline
     weight: 2
