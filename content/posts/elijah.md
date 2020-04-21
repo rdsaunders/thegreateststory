@@ -1,5 +1,5 @@
 +++
-action = "**Find a quiet space and take some time to listen to God’s whisper.**\n\nTurn the tap on. Thank God for water. Shout three times “The Lord is God. We worship him!”"
+action = "\nTurn the tap on. Thank God for water. Shout three times “The Lord is God. We worship him!”"
 content_img_path = ""
 date = 2020-04-20T19:57:15Z
 excerpt = ""
