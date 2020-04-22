@@ -1,8 +1,8 @@
 ---
 title: Creation
 date: 2020-03-28T20:51:46.000+00:00
-thumb_img_path: "/images/Creation.png"
-content_img_path: "/images/page-timeline.png"
+thumb_img_path: "/uploads/Creation.png"
+content_img_path: "/uploads/page-timeline.png"
 excerpt: ''
 layout: post
 subtitle: God made it good
@@ -33,7 +33,7 @@ review: 'Have a look at the front of your first card. What is the picture about 
   what do the words say? '
 place: Finally - have a look at the back of your card. What does it say? You can now
   place your card onto your story line.
-qrcode: "/images/qr-creation.png"
+qrcode: "/uploads/qr-creation.png"
 timeline: 
 - beginnings
 ---

@@ -297,7 +297,7 @@ scroll-snap-type: x mandatory;
 
 .set {
   scroll-snap-align: start;
-
+  margin-bottom: 1rem;
 
 }
 .cards {
@@ -382,4 +382,8 @@ scroll-snap-type: x mandatory;
 .timeline-period {
   font-size: 1rem;
   font-weight: normal;
+}
+
+.post-image {
+  width: 200px;
 }
