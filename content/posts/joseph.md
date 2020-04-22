@@ -14,7 +14,7 @@ review = "Tell the story so far, using the cards from previous days along the st
 scripture = "Genesis 37:3, 50:19-21"
 subtitle = "God works it out"
 thumb_img_path = "/uploads/Joseph.png"
-timeline = "timeline/family/_index.md"
+timeline = "family"
 title = "Joseph"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/NQ7wLTBnF84\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 

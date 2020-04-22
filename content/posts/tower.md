@@ -36,7 +36,7 @@ review: |-
 
   Have a look at your next card...
 scripture: Genesis 11:4&9
-timeline: timeline/beginnings/_index.md
+timeline: "beginnings"
 subtitle: The people scatter
 thumb_img_path: "/uploads/Tower.png"
 title: Tower
