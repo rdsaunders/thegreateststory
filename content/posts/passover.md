@@ -13,7 +13,7 @@ read_scripture = "Moses called for all the leaders of Israel and said to them, â
 review = "Tell the story so far, using the cards from previous days along the storyline.\n\nNow take a look at the next cardâ€¦.."
 scripture = "Exodus 12:21-23"
 subtitle = "The blood of the lamb"
-thumb_img_path = "/uploads/Passover.png"
+thumb_img_path = "/uploads/passover.png"
 timeline = "exodus"
 title = "Passover"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1IwMt-KLkSE\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

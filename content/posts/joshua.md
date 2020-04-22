@@ -13,7 +13,7 @@ read_scripture = "And Joshua son of Nun and Caleb son of Jephunneh, two of the s
 review = "Tell the story so far, using the cards from previous days along the storyline.\n\nNow take a look at the next card…"
 scripture = "\rNumbers 14:6-9\r"
 subtitle = "The Promised Land"
-thumb_img_path = "/uploads/Joshua.png"
+thumb_img_path = "/uploads/joshua.png"
 timeline = "exodus"
 title = "Joshua"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/wUKWt46vubo\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

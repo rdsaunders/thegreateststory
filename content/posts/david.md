@@ -13,7 +13,7 @@ read_scripture = "Samuel saw Jesse's son Eliab and said to himself, “This man 
 review = "Tell the story so far, using the cards from previous days along the storyline. Now take a look at the next card... After the time of the Judges, Saul became Israel’s first ever king. But he let God down. So it was time to choose a new king."
 scripture = "1 Samuel 16:6-7, 13"
 subtitle = "A heart for God"
-thumb_img_path = "/uploads/David.png"
+thumb_img_path = "/uploads/king-david.png"
 timeline = "leaders"
 title = "King David"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OnNXbj6udy4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

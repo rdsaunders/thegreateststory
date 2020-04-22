@@ -13,7 +13,7 @@ read_scripture = "When the Lord saw that Moses was coming closer, he called to h
 review = "Tell the story so far, using the cards from previous days along the storyline.\n\nNow take a look at the next card…\n\nIt’s 400 years after Joseph. His extended family (who are now called the Israelites) stayed in Egypt and became a great nation. This scared Pharaoh."
 scripture = "Exodus 3:4,7, 10-12"
 subtitle = "The rescue plan"
-thumb_img_path = "/uploads/Moses.png"
+thumb_img_path = "/uploads/moses.png"
 timeline = "exodus"
 title = "Moses"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0eEHT6dCKbI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

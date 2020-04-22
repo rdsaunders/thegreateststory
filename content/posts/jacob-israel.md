@@ -13,7 +13,7 @@ read_scripture = "\n“What is your name?” the man asked.\n“Jacob,” he ans
 review = "Tell the story so far, using the cards from previous days along the storyline. Now take a look at the next card….. Abraham and Sarah’s baby, Isaac, grew up, got married and had twin boys, Isaac and Esau."
 scripture = "Genesis 32: 27-29"
 subtitle = "God gives a name"
-thumb_img_path = "/uploads/Jacob-Israel.png"
+thumb_img_path = "/uploads/jacob-israel.png"
 timeline = "family"
 title = "Jacob "
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0zIbU866z6A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

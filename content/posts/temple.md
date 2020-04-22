@@ -13,7 +13,7 @@ read_scripture = "[Solomon said to the people] ‘Now the LORD has kept his prom
 review = "Tell the story so far, using the cards from previous days along the storyline.\n\nNow take a look at the next card….."
 scripture = "I Kings 8:20-21"
 subtitle = "A home for God"
-thumb_img_path = "/uploads/Solomons-temple.png"
+thumb_img_path = "/uploads/solomons-temple.png"
 timeline = "leaders"
 title = "Solomon's Temple"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2n0N6iE3n30\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

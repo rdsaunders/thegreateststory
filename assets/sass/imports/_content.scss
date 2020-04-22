@@ -386,4 +386,17 @@ scroll-snap-type: x mandatory;
 
 .post-image {
   width: 200px;
+  border-radius: 0.25rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.ml-auto {
+  margin-left: auto;
+}
+
+.w-50 {
+  width: 50%;
 }

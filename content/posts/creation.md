@@ -1,7 +1,7 @@
 ---
 title: Creation
 date: 2020-03-28T20:51:46.000+00:00
-thumb_img_path: "/uploads/Creation.png"
+thumb_img_path: "/uploads/creation.png"
 content_img_path: "/uploads/page-timeline.png"
 excerpt: ''
 layout: post

@@ -3,9 +3,8 @@
   <article class="post post-full">
 
 
-    <header class="post-header row">
-
-      <div class="text col">
+    <header class="post-header flex">
+      <div class="">
       <h1 class="post-title">{{ .Params.title }}</h1>
       {{ if .Params.subtitle }}
       <div class="post-subtitle">
@@ -13,18 +12,18 @@
       </div><!-- .post-subtitle -->
       {{ end }}
       </div>
-      <div class="image col">
+      <div class="ml-auto">
         {{ if .Params.thumb_img_path }}
         <img class="post-image" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
         {{ end }}
       </div>
     </header><!-- .post-header -->
 
-    {{ if .Params.content_img_path }}
+    <!--{{ if .Params.content_img_path }}
     <div class="post-thumbnail">
       <img class="thumbnail" src="{{ .Params.content_img_path | relURL }}" alt="{{ .Params.title }}" />
     </div>
-    {{ end }}
+    {{ end }}-->
     {{ if .Params.review }}
     <div class="intro">
       <h2>Review it</h2>

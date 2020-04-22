@@ -5,7 +5,7 @@
                 {{ range .Pages.ByParam "order" }}
                     <li class="card">
                         <h3 class="card-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Params.title }}</a></h3>
-                        
+
                         {{ if .Params.thumb_img_path }}
                         <img class="card-image" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
                         {{ end }}
