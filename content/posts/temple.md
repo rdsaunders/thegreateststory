@@ -12,9 +12,9 @@ questions = "**King David loved to worship God and wrote many psalms. But it was
 read_scripture = "[Solomon said to the people] ‘Now the LORD has kept his promise. I have succeeded my father as king of Israel, and I have built the Temple for the worship of the LORD God of Israel. I have also provided a place in the Temple for the Covenant Box containing the stone tablets of the covenant which the LORD made with our ancestors when he brought them out of Egypt.”"
 review = "Tell the story so far, using the cards from previous days along the storyline.\n\nNow take a look at the next card….."
 scripture = "I Kings 8:20-21"
-timeline ="leaders"
 subtitle = "A home for God"
 thumb_img_path = "/uploads/Solomons-temple.png"
+timeline = "timeline/leaders/_index.md"
 title = "Solomon's Temple"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2n0N6iE3n30\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
