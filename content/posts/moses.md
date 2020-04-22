@@ -12,9 +12,9 @@ questions = "\n* When you were very small did your parents ever rescue you from 
 read_scripture = "When the Lord saw that Moses was coming closer, he called to him from the middle of the bush and said, “Moses! Moses!”\rHe answered, “Yes, here I am.”\r\rThen the Lord said, “I have seen how cruelly my people are being treated in Egypt; I have heard them cry out to be rescued from their slave drivers. I know all about their sufferings.\r\rNow I am sending you to the king of Egypt so that you can lead my people out of his country.”\rBut Moses said to God, “I am nobody. How can I go to the king and bring the Israelites out of Egypt?”\rGod answered, “I will be with you, and you will bring the people out of Egypt.” \r"
 review = "Tell the story so far, using the cards from previous days along the storyline.\n\nNow take a look at the next card…\n\nIt’s 400 years after Joseph. His extended family (who are now called the Israelites) stayed in Egypt and became a great nation. This scared Pharaoh."
 scripture = "Exodus 3:4,7, 10-12"
-timeline ="exodus"
 subtitle = "The rescue plan"
 thumb_img_path = "/uploads/Moses.png"
+timeline = "timeline/exile/_index.md"
 title = "Moses"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0eEHT6dCKbI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
