@@ -12,9 +12,9 @@ questions = "**The name Jacob means “trickster”.**\n\n* Why was his brother 
 read_scripture = "\n“What is your name?” the man asked.\n“Jacob,” he answered.\nThe man said, “Your name will no longer be Jacob. You have struggled with God and with men, and you have won; so your name will be Israel.”\n"
 review = "Tell the story so far, using the cards from previous days along the storyline. Now take a look at the next card….. Abraham and Sarah’s baby, Isaac, grew up, got married and had twin boys, Isaac and Esau."
 scripture = "Genesis 32: 27-29"
-timeline ="family"
 subtitle = "God gives a name"
 thumb_img_path = "/uploads/Jacob-Israel.png"
+timeline = "timeline/family/_index.md"
 title = "Jacob "
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0zIbU866z6A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
