@@ -14,7 +14,7 @@ review = "Tell the story so far, using the cards from previous days along the st
 scripture = "I Kings 8:20-21"
 subtitle = "A home for God"
 thumb_img_path = "/uploads/solomons-temple.png"
-timeline = "leaders"
+timeline = " Leaders"
 title = "Solomon's Temple"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2n0N6iE3n30\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
