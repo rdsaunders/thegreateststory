@@ -51,7 +51,7 @@ fields:
   hidden: true
 - type: file
   name: content_img_path
-  label: Timeline
+  label: Timeline visual
   description: The timeline and marker to display above a story
   hidden: false
 - name: review
