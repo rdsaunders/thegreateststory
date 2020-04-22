@@ -14,7 +14,6 @@ params:
   footer:
     content: "&copy; 2020 All rights reserved Andrew &amp; Charlotte Ollerton."
     links: []
-    has_social: false
   google-analytics: UA-164034709-1
 disableKinds:
 - RSS

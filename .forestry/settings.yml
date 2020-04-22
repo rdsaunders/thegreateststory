@@ -48,11 +48,6 @@ sections:
   templates:
   - subscribe
 - type: document
-  path: data/social.json
-  label: Social links
-  templates:
-  - social
-- type: document
   path: config.yaml
   label: Site configuration
   templates:

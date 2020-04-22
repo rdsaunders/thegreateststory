@@ -95,11 +95,6 @@ fields:
         default: true
       config:
         labelField: text
-    - type: boolean
-      name: has_social
-      label: Enable Social Links
-      description: Display social links in the footer.
-      default: true
 - type: list
   name: disableKinds
   label: Disable Kinds
