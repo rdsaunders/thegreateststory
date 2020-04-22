@@ -14,7 +14,7 @@ review = "\nGod rescued his people from slavery in Egypt by parting the Red Sea.
 scripture = "Exodus 20:1-4"
 subtitle = "The 10 Commands"
 thumb_img_path = "/uploads/Law.png"
-timeline = "exile"
+timeline = "exodus"
 title = "Law"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/aX28nAB4S7A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 

@@ -14,7 +14,7 @@ review = "Tell the story so far, using the cards from previous days along the st
 scripture = "Exodus 3:4,7, 10-12"
 subtitle = "The rescue plan"
 thumb_img_path = "/uploads/Moses.png"
-timeline = "exile"
+timeline = "exodus"
 title = "Moses"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0eEHT6dCKbI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
