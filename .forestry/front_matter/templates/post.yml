@@ -19,8 +19,8 @@ fields:
     required: false
     options: []
     source:
-      type: pages
-      section: ''
+      type: documents
+      section: sets
       file: 
       path: 
   label: Timeline
