@@ -47,8 +47,6 @@ fields:
       options:
       - green
       - blue
-      - black
-      - red
   - type: field_group
     name: header
     label: Header Configuration
