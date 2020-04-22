@@ -17,9 +17,17 @@ fields:
   default: []
   config:
     required: false
-    options: []
+    options:
+    - Family
+    - " Leaders"
+    - Exile
+    - Exodus
+    - Messengers
+    - Intro
+    - Outro
+    - Beginnings
     source:
-      type: pages
+      type: simple
       section: sets
       file: 
       path: 
