@@ -12,9 +12,9 @@ questions = "**In order for Pharaoh to let the Israelites leave Egypt, God had t
 read_scripture = "Moses called for all the leaders of Israel and said to them, “Each of you is to choose a lamb or a young goat and kill it, so that your families can celebrate Passover. Take a sprig of hyssop, dip it in the bowl containing the animal's blood, and wipe the blood on the doorposts and the beam above the door of your house. Not one of you is to leave the house until morning. When the LORD goes through Egypt to kill the Egyptians, he will see the blood on the beams and the doorposts and will not let the Angel of Death enter your houses… "
 review = "Tell the story so far, using the cards from previous days along the storyline.\n\nNow take a look at the next card….."
 scripture = "Exodus 12:21-23"
-timeline ="exodus"
 subtitle = "The blood of the lamb"
 thumb_img_path = "/uploads/Passover.png"
+timeline = "timeline/exile/_index.md"
 title = "Passover"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1IwMt-KLkSE\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
