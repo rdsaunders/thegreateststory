@@ -16,6 +16,6 @@ subtitle = "Idols v' God"
 thumb_img_path = ""
 timeline = "timeline/messengers/_index.md"
 title = "Elijah"
-watch = "https://youtu.be/2T5gAXoerjw"
+watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2T5gAXoerjw\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++
