@@ -12,9 +12,9 @@ questions = "* What would be your favourite place to live on planet earth and wh
 read_scripture = "And Joshua son of Nun and Caleb son of Jephunneh, two of the spies, tore their clothes in sorrow and said to the people, “The land we explored is an excellent land. If the LORD is pleased with us, he will take us there and give us that rich and fertile land. Do not rebel against the LORD and don't be afraid of the people who live there. We will conquer them easily. The LORD is with us and has defeated the gods who protected them; so don't be afraid.” "
 review = "Tell the story so far, using the cards from previous days along the storyline.\n\nNow take a look at the next card…"
 scripture = "\rNumbers 14:6-9\r"
-timeline ="exodus"
 subtitle = "The Promised Land"
 thumb_img_path = "/uploads/Joshua.png"
+timeline = "timeline/exile/_index.md"
 title = "Joshua"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/wUKWt46vubo\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
