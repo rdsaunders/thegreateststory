@@ -12,9 +12,9 @@ questions = "**After the time of the Judges, Saul became Israel’s first ever k
 read_scripture = "Samuel saw Jesse's son Eliab and said to himself, “This man standing here in the LORD's presence is surely the one he has chosen.” But the LORD said to Samuel, “Pay no attention to how tall and handsome he is. I have rejected him, because I do not judge as people judge. They look at the outward appearance, but I look at the heart.”\n \n1 Samuel 16:6-7\n\n\nSamuel took the olive oil and anointed David in front of his brothers. Immediately the Spirit of the LORD took control of David and was with him from that day on. \n\n1 Samuel 16:13\n"
 review = "Tell the story so far, using the cards from previous days along the storyline. Now take a look at the next card... After the time of the Judges, Saul became Israel’s first ever king. But he let God down. So it was time to choose a new king."
 scripture = "1 Samuel 16:6-7, 13"
-timeline ="leaders"
 subtitle = "A heart for God"
 thumb_img_path = "/uploads/David.png"
+timeline = "timeline/leaders/_index.md"
 title = "King David"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OnNXbj6udy4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
