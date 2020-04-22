@@ -12,9 +12,9 @@ questions = "* What sport or game do you most enjoy playing or watching?\n* Name
 read_scripture = "God spoke, and these were his words: “I am the Lord your God who brought you out of Egypt, where you were slaves.\n“Worship no god but me.\n“Do not make for yourselves images of anything in heaven or on earth or in the water under the earth.\n\n"
 review = "\nGod rescued his people from slavery in Egypt by parting the Red Sea. Now Israel must travel through the wilderness to the Promised Land (Canaan)."
 scripture = "Exodus 20:1-4"
-timeline ="exodus"
 subtitle = "The 10 Commands"
 thumb_img_path = "/uploads/Law.png"
+timeline = "timeline/exile/_index.md"
 title = "Law"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/aX28nAB4S7A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
