@@ -12,9 +12,9 @@ questions = "**Joshua led Israel into the Promised Land and they settled down. B
 read_scripture = "\n\nThe LORD's angel appeared to Gideon and said, “The LORD is with you, brave and mighty man!”\nGideon said to him, “If I may ask, sir, why has all this happened to us if the LORD is with us? What about all the wonderful things that our fathers told us the LORD used to do — how he brought them out of Egypt? The LORD has abandoned us and left us to the mercy of the Midianites.”\nThen the LORD ordered him, “Go with all your great strength and rescue Israel from the Midianites. I myself am sending you.”\n"
 review = "Tell the story so far, using the cards from previous days along the storyline.\n\nNow take a look at the next card….."
 scripture = "Judges 6:12-14"
-timeline ="leaders"
 subtitle = "Israel gets stuck "
 thumb_img_path = "/uploads/judge-gideon.png"
+timeline = " Leaders"
 title = "Judge Gideon"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/U68cIMZSgvQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
