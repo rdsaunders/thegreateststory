@@ -12,9 +12,9 @@ questions = "Which is your favorite piece of clothing and why?\n\n**Joseph’s f
 read_scripture = "Jacob loved Joseph more than all his other sons, because he had been born to him when he was old. He made a long robe with full sleeves for him.\nBut Joseph said to [his brothers], “Don't be afraid; I can't put myself in the place of God. You plotted evil against me, but God turned it into good, in order to preserve the lives of many people who are alive today because of what happened. You have nothing to fear. I will take care of you and your children.” So he reassured them with kind words that touched their hearts.\n\n\n\n"
 review = "Tell the story so far, using the cards from previous days along the storyline.\n\nNow take a look at the next card….."
 scripture = "Genesis 37:3, 50:19-21"
-timeline ="family"
 subtitle = "God works it out"
 thumb_img_path = "/uploads/Joseph.png"
+timeline = "timeline/family/_index.md"
 title = "Joseph"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/NQ7wLTBnF84\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
