@@ -14,7 +14,7 @@ review = "Tell the story so far, using the cards from previous days along the st
 scripture = " 1 Kings 17:1 1 Kings 18:20-21"
 subtitle = "Idols v' God"
 thumb_img_path = ""
-timeline = "timeline/messengers/_index.md"
+timeline = "messengers"
 title = "Elijah"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2T5gAXoerjw\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
