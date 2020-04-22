@@ -15,7 +15,7 @@ review = "Tell the story so far, using the cards from previous days along the st
 scripture = "Jonah 1:1-3, 2:10-3:2"
 subtitle = "Second chances"
 thumb_img_path = ""
-timeline = "timeline/messengers/_index.md"
+timeline = "Messengers"
 title = "Jonah "
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jO2QsF_nnIU\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n"
 
