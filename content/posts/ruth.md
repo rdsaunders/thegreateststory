@@ -14,7 +14,7 @@ review = "Tell the story so far, using the cards from previous days along the st
 scripture = "Ruth 1:16, 4:13-14"
 subtitle = "Joining God's family"
 thumb_img_path = "/uploads/ruth.png"
-timeline = "leaders"
+timeline = " Leaders"
 title = "Ruth"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/irThVpdeSXk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
