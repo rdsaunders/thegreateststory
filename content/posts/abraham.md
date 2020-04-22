@@ -12,9 +12,9 @@ questions = "**God promised Abraham a massive family that, in time, would bless 
 read_scripture = "The LORD said to Abram, “Leave your country, your relatives, and your father's home, and go to a land that I am going to show you. I will give you many descendants, and they will become a great nation. I will bless you and make your name famous, so that you will be a blessing.\nI will bless those who bless you,\nBut I will curse those who curse you.\nAnd through you I will bless all the nations.”\n"
 review = "Tell the story so far, using the cards from previous days along the storyline.\n\nHave a look at your next card..."
 scripture = "Genesis 12:1-3"
-timeline = "family"
 subtitle = "God makes a promise"
 thumb_img_path = "/uploads/Abraham.png"
+timeline = "timeline/family/_index.md"
 title = "Abraham "
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/NdqrwGJYePQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
