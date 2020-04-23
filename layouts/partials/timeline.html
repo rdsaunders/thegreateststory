@@ -7,7 +7,29 @@
 
     {{ range sort .Site.Taxonomies.timeline ".Page.Params.order" "asc" }}
         <section class="set set-{{ lower .Page.Params.title }}">
+            
+            <div class="timeline-bar">
+                <div class="timeline-marker"></div>
+            </div>
+           
             <ul class="cards">
+                <li class="card card-marker">
+                    <div class="card-marker--inner">    
+                        <div>
+                        <h3 class="set-title">{{ .Page.Params.title }}</h3>
+                        
+                        {{ if .Page.Params.period }}
+                        <p class="set-period">{{ .Page.Params.period }}</p>
+                        {{end}}
+
+                        {{ if .Page.Params.set_download }}
+                        <a href="{{.Page.Params.set_download}}">Download set</a>
+                        {{ end }}
+                        </div>
+                    </div>                
+                </li>
+
+               
                 {{ range .Pages.ByParam "order" }}
                     <li class="card">
                         <h3 class="card-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Params.title }}</a></h3>
@@ -23,10 +45,7 @@
                 {{ end }}
             </ul>
 
-            <div class="timeline-bar" style="background-color: {{ .Page.Params.colour }};">
-
-            <div style="background-color: #ffffff; width: 1.5em; height: 1.5em; border-radius: 1em; display: block; position: relative; top: -0.5em; left: -0.75em; border: 1px solid #5e5e5e"></div>
-            </div>
+            <!--
         
             <header>
 
@@ -42,7 +61,7 @@
                     <a href="{{.Page.Params.set_download}}">Download set</a>
                 </div>
                 {{ end }}
-            </header>
+            </header>-->
         </section>
     {{ end }}
 </div>

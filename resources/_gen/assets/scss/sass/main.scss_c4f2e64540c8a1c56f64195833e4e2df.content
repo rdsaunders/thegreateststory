@@ -842,8 +842,7 @@ img {
 .post-card {
   height: 100%;
   flex: 0 0 80%;
-  margin: 0 0.5rem 0 0.5rem;
-  scroll-snap-align: center; }
+  margin: 0 0.5rem 0 0.5rem; }
 
 .post-card {
   margin-bottom: 4vw; }
@@ -984,11 +983,10 @@ img {
   flex-wrap: nowrap;
   overflow-x: scroll;
   -webkit-overflow-scrolling: touch;
-  scroll-snap-type: x mandatory;
+  scroll-snap-type: x proximity;
   padding: 0 1.5em; }
 
 .set {
-  scroll-snap-align: center;
   margin-bottom: 2rem; }
 
 .cards {
@@ -997,14 +995,15 @@ img {
   margin: 0.5rem 0;
   position: relative;
   list-style-type: none;
-  padding: 0; }
+  padding: 0;
+  scroll-snap-align: start; }
 
 .card {
   width: 11em;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
   text-align: center;
-  border: 1px solid #A5D3FD;
+  border: 2px solid #A5D3FD;
   padding: 0.75rem;
   border-radius: 0.33rem;
   position: relative; }
@@ -1078,8 +1077,65 @@ img {
 
 .timeline-bar {
   width: 100%;
-  height: 0.5em;
-  margin-bottom: 0.5em; }
+  height: 0.75em;
+  margin: 2em 0;
+  border-radius: 1em; }
+
+.timeline-marker {
+  background-color: #ffffff;
+  width: 1.5em;
+  height: 1.5em;
+  border-radius: 2em;
+  display: block;
+  position: relative;
+  top: -0.5em;
+  left: -0.75em;
+  border: 2px solid #5e5e5e; }
+
+.set-beginnings .timeline-bar {
+  background-color: #085c08; }
+
+.set-beginnings .card {
+  border-color: #085c08; }
+
+.set-family .timeline-bar {
+  background-color: #f4e006; }
+
+.set-family .card {
+  border-color: #f4e006; }
+
+.set-exodus .timeline-bar {
+  background-color: #da0909; }
+
+.set-exodus .card {
+  border-color: #da0909; }
+
+.set-leaders .timeline-bar {
+  background-color: #7b037b; }
+
+.set-leaders .card {
+  border-color: #7b037b; }
+
+.set-messengers .timeline-bar {
+  background-color: #ff9900; }
+
+.set-messengers .card {
+  border-color: #ff9900; }
+
+.set-exile .timeline-bar {
+  background-color: grey; }
+
+.set-exile .card {
+  border-color: grey; }
+
+.card-marker {
+  display: flex;
+  align-items: flex-end;
+  border-top-width: 1em;
+  width: 7em; }
+
+.card-marker--inner {
+  text-align: left; }
 
 /**
  * Subscribe

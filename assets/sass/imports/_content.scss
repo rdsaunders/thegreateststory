@@ -69,7 +69,7 @@ scroll-snap-type: x mandatory;
   height: 100%;
   flex: 0 0 80%;
   margin: 0 0.5rem 0 0.5rem;
-  scroll-snap-align: center;
+  //scroll-snap-align: center;
 
 } 
 
@@ -291,12 +291,11 @@ scroll-snap-type: x mandatory;
   flex-wrap: nowrap;
   overflow-x: scroll;
   -webkit-overflow-scrolling: touch;
-  scroll-snap-type: x mandatory;
+  scroll-snap-type: x proximity;
   padding: 0 1.5em;
 }
 
 .set {
-  scroll-snap-align: center;
   margin-bottom: 2rem;
 
 }
@@ -307,6 +306,8 @@ scroll-snap-type: x mandatory;
   position: relative;
   list-style-type: none;
   padding: 0;
+  scroll-snap-align: start;
+
 }
 
 .card {
@@ -314,7 +315,7 @@ scroll-snap-type: x mandatory;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
   text-align: center;
-  border: 1px solid #A5D3FD;
+  border: 2px solid #A5D3FD;
   padding: 0.75rem;
   border-radius: 0.33rem;
   position: relative;
@@ -406,26 +407,89 @@ scroll-snap-type: x mandatory;
 .scrolls {
   text-align: center;
 }
+
+
 .timeline-bar {
   width: 100%; 
-  height: 0.5em; 
-  margin-bottom: 0.5em;
+  height: 0.75em; 
+  margin: 2em 0;
+  border-radius: 1em;
+}
+
+.timeline-marker {
+  background-color: #ffffff;
+  width: 1.5em;
+  height: 1.5em;
+  border-radius: 2em;
+  display: block;
+  position: relative;
+  top: -0.5em;
+  left: -0.75em;
+  border: 2px solid #5e5e5e;
 }
 
 .set-beginnings {
-}
-.set-family {}
+  .timeline-bar {
+    background-color: _palette(beginnings);
+  }
 
+  .card {
+    border-color: _palette(beginnings);
+  }
+}
+.set-family {
+  .timeline-bar {
+    background-color: _palette(family);
+  }
+
+  .card {
+    border-color: _palette(family);
+  }
+}
 .set-exodus {
-}
+  .timeline-bar {
+    background-color: _palette(exodus);
+  }
 
+  .card {
+    border-color: _palette(exodus);
+  }
+}
 .set-leaders {
+  .timeline-bar {
+    background-color: _palette(leaders);
+  }
 
+  .card {
+    border-color: _palette(leaders);
+  }
 }
-
 .set-messengers {
+  .timeline-bar {
+    background-color: _palette(messengers);
+  }
 
+  .card {
+    border-color: _palette(messengers);
+  }
 }
 .set-exile {
+  .timeline-bar {
+    background-color: _palette(exile);
+  }
 
+  .card {
+    border-color: _palette(exile);
+  }
+}
+
+.card-marker {
+  display: flex;
+  align-items: flex-end;
+  border-top-width: 1em;
+  width: 7em;
+}
+
+.card-marker--inner {
+  text-align: left;
 }

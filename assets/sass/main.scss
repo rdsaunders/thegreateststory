@@ -13,6 +13,13 @@ $palette: (
   bg:            lighten(#5e5e5e, 60%),
   accent:        #3cb464,
   accent-blue:   #016fd6,
+  beginnings:    rgb(8, 92, 8),
+  family:        rgb(244, 224, 6),
+  exodus:        rgb(218, 9, 9),
+  leaders:       rgb(123, 3, 123),
+  messengers:    rgb(255, 153, 0),
+  exile:         grey,
+
 );
 
 @import "imports/functions";
