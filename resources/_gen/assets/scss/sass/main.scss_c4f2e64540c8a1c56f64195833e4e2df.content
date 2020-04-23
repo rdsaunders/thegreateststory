@@ -1011,11 +1011,11 @@ img {
 .card a {
   outline: none; }
 
-.card h3 a {
+.card a {
   text-decoration: none;
   border: none; }
 
-.card h3 a::after {
+.card a::after {
   content: '';
   position: absolute;
   left: 0;
@@ -1023,7 +1023,7 @@ img {
   right: 0;
   bottom: 0; }
 
-.card h2 a:focus {
+.card a:focus {
   outline: none;
   text-decoration: underline; }
 
