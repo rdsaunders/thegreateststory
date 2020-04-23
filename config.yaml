@@ -12,8 +12,11 @@ params:
     logo_img: 
     has_nav: true
   footer:
-    content: "&copy; 2020 All rights reserved Andrew &amp; Charlotte Ollerton."
-    links: []
+    content: "&copy; 2020 Andrew &amp; Charlotte Ollerton."
+    links:
+    - text: The Bible Course
+      url: https://www.biblesociety.org.uk/explore-the-bible/the-bible-course/
+      new_window: true
   google-analytics: UA-164034709-1
 disableKinds:
 - RSS
