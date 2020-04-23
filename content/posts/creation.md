@@ -29,9 +29,14 @@ questions: |-
 
   * How can we do this? Genesis 1 v.28
 scripture: Genesis 1:27-28
-prayer: "Dear God,\n\nThank you that you love us and you made this wonderful world
-  for us to enjoy. Help us to be like you. Help us to care for our world. \n\nAmen\n\n_And
-  you could thank God for something that he has made._"
+prayer: |-
+  Dear God,
+
+  Thank you that you love us and you made this wonderful world for us to enjoy. Help us to be like you. Help us to care for our world.
+
+  Amen
+
+  Pray it +  Thank God for some things that he has made.
 action: Keep your eyes peeled – what could you say “wow” about that God has made?
 watch: <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZPfCWV81pE"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
