@@ -5,7 +5,7 @@ date = 2020-04-20T11:13:48Z
 draft = true
 excerpt = ""
 layout = "post"
-order = 0
+order = nil
 place = "You can place the “Beginnings” marker at the start of your story line."
 prayer = "Dear God,\n\nThank you that you are the author of the greatest story ever. Thank you that you sent Jesus to be the hero. Please help us and we find out more about this story and as we learn about playing our part.\n\nAmen"
 qrcode = ""
@@ -15,7 +15,7 @@ review = "**What is the greatest story you have ever read or watched?**\n\nWe be
 scripture = "Genesis 1:1 Rev 21:1a, 3/4/5"
 subtitle = "Introduction "
 thumb_img_path = ""
-timeline = []
+timeline = ""
 title = "The Greatest Story Ever"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ebrbdbXzMrg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
