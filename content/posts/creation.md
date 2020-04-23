@@ -7,15 +7,27 @@ excerpt: ''
 layout: post
 subtitle: God made it good
 questions: |-
-  **God made everything for us to enjoy and said it was good.**
+  **The creation story tells us that God made everything for us to enjoy.**
 
-  * What is your favourite animal?
-  * What is your favourite fruit?
-  * What is your favourite sport or hobby?
+  * What is your favourite animal or bird?
+  * What is your favourite fruit or vegetable?
+
+  **God created time, land, seasons, light, landscapes, plants and living creatures.**
+
   * Of all the things God made, what was his favourite?
+
+  **People were his very best and favourite creation. He made us with amazing abilities, skills and talents.**
+
+  * What are you really good at doing?
+  * What is your favourite sport or hobby?
   * How does it make you feel to know that you’re God’s favourite and he loves you?
-  * What do you think it means that we are like God? v.27 _(Move the conversation away from talking about physical characteristics and talk about personality and abilities.)_
-  * God told Adam and Eve to care for the world that he had made for them. How can we do this? v.28
+  * What do you think it means that we are like God? Genesis 1 v.27
+
+    _(Move the conversation away from talking about physical characteristics and talk about personality and abilities.)_
+
+  **God told Adam and Eve to care for the world that he had made for them.**
+
+  * How can we do this? Genesis 1 v.28
 scripture: Genesis 1:27-28
 prayer: "Dear God,\n\nThank you that you love us and you made this wonderful world
   for us to enjoy. Help us to be like you. Help us to care for our world. \n\nAmen\n\n_And
