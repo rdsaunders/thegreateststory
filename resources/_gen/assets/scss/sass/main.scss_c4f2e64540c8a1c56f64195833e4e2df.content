@@ -650,6 +650,12 @@ img {
     .site-content {
       padding-bottom: 3.33333em;
       padding-top: 3.33333em; } }
+.page-home .site-content {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2vw;
+  padding-right: 2vw; }
+
 .intro,
 .post-full .post-header,
 .post-full .post-subtitle,
@@ -978,11 +984,12 @@ img {
   flex-wrap: nowrap;
   overflow-x: scroll;
   -webkit-overflow-scrolling: touch;
-  scroll-snap-type: x mandatory; }
+  scroll-snap-type: x mandatory;
+  padding: 0 1.5em; }
 
 .set {
-  scroll-snap-align: start;
-  margin-bottom: 1rem; }
+  scroll-snap-align: center;
+  margin-bottom: 2rem; }
 
 .cards {
   display: flex;
@@ -993,7 +1000,7 @@ img {
   padding: 0; }
 
 .card {
-  width: 12rem;
+  width: 11em;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
   text-align: center;
@@ -1027,6 +1034,9 @@ img {
 
 .card:focus-within h2 a:focus {
   text-decoration: none; }
+
+.card-title {
+  font-size: 1.2em; }
 
 .card-subtitle {
   margin-bottom: 0; }
@@ -1065,6 +1075,11 @@ img {
 
 .scrolls {
   text-align: center; }
+
+.timeline-bar {
+  width: 100%;
+  height: 0.5em;
+  margin-bottom: 0.5em; }
 
 /**
  * Subscribe

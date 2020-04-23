@@ -292,12 +292,12 @@ scroll-snap-type: x mandatory;
   overflow-x: scroll;
   -webkit-overflow-scrolling: touch;
   scroll-snap-type: x mandatory;
-
+  padding: 0 1.5em;
 }
 
 .set {
-  scroll-snap-align: start;
-  margin-bottom: 1rem;
+  scroll-snap-align: center;
+  margin-bottom: 2rem;
 
 }
 .cards {
@@ -310,7 +310,7 @@ scroll-snap-type: x mandatory;
 }
 
 .card {
-  width: 12rem;
+  width: 11em;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
   text-align: center;
@@ -352,6 +352,9 @@ scroll-snap-type: x mandatory;
   text-decoration: none;
 }
 
+.card-title {
+  font-size: 1.2em;
+}
 
 
 .card-subtitle {
@@ -361,7 +364,6 @@ scroll-snap-type: x mandatory;
 .card-image {
   margin-bottom: 0.5rem;
   border-radius: 0.25rem;
-
 }
 
 .set-excerpt {
@@ -403,4 +405,27 @@ scroll-snap-type: x mandatory;
 
 .scrolls {
   text-align: center;
+}
+.timeline-bar {
+  width: 100%; 
+  height: 0.5em; 
+  margin-bottom: 0.5em;
+}
+
+.set-beginnings {
+}
+.set-family {}
+
+.set-exodus {
+}
+
+.set-leaders {
+
+}
+
+.set-messengers {
+
+}
+.set-exile {
+
 }

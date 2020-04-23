@@ -6,7 +6,7 @@
 <div class="set-wrapper">
 
     {{ range sort .Site.Taxonomies.timeline ".Page.Params.order" "asc" }}
-        <section class="set">
+        <section class="set set-{{ lower .Page.Params.title }}">
             <ul class="cards">
                 {{ range .Pages.ByParam "order" }}
                     <li class="card">
@@ -23,7 +23,10 @@
                 {{ end }}
             </ul>
 
-            <div style="background-color: {{ .Page.Params.colour }}; width: 100%; height: 0.5em; margin-bottom: 0.5em;"></div>
+            <div class="timeline-bar" style="background-color: {{ .Page.Params.colour }};">
+
+            <div style="background-color: #ffffff; width: 1.5em; height: 1.5em; border-radius: 1em; display: block; position: relative; top: -0.5em; left: -0.75em; border: 1px solid #5e5e5e"></div>
+            </div>
         
             <header>
 

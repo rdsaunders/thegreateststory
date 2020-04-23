@@ -13,6 +13,8 @@
   max-width: 1140px;
 }
 
+
+
 .site-header,
 .site-content,
 .subscribe,
@@ -29,6 +31,14 @@
     padding-bottom: 3.33333em;
     padding-top: 3.33333em;
   }
+}
+.page-home {
+  .site-content {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2vw;
+    padding-right: 2vw;
+  } 
 }
 
 .intro,

@@ -19,12 +19,12 @@
     </head>
     <body>
         
-        <div id="page" class="site layout-{{ .Site.Params.layout_style }} palette-{{ .Site.Params.palette }}">
+        <div id="page" class="site layout-{{ .Site.Params.layout_style }} palette-{{ .Site.Params.palette }} {{ if eq .Params.layout "home" }}page-home{{ end }}">
         
             {{ partial "header.html" . }}
         
             <div id="content" class="site-content">
-              <main id="main" class="site-main inner">
+              <main id="main" class="site-main {{ if ne .Params.layout "home" }}inner{{ end }} ">
         
                 {{ block "content" . }}{{ end }}
         
