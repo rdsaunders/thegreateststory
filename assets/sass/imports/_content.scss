@@ -301,7 +301,7 @@ scroll-snap-type: x mandatory;
 }
 .cards {
   display: flex;
-  min-height: 20rem;
+  min-height: 21rem;
   margin: 0.5rem 0;
   position: relative;
   list-style-type: none;
@@ -427,6 +427,15 @@ scroll-snap-type: x mandatory;
   left: -0.75em;
   border: 2px solid #5e5e5e;
 }
+.set-intro {
+  .timeline-bar {
+    background-color: _palette(intro);
+  }
+
+  .card {
+    border-color: _palette(intro);
+  }
+}
 
 .set-beginnings {
   .timeline-bar {
@@ -492,4 +501,17 @@ scroll-snap-type: x mandatory;
 
 .card-marker--inner {
   text-align: left;
+}
+.set-outro {
+  .timeline-bar {
+    background-color: _palette(outro);
+  }
+
+  .card {
+    border-color: _palette(outro);
+  }
+}
+
+.set-period {
+  margin-bottom: 0;
 }

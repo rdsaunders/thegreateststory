@@ -991,7 +991,7 @@ img {
 
 .cards {
   display: flex;
-  min-height: 20rem;
+  min-height: 21rem;
   margin: 0.5rem 0;
   position: relative;
   list-style-type: none;
@@ -1092,6 +1092,12 @@ img {
   left: -0.75em;
   border: 2px solid #5e5e5e; }
 
+.set-intro .timeline-bar {
+  background-color: #016fd6; }
+
+.set-intro .card {
+  border-color: #016fd6; }
+
 .set-beginnings .timeline-bar {
   background-color: #085c08; }
 
@@ -1136,6 +1142,9 @@ img {
 
 .card-marker--inner {
   text-align: left; }
+
+.set-period {
+  margin-bottom: 0; }
 
 /**
  * Subscribe
