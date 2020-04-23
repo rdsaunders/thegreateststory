@@ -8,25 +8,20 @@ layout: post
 order: 2
 place: Finally - have a look at the back of your card. What does it say? You can now
   place your card onto your story line.
-prayer: |-
-  Dear God,
-
-  Thank you that you love us even when we disobey you. Please help us not to give in to temptation but to make good choices.
-
-  Amen
+prayer: "Dear God,\n\nThank you that you care for us and know what is best for us.
+  \ Thank you that you love us even when we disobey you. Please help us to do what
+  you ask and not give in to temptation. Give us wisdom to make good choices.\n\nAmen\n\nPray
+  it+    Tell the Lord about something that you find especially tempting and ask him
+  for his help. "
 qrcode: "/uploads/qr-temptation.png"
-questions: |-
-  **Even in a perfect world there were rules.**
-
-  * What kind of rules do you have to follow?
-  * What rule did God give Adam and Eve and why? v.3
-
-  **Adam and Eve were tempted to disobey God and they made a bad choice when they ate the fruit.**
-
-  * What were the consequences that followed?
-  * Why is life so much better if we do what God tells us?
-  * In what ways are we sometimes tempted to make bad choices?
-  * What good choices can we make this week?
+questions: "**Even in a perfect world there were rules.**\n\n* What kind of rules
+  do you have to follow? Why?\n* What rule did God give Adam and Eve and why? v.3\n\n**Adam
+  and Eve were tempted to disobey God and they made a bad choice when they ate the
+  fruit.**\n\n* What were the consequences that followed?\n* Why is life so much better
+  if we do what God tells us?\n\n**The snake tempted Eve by telling her lies and questioning
+  what God had said was true. Eve was weak and gave in. Adam then followed.** \n\n*
+  In what ways and when are we sometimes tempted to make bad choices?\n* What good
+  choices can we make this week? How could we ensure we make good choices this week?"
 read_scripture: |
   Now the snake was the most cunning animal that the LORD God had made. The snake asked the woman, “Did God really tell you not to eat fruit from any tree in the garden?”
   “We may eat the fruit of any tree in the garden,” the woman answered, “except the tree in the middle of it. God told us not to eat the fruit of that tree or even touch it; if we do, we will die.”
