@@ -13,6 +13,8 @@ prayer: |-
   Thank you for giving us brains to think with and hands to make with. We want to use them to make your name great and to please you. Please help us.
 
   Amen
+
+  Pray it +   Thank God for something your brain or hands are good at doing and ask him to help you to use it for his fame.
 qrcode: "/uploads/qr-tower.png"
 questions: |-
   * How many languages can you all say “Hello” in?
