@@ -13,12 +13,33 @@ menu:
 
 <div class="full-bleed"><iframe width="560" height="315" src="https://www.youtube.com/embed/ahpCe-ugFAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-The Greatest Story Ever provides session plans that last 10-15 min based on a key character or event in the Bible. Each session is linked to a card that can be hung over a string storyline or stood up on a surface, forming a visual guide for where each story fits into the BIG picture. The card also tags to a webpage of content that provides the session plan. Scan the QR code with your mobile device or tablet to get there. Each session follows the same pattern:
+## Steps to get setup
 
-1. **REVIEW IT**: ask one of the children to talk through the story so far based on the cards currently displayed on your storyline.
-2. **WATCH IT**: scan the QR code to get onto the webpage and watch the video.
-3. **READ IT**: this short Bible reading could be read a couple of times. We encourage you to find it in a hard copy of the Bible too.
-4. **QUIZ IT**: talk through the questions on the webpage to discuss the story and how it applies to us. This should take about 5 mins so keep it moving!
-5. **PRAY IT**: invite everyone to close their eyes as we turn to God. Read the prayer on the webpage. Then invite others to pray in their own words.
-6. **DO IT**: read this final sentence to give a punchy application to the session
-7. **PLACE IT**: Give the session card to one of the children. Ask them to read the summary on the back and then place it on the storyline with the other cards.
+* **Find a slot each day**: About 15 mins. We did it after breakfast. But before bedtime could work well. Same time each day really helps. Before Joe Wicks?
+* **Do the intro session**: This gives an overview of The Greatest Story Ever and gives a feel for how a session works. There’s no physical card for this one. \[INTRO SESSION LINK\].
+* **Print and chop the cards**: below are the 10 set cards. Click on each to print the pdf in colour and on white card. Each has an overall set marker and the story cards. Guillotine each. Then buy some new ink cartridges!
+* **Setup a new storyline**: The cards could stand up on a window sill but we used some string and some small Suction Cups (that’s actually a thing. Search on Amazon). So our storyline is strung up across the kitchen window.
+* **Find a bible**: we used the Good News Version
+
+## Sets of cards to print
+
+The Greatest Story Ever has 40 sessions that are arranged into 10 sets. To get started print the ‘Beginnings’ pdf. Then the rest as and when.
+
+* [Beginnings](https://app.forestry.io/sites/y3kzbwlvpanzca/body-media//uploads/set_beginnings.pdf "Beginnings")
+* Family
+* Exodus
+* Leaders
+* Messengers
+* Exile
+
+## How each session works
+
+The physical cards tag to the online content through a QR code. Point your camera phone at the QR code and the link should pop up. Each session then follows the same pattern:
+
+* **Review it**: someone talks through the cards on the storyline to give a quick recap.
+* **Watch it**: scan the QR code to get onto the webpage and watch the video. We really love these God’s Story videos by Crossroads Kids’ Club and we’re grateful we can share them via YouTube.
+* **Read it**: on the webpage there’s a short Bible reading. We encourage you to find it in a hard copy of the Bible too.
+* **Quiz it**: talk through the questions on the webpage. The first question is more of a warm up. Some questions are fact finding others more applied and personal. The sentences in bold give some important links so read them out too. This should take about 7 mins so keep it moving! If you can’t work out what a question is getting at just move and let us know it didn’t land.
+* **Pray it:** Take a moment to be still. Read the prayer on the webpage. Pray It + gives suggestions for more prayer time as a family.
+* **Do it:** this final suggestion gives a punchy and practical application
+* **Place it:** Give the session card to one of the kids. Ask them to read the summary info on the back and then place it on the storyline.
