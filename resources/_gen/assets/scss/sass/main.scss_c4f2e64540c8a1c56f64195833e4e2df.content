@@ -1115,33 +1115,36 @@ img {
   margin-right: auto;
   justify-content: center;
   margin-bottom: 1.5rem;
-  margin-top: 1.5rem; }
+  margin-top: 1.5rem;
+  text-align: center; }
 
 .nav-timeline-item {
   border-bottom: 8px solid transparent; }
-  .nav-timeline-item.set-intro, .nav-timeline-item.set-outro {
-    border-bottom-color: #016fd6; }
-  .nav-timeline-item.set-beginnings, .nav-timeline-item.set-home {
-    border-bottom-color: #4FBB7D; }
-  .nav-timeline-item.set-family {
-    border-bottom-color: #F5E411; }
-  .nav-timeline-item.set-exodus {
-    border-bottom-color: #E14430; }
-  .nav-timeline-item.set-leaders {
-    border-bottom-color: #8438B7; }
-  .nav-timeline-item.set-messengers {
-    border-bottom-color: #FFA217; }
-  .nav-timeline-item.set-exile {
-    border-bottom-color: #CE820F; }
-  .nav-timeline-item.set-jesus {
-    border-bottom-color: #30C2E2; }
-  .nav-timeline-item.set-rescue {
-    border-bottom-color: #016fd6; }
-  .nav-timeline-item.set-mission {
-    border-bottom-color: #F10B7A; }
   .nav-timeline-item a {
-    border: none;
-    padding: 0 0.5rem; }
+    border-width: 8px;
+    padding: 0.5rem 0.75rem; }
+  .nav-timeline-item a:hover {
+    opacity: 0.5; }
+  .nav-timeline-item.set-intro, .nav-timeline-item.set-outro {
+    display: none; }
+  .nav-timeline-item.set-beginnings a, .nav-timeline-item.set-home a {
+    border-color: #4FBB7D; }
+  .nav-timeline-item.set-family a {
+    border-color: #F5E411; }
+  .nav-timeline-item.set-exodus a {
+    border-color: #E14430; }
+  .nav-timeline-item.set-leaders a {
+    border-color: #8438B7; }
+  .nav-timeline-item.set-messengers a {
+    border-color: #FFA217; }
+  .nav-timeline-item.set-exile a {
+    border-color: #CE820F; }
+  .nav-timeline-item.set-jesus a {
+    border-color: #30C2E2; }
+  .nav-timeline-item.set-rescue a {
+    border-color: #016fd6; }
+  .nav-timeline-item.set-mission a {
+    border-color: #F10B7A; }
 
 .timeline-bar {
   width: 100%;
@@ -1255,11 +1258,12 @@ img {
 
 .timeline-logo-item {
   display: block;
-  width: 5em;
+  width: 6vw;
   height: 1em;
-  border-bottom: 8px solid transparent; }
+  border-bottom: 8px solid transparent;
+  margin-bottom: 0.75em; }
   .timeline-logo-item.set-intro, .timeline-logo-item.set-outro {
-    border-bottom-color: #016fd6; }
+    display: none; }
   .timeline-logo-item.set-beginnings, .timeline-logo-item.set-home {
     border-bottom-color: #4FBB7D; }
   .timeline-logo-item.set-family {

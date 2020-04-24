@@ -10,13 +10,14 @@
   
   .timeline-logo-item {
       display: block;
-      width: 5em;
+      width: 6vw;
       height: 1em;
     border-bottom: 8px solid transparent;
+    margin-bottom: 0.75em;
   
     &.set-intro,
     &.set-outro {
-      border-bottom-color: _palette(intro);
+      display: none;
     }
     &.set-beginnings,
     &.set-home{

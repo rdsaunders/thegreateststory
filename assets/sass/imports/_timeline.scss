@@ -10,48 +10,55 @@
   justify-content: center;
   margin-bottom: 1.5rem;
   margin-top: 1.5rem;
+  text-align: center;
 }
 
 .nav-timeline-item {
   border-bottom: 8px solid transparent;
 
+  a {
+    border-width: 8px;
+    padding: 0.5rem 0.75rem;
+  }
+
+  a:hover {
+    opacity: 0.5;
+  }
+
   &.set-intro,
   &.set-outro {
-    border-bottom-color: _palette(intro);
+    display: none;
   }
   &.set-beginnings,
   &.set-home{
-    border-bottom-color: _palette(beginnings);
+    a {border-color: _palette(beginnings);}
   }
   &.set-family {
-    border-bottom-color: _palette(family);
+    a {border-color: _palette(family);}
   }
   &.set-exodus {
-    border-bottom-color: _palette(exodus);
+    a {border-color: _palette(exodus);}
   }
   &.set-leaders {
-    border-bottom-color: _palette(leaders);
+    a {border-color: _palette(leaders);}
   }
   &.set-messengers {
-    border-bottom-color: _palette(messengers);
+    a {border-color: _palette(messengers);}
   }
   &.set-exile {
-    border-bottom-color: _palette(exile);
+    a {border-color: _palette(exile);}
   }
   &.set-jesus {
-    border-bottom-color: _palette(jesus);
+    a {border-color: _palette(jesus);}
   }
   &.set-rescue {
-    border-bottom-color: _palette(rescue);
+    a {border-color: _palette(rescue);}
   }
   &.set-mission {
-    border-bottom-color: _palette(mission);
+    a {border-color: _palette(mission);}
   }
 
-  a {
-    border: none;
-    padding: 0 0.5rem;
-  }
+
 }
 
 // Timeline bar & markers

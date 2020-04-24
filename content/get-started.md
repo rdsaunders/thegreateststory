@@ -22,7 +22,7 @@ menu:
 
 The Greatest Story Ever has 40 sessions that are arranged into 10 sets. To get started print the ‘Beginnings’ pdf. Then the rest as and when.
 
-* [Beginnings](https://app.forestry.io/sites/y3kzbwlvpanzca/body-media//uploads/set_beginnings.pdf "Beginnings")
+* [Beginnings](/uploads/set_beginnings.pdf "Beginnings")
 * Family
 * Exodus
 * Leaders

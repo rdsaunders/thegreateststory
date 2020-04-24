@@ -4,6 +4,6 @@ excerpt:
 title: Outro
 period: 
 icon: "/uploads/bible.png"
-nav: true
+hide_nav: true
 
 ---
