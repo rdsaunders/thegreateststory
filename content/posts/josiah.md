@@ -2,7 +2,7 @@
 title: Josiah
 subtitle: Obey God's word
 date: 2020-03-29T00:00:00.000+00:00
-thumb_img_path: ''
+thumb_img_path: "/uploads/josiah.png"
 content_img_path: ''
 excerpt: ''
 layout: post
@@ -57,6 +57,4 @@ review: |-
 watch: <iframe width="560" height="315" src="https://www.youtube.com/embed/6C4MEXXbBmM"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
-draft: true
-
 ---

@@ -2,7 +2,6 @@
 action = "How about trying out life as an Old Testament prophet –\n\n1. Take an item of clothing and hide it under a rock\n2. Build a model city and attack it\n3. Walk around in your underpants\n\n   Or\n4. Next time you bbq use cow poo"
 content_img_path = ""
 date = 2020-04-24T06:06:59Z
-draft = true
 excerpt = ""
 layout = "post"
 order = 19
@@ -14,7 +13,7 @@ read_scripture = "The LORD said to me, “I chose you before I gave you life, an
 review = ""
 scripture = "Jeremiah 1:4-8"
 subtitle = "Hear God's heart"
-thumb_img_path = ""
+thumb_img_path = "/uploads/more-prophets.png"
 timeline = "Messengers"
 title = "Prophets"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sumaXbjP2Kg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n"

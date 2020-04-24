@@ -2,7 +2,6 @@
 action = "Share some good news about God with a friend or someone in your family (text, snapchat, whatsapp...)."
 content_img_path = ""
 date = 2020-04-21T17:23:48Z
-draft = true
 excerpt = ""
 layout = "post"
 order = 17
@@ -14,7 +13,7 @@ read_scripture = "One day the LORD spoke to Jonah son of Amittai. He said, “Go
 review = "Tell the story so far, using the cards from previous days along the storyline.\n\nNow take a look at the next card…"
 scripture = "Jonah 1:1-3, 2:10-3:2"
 subtitle = "Go God's way"
-thumb_img_path = ""
+thumb_img_path = "/uploads/jonah.png"
 timeline = "Messengers"
 title = "Jonah "
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jO2QsF_nnIU\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n"

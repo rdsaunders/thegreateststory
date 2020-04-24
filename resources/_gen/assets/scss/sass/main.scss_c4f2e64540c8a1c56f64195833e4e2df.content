@@ -1119,15 +1119,15 @@ img {
   .nav-timeline-item.set-intro {
     border-bottom-color: #016fd6; }
   .nav-timeline-item.set-beginnings {
-    border-bottom-color: #009850; }
+    border-bottom-color: #4FBB7D; }
   .nav-timeline-item.set-family {
-    border-bottom-color: #f4e006; }
+    border-bottom-color: #F5E411; }
   .nav-timeline-item.set-exodus {
-    border-bottom-color: #d70018; }
+    border-bottom-color: #E14430; }
   .nav-timeline-item.set-leaders {
-    border-bottom-color: #3d0079; }
+    border-bottom-color: #8438B7; }
   .nav-timeline-item.set-messengers {
-    border-bottom-color: #ff9900; }
+    border-bottom-color: #FFA217; }
   .nav-timeline-item a {
     border: none;
     padding: 0 0.5rem; }
@@ -1251,15 +1251,15 @@ img {
   .timeline-logo-item.set-intro {
     border-bottom-color: #016fd6; }
   .timeline-logo-item.set-beginnings {
-    border-bottom-color: #009850; }
+    border-bottom-color: #4FBB7D; }
   .timeline-logo-item.set-family {
-    border-bottom-color: #f4e006; }
+    border-bottom-color: #F5E411; }
   .timeline-logo-item.set-exodus {
-    border-bottom-color: #d70018; }
+    border-bottom-color: #E14430; }
   .timeline-logo-item.set-leaders {
-    border-bottom-color: #3d0079; }
+    border-bottom-color: #8438B7; }
   .timeline-logo-item.set-messengers {
-    border-bottom-color: #ff9900; }
+    border-bottom-color: #FFA217; }
   .timeline-logo-item a {
     border: none;
     padding: 0 0.5rem; }
@@ -1316,34 +1316,34 @@ img {
   border-color: #016fd6; }
 
 .set-beginnings .timeline-bar {
-  background-color: #009850; }
+  background-color: #4FBB7D; }
 
 .set-beginnings .card {
-  border-color: #009850; }
+  border-color: #4FBB7D; }
 
 .set-family .timeline-bar {
-  background-color: #f4e006; }
+  background-color: #F5E411; }
 
 .set-family .card {
-  border-color: #f4e006; }
+  border-color: #F5E411; }
 
 .set-exodus .timeline-bar {
-  background-color: #d70018; }
+  background-color: #E14430; }
 
 .set-exodus .card {
-  border-color: #d70018; }
+  border-color: #E14430; }
 
 .set-leaders .timeline-bar {
-  background-color: #3d0079; }
+  background-color: #8438B7; }
 
 .set-leaders .card {
-  border-color: #3d0079; }
+  border-color: #8438B7; }
 
 .set-messengers .timeline-bar {
-  background-color: #ff9900; }
+  background-color: #FFA217; }
 
 .set-messengers .card {
-  border-color: #ff9900; }
+  border-color: #FFA217; }
 
 .set-exile .timeline-bar {
   background-color: grey; }
