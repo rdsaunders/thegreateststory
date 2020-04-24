@@ -32,6 +32,21 @@
     &.set-messengers {
       border-bottom-color: _palette(messengers);
     }
+    &.set-jesus {
+      border-bottom-color: _palette(jesus);
+    }
+    &.set-rescue {
+      border-bottom-color: _palette(rescue);
+    }
+    &.set-mission {
+      border-bottom-color: _palette(mission);
+    }
+    &.set-home {
+      border-bottom-color: _palette(home);
+    }
+    &.set-outro {
+      border-bottom-color: _palette(intro);
+    }
   
     a {
       border: none;
