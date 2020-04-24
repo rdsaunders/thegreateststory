@@ -13,10 +13,10 @@ questions = "* In 30 seconds how many stories and characters from the Bible you 
 read_scripture = ""
 review = "**What is the greatest story you have ever read or watched?**\n\nWe believe the Bible when you understand it as a whole is the greatest story ever. Have a look at this to find out why…"
 scripture = "Genesis 1:1 Rev 21:1a, 3/4/5"
-subtitle = "Introduction "
+subtitle = "The Greatest Story Ever"
 thumb_img_path = "/uploads/Intro.png"
 timeline = "Intro"
-title = "The Greatest Story Ever"
+title = "The Bible"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ebrbdbXzMrg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++
