@@ -19,7 +19,7 @@
     </head>
     <body>
         
-        <div id="page" class="site layout-{{ .Site.Params.layout_style }} palette-{{ .Site.Params.palette }} {{ if eq .Params.layout "home" }}page-home{{ end }}">
+        <div id="page" class='site layout-{{ .Site.Params.layout_style }} {{ if eq .Params.layout "home" }}page-home{{ end }}'>
         
             {{ partial "header.html" . }}
         
