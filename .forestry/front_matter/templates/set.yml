@@ -36,3 +36,7 @@ fields:
   config:
     maxSize: 250
   label: Set download
+- name: nav
+  type: boolean
+  label: Hide from navigation
+  description: Should this set be hidden from timeline navigation?
