@@ -11,6 +11,11 @@
                 <li class="card card-marker">
                     <div class="card-marker--inner">    
                         <div>
+
+                        {{ if .Page.Params.icon }}
+                        <img class="set-icon" width="64" height="64" src="{{ .Page.Params.icon | relURL }}" alt="{{ .Page.Params.title }}" />
+                        {{ end }}
+                        
                         <h3 class="set-title">{{ .Page.Params.title }}</h3>
                         
                         {{ if .Page.Params.period }}

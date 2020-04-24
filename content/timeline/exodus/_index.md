@@ -5,5 +5,5 @@ excerpt: Exodus means “exit” or “way out”. It’s the story of God rescu
 title: Exodus
 period: 1300-1200BC
 set_download: "/uploads/set_exodus.pdf"
-
+icon: "/uploads/exodus.png"
 ---

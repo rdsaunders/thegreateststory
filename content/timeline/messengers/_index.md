@@ -5,4 +5,6 @@ excerpt: Prophets spoke God’s message to Israel. They reminded them of God’s
 title: Messengers
 period: 850-400 BC
 set_download: "/uploads/set_messengers.pdf"
+icon: "/uploads/messengers.png"
+
 ---

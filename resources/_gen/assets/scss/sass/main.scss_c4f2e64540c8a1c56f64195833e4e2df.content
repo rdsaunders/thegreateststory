@@ -983,7 +983,8 @@ img {
   margin-bottom: 1.66667rem; }
 
 .set-title {
-  margin-bottom: 0.25em; }
+  margin-bottom: 0.25em;
+  margin-top: 0; }
 
 .post-image {
   width: 200px;

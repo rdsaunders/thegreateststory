@@ -5,5 +5,5 @@ excerpt: Israel continued to disobey. So God let their enemies take them to a fo
   go home and rebuild.
 title: Exile
 period: 600-400BC
-
+icon: "/uploads/exile.png"
 ---

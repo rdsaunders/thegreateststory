@@ -6,5 +6,6 @@ excerpt: As the world turned bad, God had a plan to put things right. He chose a
 title: Family
 period: 1800-1700BC
 set_download: "/uploads/set_family.pdf"
+icon: "/uploads/family.png"
 
 ---

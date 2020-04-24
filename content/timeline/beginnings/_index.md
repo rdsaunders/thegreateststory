@@ -6,5 +6,5 @@ excerpt: Genesis is the first book in the Bible and means “beginnings”. It t
 title: Beginnings
 period: Pre history
 set_download: "/uploads/set_beginnings.pdf"
-
+icon: "/uploads/beginnings.png"
 ---
