@@ -31,7 +31,7 @@ sections:
   path: content/faqs
   label: FAQs
   create: documents
-  match: "**/*.md"
+  match: "*.md"
   exclude: _index.md
 - type: directory
   path: content
