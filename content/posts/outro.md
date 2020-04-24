@@ -17,5 +17,5 @@ thumb_img_path = ""
 timeline = "Outro"
 title = "The Bible"
 watch = ""
-
+slug = "outro"
 +++
