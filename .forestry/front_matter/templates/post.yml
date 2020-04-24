@@ -163,6 +163,7 @@ fields:
     required: true
 pages:
 - content/posts/abraham.md
+- content/posts/daniel.md
 - content/posts/david.md
 - content/posts/elijah.md
 - content/posts/flood.md
