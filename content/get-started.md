@@ -8,9 +8,6 @@ menu:
     weight: 3
 
 ---
-* **Learn it**: see how key Bible characters and events form one BIG story
-* **Live it**: discover how the Bible helps us live life to the full today
-
 <div class="full-bleed"><iframe width="560" height="315" src="https://www.youtube.com/embed/ahpCe-ugFAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Steps to get setup
