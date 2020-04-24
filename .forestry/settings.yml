@@ -17,7 +17,7 @@ sections:
   path: content/timeline
   label: Timeline
   create: documents
-  match: "**/*md"
+  match: "**/*.md"
   templates:
   - set
 - type: heading
@@ -28,11 +28,17 @@ sections:
   templates:
   - home
 - type: directory
+  path: content/faqs
+  label: FAQs
+  create: documents
+  match: "*.md"
+  exclude: _index.md
+- type: directory
   path: content
   label: Pages
   create: documents
   match: "**/*"
-  exclude: "{posts/**,timeline/**,_index.md,contact.md}"
+  exclude: "{posts/**,timeline/**,faqs/**,_index.md,contact.md}"
   templates:
   - page
 - type: heading
