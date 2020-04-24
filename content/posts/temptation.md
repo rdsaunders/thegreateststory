@@ -1,6 +1,6 @@
 ---
 action: |-
-  As you are making choices today, think:  _What would God want me to do?_
+  When making choices today, think:  _What would God want me to do?_
 
   And don’t talk to snakes!
 content_img_path: "/uploads/page-timeline.png"
