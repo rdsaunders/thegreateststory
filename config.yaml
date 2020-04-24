@@ -12,7 +12,9 @@ params:
     logo_img: 
     has_nav: true
   footer:
-    content: ''
+    content: The Greatest Story Ever can be shared with other families but the content
+      must not be copied in other publications, mass produced or retailed in part
+      or in whole.
     links:
     - text: The Bible Course
       url: https://www.biblesociety.org.uk/explore-the-bible/the-bible-course/
