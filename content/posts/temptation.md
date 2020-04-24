@@ -1,6 +1,8 @@
 ---
-action: 'As you are making choices today, think:  What would God want me to do?...
-  And don’t talk to snakes!'
+action: |-
+  As you are making choices today, think:  _What would God want me to do?_
+
+  And don’t talk to snakes!
 content_img_path: "/uploads/page-timeline.png"
 date: 2020-04-04T09:09:16.000+00:00
 excerpt: ''
@@ -8,11 +10,14 @@ layout: post
 order: 2
 place: Finally - have a look at the back of your card. What does it say? You can now
   place your card onto your story line.
-prayer: "Dear God,\n\nThank you that you care for us and know what is best for us.
-  \ Thank you that you love us even when we disobey you. Please help us to do what
-  you ask and not give in to temptation. Give us wisdom to make good choices.\n\nAmen\n\nPray
-  it+    Tell the Lord about something that you find especially tempting and ask him
-  for his help. "
+prayer: |-
+  Dear God,
+
+  Thank you that you care for us and know what is best for us.  Thank you that you love us even when we disobey you. Please help us to do what you ask and not give in to temptation. Give us wisdom to make good choices.
+
+  Amen
+
+  **Pray it +**    Tell the Lord about something that you find especially tempting and ask him for his help.
 qrcode: "/uploads/qr-temptation.png"
 questions: "**Even in a perfect world there were rules.**\n\n* What kind of rules
   do you have to follow? Why?\n* What rule did God give Adam and Eve and why? v.3\n\n**Adam
