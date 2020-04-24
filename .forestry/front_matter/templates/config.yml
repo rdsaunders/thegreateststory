@@ -15,7 +15,7 @@ fields:
   hidden: true
 - type: field_group
   name: params
-  label: Params
+  label: Theme
   description: Site parameters
   config:
     required: true
@@ -72,10 +72,22 @@ fields:
     name: footer
     label: Footer Configuration
     fields:
-    - type: text
-      name: content
-      label: Footer Content
+    - name: copyright
+      type: text
+      config:
+        required: false
+      label: Footer copyright
       description: The copyright text displayed in the footer.
+    - name: content
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: false
+        schema:
+          format: markdown
+      label: Footer content
+      description: The text displayed below the copyright information.
     - type: field_group_list
       name: links
       label: Links
