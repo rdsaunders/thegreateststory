@@ -8,7 +8,7 @@ fields:
   label: Question
 - type: number
   name: order
-  label: order
+  label: Display order
 pages:
 - content/faqs/is-this-as-good-as-it-gets.md
 - content/faqs/whats-next-after-the-greatest-story-ever.md
