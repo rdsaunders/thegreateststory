@@ -28,6 +28,11 @@ sections:
   templates:
   - home
 - type: directory
+  path: content/faqs
+  label: FAQs
+  create: documents
+  match: "**/*.md"
+- type: directory
   path: content
   label: Pages
   create: documents
