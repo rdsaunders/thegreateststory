@@ -303,11 +303,26 @@
   padding-top: 3.33333em;
   padding-bottom: 3.33333em;
 
+  .faq-inner {
+  padding-left: 4vw;
+  padding-right: 4vw;
+  }
+
   h2 {
     color: #fff;
     text-align: center;
     font-size: 2.22222rem;
     margin-bottom: 2.22222rem;
+  }
+
+  a {
+    color: #fff;
+    border-color: #fff;
+
+    &:hover {
+      border-color: _palette(brand);
+      text-decoration: none;
+    }
   }
 
   ul {

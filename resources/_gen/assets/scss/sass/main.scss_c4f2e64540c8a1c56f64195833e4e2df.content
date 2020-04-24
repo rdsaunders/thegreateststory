@@ -194,7 +194,6 @@ a {
   border-bottom: 2px solid #016fd6;
   color: #1e1e1e;
   text-decoration: none;
-  -webkit-transition: border .3s ease, color .3s ease;
   transition: border .3s ease, color .3s ease; }
   a:hover {
     border-color: currentColor;
@@ -1004,11 +1003,20 @@ img {
   color: #fff;
   padding-top: 3.33333em;
   padding-bottom: 3.33333em; }
+  .faq .faq-inner {
+    padding-left: 4vw;
+    padding-right: 4vw; }
   .faq h2 {
     color: #fff;
     text-align: center;
     font-size: 2.22222rem;
     margin-bottom: 2.22222rem; }
+  .faq a {
+    color: #fff;
+    border-color: #fff; }
+    .faq a:hover {
+      border-color: #016fd6;
+      text-decoration: none; }
   .faq ul {
     list-style-type: none;
     padding: 0;
