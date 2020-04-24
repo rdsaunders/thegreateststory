@@ -14,10 +14,12 @@
       height: 1em;
     border-bottom: 8px solid transparent;
   
-    &.set-intro {
+    &.set-intro,
+    &.set-outro {
       border-bottom-color: _palette(intro);
     }
-    &.set-beginnings {
+    &.set-beginnings,
+    &.set-home{
       border-bottom-color: _palette(beginnings);
     }
     &.set-family {
@@ -32,6 +34,9 @@
     &.set-messengers {
       border-bottom-color: _palette(messengers);
     }
+    &.set-exile {
+      border-bottom-color: _palette(exile);
+    }
     &.set-jesus {
       border-bottom-color: _palette(jesus);
     }
@@ -40,12 +45,6 @@
     }
     &.set-mission {
       border-bottom-color: _palette(mission);
-    }
-    &.set-home {
-      border-bottom-color: _palette(home);
-    }
-    &.set-outro {
-      border-bottom-color: _palette(intro);
     }
   
     a {

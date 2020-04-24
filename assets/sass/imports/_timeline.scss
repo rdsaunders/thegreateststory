@@ -19,7 +19,8 @@
   &.set-outro {
     border-bottom-color: _palette(intro);
   }
-  &.set-beginnings {
+  &.set-beginnings,
+  &.set-home{
     border-bottom-color: _palette(beginnings);
   }
   &.set-family {
