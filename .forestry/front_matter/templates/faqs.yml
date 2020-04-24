@@ -9,3 +9,5 @@ fields:
 - type: number
   name: order
   label: order
+pages:
+- content/faqs/whats-next-after-the-greatest-story-ever.md
