@@ -36,9 +36,3 @@ fields:
   config:
     maxSize: 250
   label: Set download
-- name: colour
-  type: color
-  label: Colour
-  config:
-    required: false
-    color_format: Hex
