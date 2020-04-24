@@ -13,10 +13,10 @@ menu:
 ## Steps to get setup
 
 * **Find a slot each day**: About 15 mins. We did it after breakfast. But before bedtime could work well. Same time each day really helps. Before Joe Wicks?
-* **Do the intro session**: This gives an overview of The Greatest Story Ever and gives a feel for how a session works. There’s no physical card for this one. \[INTRO SESSION LINK\].
-* **Print and chop the cards**: below are the 10 set cards. Click on each to print the pdf in colour and on white card. Each has an overall set marker and the story cards. Guillotine each. Then buy some new ink cartridges!
-* **Setup a new storyline**: The cards could stand up on a window sill but we used some string and some small Suction Cups (that’s actually a thing. Search on Amazon). So our storyline is strung up across the kitchen window.
-* **Find a bible**: we used the Good News Version
+* **Print and cut out the cards**: below are links to the pdf for each set of cards. Print out the pdf in colour onto white card. 
+* **Set up a storyline**: The cards could stand up on a window sill but we used some string and small suction cups. (Search on amazon.) Our storyline is strung up across the kitchen window.
+* **Find a bible**: we use the Good News Version
+* **Do the first session:** _The Bible - The Greatest Story Ever_ \[hyper link\]
 
 ## Sets of cards to print
 
@@ -31,12 +31,14 @@ The Greatest Story Ever has 40 sessions that are arranged into 10 sets. To get s
 
 ## How each session works
 
-The physical cards tag to the online content through a QR code. Point your camera phone at the QR code and the link should pop up. Each session then follows the same pattern:
+The cards tag to the online content through a QR code. Point your camera phone at the QR code and it should pop up. 
+
+Each session follows the same pattern:
 
 * **Review it**: someone talks through the cards on the storyline to give a quick recap.
-* **Watch it**: scan the QR code to get onto the webpage and watch the video. We really love these God’s Story videos by Crossroads Kids’ Club and we’re grateful we can share them via YouTube.
+* **Watch it**: we really love these God’s Story videos by Crossroads Kids’ Club and we’re grateful we can share them via YouTube.
 * **Read it**: on the webpage there’s a short Bible reading. We encourage you to find it in a hard copy of the Bible too.
-* **Quiz it**: talk through the questions on the webpage. The first question is more of a warm up. Some questions are fact finding others more applied and personal. The sentences in bold give some important links so read them out too. This should take about 7 mins so keep it moving! If you can’t work out what a question is getting at just move and let us know it didn’t land.
-* **Pray it:** Take a moment to be still. Read the prayer on the webpage. Pray It + gives suggestions for more prayer time as a family.
-* **Do it:** this final suggestion gives a punchy and practical application
+* **Quiz it**: talk through the questions on the webpage. (Probably best if an adult leads this bit). The first question is a warm up. Some questions are fact finding others more applied. Sentences in bold give further information. 'Quiz It' should take about 7 mins, so keep it moving! 
+* **Pray it:** Take a moment to be still and read the prayer. **Pray It+** gives suggestions for more open prayer as a family.
+* **Do it:** this final suggestion gives a punchy and practical application.
 * **Place it:** Give the session card to one of the kids. Ask them to read the summary info on the back and then place it on the storyline.
