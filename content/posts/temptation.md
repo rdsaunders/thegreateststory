@@ -24,9 +24,10 @@ questions: "**Even in a perfect world there were rules.**\n\n* What kind of rule
   and Eve were tempted to disobey God and they made a bad choice when they ate the
   fruit.**\n\n* What were the consequences that followed?\n* Why is life so much better
   if we do what God tells us?\n\n**The snake tempted Eve by telling her lies and questioning
-  what God had said was true. Eve was weak and gave in. Adam then followed.** \n\n*
+  what God had said was true. Eve was weak and gave in. Adam then followed.**\n\n*
   In what ways and when are we sometimes tempted to make bad choices?\n* What good
-  choices can we make this week? How could we ensure we make good choices this week?"
+  choices can we make this week? \n* How could we ensure we make good choices this
+  week?"
 read_scripture: |
   Now the snake was the most cunning animal that the LORD God had made. The snake asked the woman, “Did God really tell you not to eat fruit from any tree in the garden?”
   “We may eat the fruit of any tree in the garden,” the woman answered, “except the tree in the middle of it. God told us not to eat the fruit of that tree or even touch it; if we do, we will die.”
