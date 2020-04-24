@@ -12,11 +12,12 @@ params:
     logo_img: 
     has_nav: true
   footer:
-    content: "&copy; 2020 The Ollerton Family."
+    content: ''
     links:
     - text: The Bible Course
       url: https://www.biblesociety.org.uk/explore-the-bible/the-bible-course/
       new_window: true
+    copyright: "&copy; 2020 The Ollerton Family."
   google-analytics: UA-164034709-1
 disableKinds:
 - RSS
