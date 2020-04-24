@@ -9,16 +9,15 @@ fields:
   description: The title of the section
   config:
     required: true
-- type: text
-  name: section_id
-  label: Element ID
-- type: text
-  name: component
-  label: Component
-  hidden: true
-  default: hero.html
+- name: embed
+  type: textarea
+  default: ''
   config:
-    required: true
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Video
 - type: textarea
   name: content
   label: Content
@@ -38,10 +37,12 @@ fields:
   config:
     labelField: label
 - type: text
-  name: type
-  label: Reference Type Name
-  description: Name of the Stackbit object model, used by fields of type reference
+  name: section_id
+  label: Element ID
+- type: text
+  name: component
+  label: Component
   hidden: true
-  default: intro
+  default: hero.html
   config:
     required: true
