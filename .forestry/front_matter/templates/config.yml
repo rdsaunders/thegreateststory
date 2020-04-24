@@ -88,6 +88,15 @@ fields:
           format: markdown
       label: Footer content
       description: The text displayed below the copyright information.
+    - name: supporting_content
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: false
+        schema:
+          format: markdown
+      label: Supporting content
     - type: field_group_list
       name: links
       label: Links
