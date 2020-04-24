@@ -26,6 +26,9 @@ fields:
     - Intro
     - Outro
     - Beginnings
+    - Jesus
+    - Rescue
+    - Mission
     source:
       type: simple
       section: sets
