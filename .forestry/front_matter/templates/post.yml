@@ -29,12 +29,13 @@ fields:
     - Jesus
     - Rescue
     - Mission
+    - Home
     source:
       type: simple
       section: sets
       file: 
       path: 
-  label: Timeline
+  label: Timeline/set
   description: What part of the timeline does this story belong to?
 - name: order
   type: number
