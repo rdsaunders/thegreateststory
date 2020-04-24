@@ -1130,6 +1130,8 @@ img {
     border-bottom-color: #8438B7; }
   .nav-timeline-item.set-messengers {
     border-bottom-color: #FFA217; }
+  .nav-timeline-item.set-exile {
+    border-bottom-color: #CE820F; }
   .nav-timeline-item.set-jesus {
     border-bottom-color: #30C2E2; }
   .nav-timeline-item.set-rescue {
