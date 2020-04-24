@@ -1,8 +1,9 @@
 ---
 order: 11
-excerpt:
+excerpt: 
 title: Outro
 period: 
 icon: "/uploads/bible.png"
+nav: true
 
 ---
