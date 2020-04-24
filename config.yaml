@@ -12,7 +12,7 @@ params:
     logo_img: 
     has_nav: true
   footer:
-    content: "&copy; 2020 Andrew &amp; Charlotte Ollerton."
+    content: "&copy; 2020 The Ollerton Family."
     links:
     - text: The Bible Course
       url: https://www.biblesociety.org.uk/explore-the-bible/the-bible-course/
