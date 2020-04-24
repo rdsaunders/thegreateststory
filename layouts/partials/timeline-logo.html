@@ -1,0 +1,5 @@
+<ul class="timeline-logo">
+    {{ range sort .Site.Taxonomies.timeline ".Page.Params.order" "asc" }}
+    <li class="timeline-logo-item set-{{ lower .Page.Params.title }}"></li>
+    {{ end }}
+</ul>

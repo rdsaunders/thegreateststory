@@ -1,0 +1,40 @@
+.timeline-logo {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+  }
+  
+  .timeline-logo-item {
+      display: block;
+      width: 5em;
+      height: 1em;
+    border-bottom: 8px solid transparent;
+  
+    &.set-intro {
+      border-bottom-color: _palette(intro);
+    }
+    &.set-beginnings {
+      border-bottom-color: _palette(beginnings);
+    }
+    &.set-family {
+      border-bottom-color: _palette(family);
+    }
+    &.set-exodus {
+      border-bottom-color: _palette(exodus);
+    }
+    &.set-leaders {
+      border-bottom-color: _palette(leaders);
+    }
+    &.set-messengers {
+      border-bottom-color: _palette(messengers);
+    }
+  
+    a {
+      border: none;
+      padding: 0 0.5rem;
+    }
+  }

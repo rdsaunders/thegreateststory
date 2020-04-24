@@ -14,12 +14,13 @@ $palette: (
   brand:        #016fd6,
   brand-darker:   darken(#016fd6, 10%),
   intro:         #016fd6,
-  beginnings:    rgb(8, 92, 8),
+  beginnings:    #009850,
   family:        rgb(244, 224, 6),
-  exodus:        rgb(218, 9, 9),
-  leaders:       rgb(123, 3, 123),
+  exodus:        #d70018,
+  leaders:       #3d0079,
   messengers:    rgb(255, 153, 0),
   exile:         grey,
+  home:           #009850,
 
 );
 
@@ -34,5 +35,6 @@ $palette: (
 @import "imports/subscribe";
 @import "imports/footer";
 @import "imports/timeline";
+@import "imports/timeline-logo";
 @import "imports/blocks";
 @import "imports/sets";

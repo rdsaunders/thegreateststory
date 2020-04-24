@@ -1,8 +1,3 @@
-<ul class="nav-timeline">
-    {{ range sort .Site.Taxonomies.timeline ".Page.Params.order" "asc" }}
-    <li class="nav-timeline-item set-{{ lower .Page.Params.title }}"><a href="#{{ lower .Page.Params.title }}">{{ title .Page.Params.title }}</a></li>
-    {{ end }}
-</ul>
 <div class="set-wrapper">
 
     {{ range sort .Site.Taxonomies.timeline ".Page.Params.order" "asc" }}

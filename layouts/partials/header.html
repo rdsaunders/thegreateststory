@@ -11,30 +11,16 @@
         {{ end }}
         {{ if eq .Params.layout "home" }}
         <h1 class="site-title"><a href='{{ "/" | relURL }}'>{{ .Site.Params.header.title }}</a></h1>
+        {{ partial "timeline-logo.html" . }}
         <div class="site-subtitle">{{ .Site.Params.header.sub_title }}</div>
         {{ else }}
         <p class="site-title"><a href='{{ "/" | relURL }}'>{{ .Site.Params.header.title }}</a></p>
+        {{ partial "timeline-logo.html" . }}
         <div class="site-subtitle">{{ .Site.Params.header.sub_title }}</div>
         {{ end }}
       </div><!-- .site-branding -->
 
-      {{ if and .Site.Menus.main .Site.Params.header.has_nav }}
-      <nav id="main-navigation" class="site-navigation" aria-label="Main Navigation">
-        <div class="site-nav-inside">
-          <button id="menu-close" class="menu-toggle"><span class="screen-reader-text">Menu</span><span class="icon-close"
-              aria-hidden="true"></span></button>
-          <ul class="menu">
-            {{ range $item := .Site.Menus.main }}
-            <li class="menu-item {{ if eq $.URL $item.URL }} current-menu-item{{ end }}">
-              <a href="{{ $item.URL | relURL }}">{{ $item.Name }}</a>
-            </li>
-            {{ end }}
-          </ul><!-- .menu -->
-        </div><!-- .site-nav-inside -->
-      </nav><!-- .site-navigation -->
-      <button id="menu-open" class="menu-toggle"><span class="screen-reader-text">Menu</span><span class="icon-menu"
-          aria-hidden="true"></span></button>
-      {{ end }}
+      <!--{{ partial "site-navigation.html" .}}-->
 
     </div><!-- .site-header-inside -->
   </div><!-- .inner -->
