@@ -533,8 +533,11 @@ img {
   background-color: #f7f7f7;
   border-radius: 3px; }
 
-.row {
-  display: flex; }
+.block {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1140px; }
 
 .col {
   width: 50%;
@@ -629,7 +632,10 @@ img {
  */
 .site {
   overflow: hidden;
-  position: relative; }
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column; }
 
 .inner {
   margin-left: auto;
@@ -645,7 +651,9 @@ img {
 
 .site-content {
   padding-bottom: 2.5em;
-  padding-top: 2.5em; }
+  padding-top: 2.5em;
+  width: 92vw;
+  flex: 1; }
   @media only screen and (min-width: 801px) {
     .site-content {
       padding-bottom: 3.33333em;
@@ -984,7 +992,8 @@ img {
   overflow-x: scroll;
   -webkit-overflow-scrolling: touch;
   scroll-snap-type: x proximity;
-  padding: 0 1.5em; }
+  padding: 0 1.5em;
+  scroll-behavior: smooth; }
 
 .set {
   margin-bottom: 2rem; }
@@ -1138,13 +1147,41 @@ img {
   display: flex;
   align-items: flex-end;
   border-top-width: 1em;
-  width: 7em; }
+  width: 7em;
+  height: 9em; }
 
 .card-marker--inner {
   text-align: left; }
 
 .set-period {
   margin-bottom: 0; }
+
+.nav-timeline {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center; }
+
+.nav-timeline-item {
+  border-bottom: 8px solid transparent; }
+  .nav-timeline-item.set-intro {
+    border-bottom-color: #016fd6; }
+  .nav-timeline-item.set-beginnings {
+    border-bottom-color: #085c08; }
+  .nav-timeline-item.set-family {
+    border-bottom-color: #f4e006; }
+  .nav-timeline-item.set-exodus {
+    border-bottom-color: #da0909; }
+  .nav-timeline-item.set-leaders {
+    border-bottom-color: #7b037b; }
+  .nav-timeline-item.set-messengers {
+    border-bottom-color: #ff9900; }
+  .nav-timeline-item a {
+    border: none;
+    padding: 0 0.5rem; }
 
 /**
  * Subscribe
@@ -1199,20 +1236,35 @@ img {
  */
 .site-footer {
   background: #f7f7f7;
-  padding-bottom: 0.83333em;
-  padding-top: 2.5em; }
-
-.site-info {
+  padding-bottom: 2.5em;
+  padding-top: 2.5em;
   font-size: 12px;
-  letter-spacing: 0.09em;
-  line-height: 1.5;
-  margin-bottom: 1.66667rem;
-  padding-top: 0.5em;
-  text-transform: uppercase; }
+  line-height: 1.5; }
+  .site-footer .copyright {
+    letter-spacing: 0.09em;
+    margin-bottom: 1rem;
+    padding-top: 0.5em;
+    text-transform: uppercase; }
+  .site-footer .copyright-summary,
+  .site-footer .site-info-supporting {
+    font-size: 14px; }
+
+.site-info-supporting {
+  margin-bottom: 1rem; }
 
 @media only screen and (min-width: 601px) {
   .site-footer-inside {
-    display: flex; } }
+    display: flex;
+    align-items: center; }
+  .site-info-supporting {
+    margin-bottom: 0; }
+  .copyright-summary {
+    width: 30vw;
+    margin-bottom: 0;
+    margin-left: auto;
+    text-align: right; }
+    .copyright-summary p {
+      margin-bottom: 0; } }
 
 /**
  * Palettes

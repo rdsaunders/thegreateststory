@@ -1,14 +1,15 @@
 <footer id="colophon" class="site-footer">
   <div class="inner">
     <div class="site-footer-inside">
-      <p class="site-info">
-        {{ .Site.Params.footer.content | safeHTML }}
-        &nbsp;
-        {{ range $link := .Site.Params.footer.links }}
-        <a href="{{ $link.url }}" {{ if $link.new_window }}target="_blank" rel="noopener"
-          {{ end }}>{{ $link.text }}</a>.
-        {{ end }}
-      </p><!-- .site-info -->
+      <div class="site-info">
+        <p class="copyright">{{ .Site.Params.footer.copyright | safeHTML }}</p>
+        <p class="site-info-supporting">{{ .Site.Params.footer.supporting_content | markdownify }}</p>
+
+      </div><!-- .site-info -->
+
+      <div class="copyright-summary">
+        <p>{{ .Site.Params.footer.content | safeHTML }}</p>
+    </div>
     </div><!-- .site-footer-inside -->
   </div><!-- .inner -->
 </footer><!-- .site-footer -->

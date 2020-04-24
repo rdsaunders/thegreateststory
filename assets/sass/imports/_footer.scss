@@ -4,22 +4,48 @@
  */
 .site-footer {
   background: _palette(bg);
-  padding-bottom: 0.83333em;
+  padding-bottom: 2.5em;
   padding-top: 2.5em;
+  font-size: 12px;
+  line-height: 1.5;
+  
+  .copyright {
+    letter-spacing: 0.09em;
+    margin-bottom: 1rem;
+    padding-top: 0.5em;
+    text-transform: uppercase;
+  }
+
+  .copyright-summary,
+  .site-info-supporting {
+    font-size: 14px;
+  }
 }
 
-.site-info {
-  font-size: 12px;
-  letter-spacing: 0.09em;
-  line-height: 1.5;
-  margin-bottom: 1.66667rem;
-  padding-top: 0.5em;
-  text-transform: uppercase;
+.site-info-supporting {
+  margin-bottom: 1rem;
 }
 
 @media only screen and (min-width: 601px) {
   .site-footer-inside {
     display: flex;
+    align-items: center;
   }
+
+  .site-info-supporting {
+    margin-bottom: 0;
+  }
+
+  .copyright-summary {
+    width: 30vw;
+    margin-bottom: 0;
+    margin-left: auto;
+    text-align: right;
+   
+    p { margin-bottom: 0;}
+
+  }
+
+
 }
 

@@ -293,6 +293,7 @@ scroll-snap-type: x mandatory;
   -webkit-overflow-scrolling: touch;
   scroll-snap-type: x proximity;
   padding: 0 1.5em;
+  scroll-behavior: smooth;
 }
 
 .set {
@@ -497,6 +498,7 @@ scroll-snap-type: x mandatory;
   align-items: flex-end;
   border-top-width: 1em;
   width: 7em;
+  height: 9em;
 }
 
 .card-marker--inner {
@@ -514,4 +516,34 @@ scroll-snap-type: x mandatory;
 
 .set-period {
   margin-bottom: 0;
+}
+
+// Timeline navigator
+
+.nav-timeline {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+}
+
+
+.nav-timeline-item {
+  border-bottom: 8px solid transparent;
+
+  &.set-intro {border-bottom-color: _palette(intro);}
+  &.set-beginnings {border-bottom-color: _palette(beginnings);}
+  &.set-family {border-bottom-color: _palette(family);}
+  &.set-exodus {border-bottom-color: _palette(exodus);}
+  &.set-leaders {border-bottom-color: _palette(leaders);}
+  &.set-messengers {border-bottom-color: _palette(messengers);}
+
+  a {
+    border: none;
+    padding: 0 0.5rem;
+
+  }
 }

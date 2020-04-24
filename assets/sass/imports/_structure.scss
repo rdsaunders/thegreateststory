@@ -5,6 +5,9 @@
 .site {
   overflow: hidden;
   position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .inner {
@@ -26,6 +29,8 @@
 .site-content {
   padding-bottom: 2.5em;
   padding-top: 2.5em;
+  width: 92vw;
+  flex: 1;
 
   @media only screen and (min-width: 801px) {
     padding-bottom: 3.33333em;

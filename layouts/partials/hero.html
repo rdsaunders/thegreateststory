@@ -1,7 +1,7 @@
-<div id="{{ .section.section_id }}" class="row hero-block">
+<div id="{{ .section.section_id }}" class="block row hero-block">
 
   <div class="col">
-    <img src="{{ .section.image }}" alt="{{ .section.title }}"/>
+    {{ .section.embed | safeHTML }}
   </div>
 
   <div class="col">

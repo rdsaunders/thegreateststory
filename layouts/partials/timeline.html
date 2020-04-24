@@ -1,12 +1,12 @@
-<div class="scrolls">
-    <span class="left">←</span>
-    <span class="center">Scroll or swipe</span>
-    <span class="right">→</span>
-</div>
+<ul class="nav-timeline">
+    {{ range sort .Site.Taxonomies.timeline ".Page.Params.order" "asc" }}
+    <li class="nav-timeline-item set-{{ lower .Page.Params.title }}"><a href="#{{ lower .Page.Params.title }}">{{ title .Page.Params.title }}</a></li>
+    {{ end }}
+</ul>
 <div class="set-wrapper">
 
     {{ range sort .Site.Taxonomies.timeline ".Page.Params.order" "asc" }}
-        <section class="set set-{{ lower .Page.Params.title }}">
+        <section class="set set-{{ lower .Page.Params.title }}" id="{{ lower .Page.Params.title }}">
             
             <div class="timeline-bar">
                 <div class="timeline-marker"></div>
