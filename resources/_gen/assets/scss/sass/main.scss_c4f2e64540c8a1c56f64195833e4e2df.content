@@ -1026,6 +1026,12 @@ img {
 .question {
   font-size: 1.33333rem; }
 
+.post-nav-image {
+  width: 5em; }
+
+.post-navigation-item {
+  text-align: center; }
+
 /**
  * Subscribe
  * ----------------------------------------------------------------------------

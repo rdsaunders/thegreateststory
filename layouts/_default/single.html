@@ -75,10 +75,14 @@
     </div>
     {{ end }}
     <hr />
+    {{ partial "story-navigation.html" . }}
+
     {{ partial "feedback.html" .}}
       {{ .Content | safeHTML }}
     </div>
   </article>
 
+
+  
 
 {{ end }}

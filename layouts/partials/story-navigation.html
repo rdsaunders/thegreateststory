@@ -1,0 +1,21 @@
+<nav class="post-navigation intro flex">
+    {{ $pages := where site.RegularPages "Section" .Section }}
+   
+    {{ with ($pages.ByParam "order").Next . }}
+    <div class="post-navigation-item">
+        {{ if .Params.thumb_img_path }}
+        <img class="post-nav-image" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
+        {{ end }}
+        <div><a title="Previous page in {{ .Section }}" href="{{ .Permalink }}">Previous: {{ .Title }}</a></div>
+    </div>
+    {{ end }}
+   
+    {{ with ($pages.ByParam "order").Prev . }}
+    <div class="post-navigation-item ml-auto">
+    {{ if .Params.thumb_img_path }}
+        <img class="post-nav-image" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
+        {{ end }}
+      <div><a title="Next page in {{ .Section }}" href="{{ .Permalink }}">Next: {{ .Title }}</a></div>
+  </div>
+  {{ end }}
+  </nav>
