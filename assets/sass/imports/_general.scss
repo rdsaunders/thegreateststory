@@ -332,6 +332,20 @@ input[type="reset"],
   }
 }
 
+.button.outline {
+  color: #fff;
+  border-color: #fff;
+  background-color: _palette(accent);
+
+  &:hover,
+  &:focus,
+  &:active {
+    background: #fff;
+    color: _palette(accent);
+  }
+}
+
+
 a.button {
   padding-bottom: 0.60714em;
   padding-top: 0.60714em;

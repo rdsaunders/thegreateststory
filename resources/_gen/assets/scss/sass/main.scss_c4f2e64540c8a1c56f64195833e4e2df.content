@@ -465,6 +465,14 @@ input[type="reset"],
     border-color: #016fd6;
     color: #fff; }
 
+.button.outline {
+  color: #fff;
+  border-color: #fff;
+  background-color: #016fd6; }
+  .button.outline:hover, .button.outline:focus, .button.outline:active {
+    background: #fff;
+    color: #016fd6; }
+
 a.button {
   padding-bottom: 0.60714em;
   padding-top: 0.60714em; }
@@ -1206,6 +1214,8 @@ img {
   color: #fff;
   padding: 2em 0;
   margin-bottom: 3.33333em; }
+  .hero-block .js-reframe {
+    margin-bottom: 0; }
   .hero-block h2 {
     color: #fff; }
   .hero-block .hero-cta {
