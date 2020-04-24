@@ -1023,6 +1023,9 @@ img {
     padding: 0;
     margin: 0; }
 
+.question {
+  font-size: 1.33333rem; }
+
 /**
  * Subscribe
  * ----------------------------------------------------------------------------
@@ -1258,7 +1261,7 @@ img {
 
 .timeline-logo-item {
   display: block;
-  width: 6vw;
+  width: 3em;
   height: 1em;
   border-bottom: 8px solid transparent;
   margin-bottom: 0.75em; }
