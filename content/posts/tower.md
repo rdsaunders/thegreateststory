@@ -1,5 +1,5 @@
 ---
-action: When you do something great today, thank God for enabling you to do it!
+action: 'Find out how to say "Hello" and "Thank you" in another language. '
 content_img_path: "/uploads/page-timeline.png"
 date: 2020-04-02T13:22:41.000+00:00
 excerpt: ''
@@ -10,25 +10,21 @@ place: Finally - have a look at the back of your card. What does it say? You can
 prayer: |-
   Dear God,
 
-  Thank you for giving us brains to think with and hands to make with. We want to use them to make your name great and to please you. Please help us.
+  Thank you for giving us brains to think with and hands to make with. We want to use them to make your name great.  Help us to care for people from other cultures and languages in a way that pleases you.
 
   Amen
 
-  Pray it +   Thank God for something your brain or hands are good at doing and ask him to help you to use it for his fame.
+  **Pray it +**    Thank God for something your brain or hands are good at doing and ask him to help you to use it for his fame.
 qrcode: "/uploads/qr-tower.png"
-questions: |-
-  * How many languages can you all say “Hello” in?
-  * What other languages can your friends speak?
-
-  **The people in Babylon tried to build a great city and tower.**
-
-  * Why did they want to do this?  (_Draw discussion towards the people’s desire to make a name for themselves and become famous_.)
-  * In what ways do people show off and try to become famous in our culture?
-  * How did God disrupt the Babylonian building project and why?
-
-  **The builders in Babylon worked as an incredible team using all the gifts and talents God has given them to create something amazing. However, they left God out of their project and they did not use their brains and hands to please him.**
-
-  * How can we be a team with God in how we think and act this week?
+questions: "* As a family,  how many languages can you all say “Hello” in?\n* What
+  other languages can your friends speak?\n\n**After the flood people tried to build
+  a great city and tower.**\n\n* Why did they want to do this? Genesis 11 v.4 \n*
+  In what ways do people show off and try to become famous today?\n* How did God disrupt
+  their building project and why?\n* What negative consequences came from people being
+  scattered and speaking different languages? _(Draw discussion towards things like
+  wars, racism & Spanish lessons!)_\n\n**The builders of the tower of Babel left God
+  out of their project and did not use their brains and hands to please him.**\n\n*
+  How can we be a team with God in the way we think and act this week?"
 read_scripture: |2
 
   They said, “Now let's build a city with a tower that reaches the sky, so that we can make a name for ourselves and not be scattered all over the earth.”
