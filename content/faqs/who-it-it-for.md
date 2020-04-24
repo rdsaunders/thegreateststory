@@ -1,7 +1,7 @@
 +++
 draft = true
 order = 3
-title = "Who it it for?"
+title = "Who is it for?"
 
 +++
 This is a story adventure for people to do in groups or in pairs. Learning is always more fun and memorable together. 
