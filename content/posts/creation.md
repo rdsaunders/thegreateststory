@@ -6,28 +6,18 @@ content_img_path: "/uploads/page-timeline.png"
 excerpt: ''
 layout: post
 subtitle: God made it good
-questions: |-
-  **The creation story tells us that God made everything for us to enjoy.**
-
-  * What is your favourite animal or bird?
-  * What is your favourite fruit or vegetable?
-
-  **God created time, land, seasons, light, landscapes, plants and living creatures.**
-
-  * Of all the things God made, what was his favourite?
-
-  **People were his very best and favourite creation. He made us with amazing abilities, skills and talents.**
-
-  * What are you really good at doing?
-  * What is your favourite sport or hobby?
-  * How does it make you feel to know that you’re God’s favourite and he loves you?
-  * What do you think it means that we are like God? Genesis 1 v.27
-
-    _(Move the conversation away from talking about physical characteristics and talk about personality and abilities.)_
-
-  **God told Adam and Eve to care for the world that he had made for them.**
-
-  * How can we do this? Genesis 1 v.28
+questions: "**The creation story tells us that God made everything for us to enjoy.**\n\n*
+  What is your favourite animal or bird?\n* What is your favourite fruit or vegetable?\n\n**God
+  created time, land, seasons, light, landscapes, plants and living creatures.**\n\n*
+  Of all the things God made, what was his favourite?\n\n**Once God had made people
+  he said this is \"very good.\"** \n\n* How does it make you feel to know that you
+  are so special to God and he loves you?\n* What do you think it means that God made
+  us in his image to be like Him? Genesis 1 v.27\n\n  _(Move the conversation away
+  from talking about physical characteristics.  It's more about character and values.)_\n\n**God
+  made us with amazing skills and talents to fulfil a great purpose.**\n\n* What are
+  you really good at doing?\n* How can you use your abilities in a way that pleases
+  God?\n\n**God told Adam and Eve to care for the world that he had made for them.**\n\n*
+  How can we do this? Genesis 1 v.28"
 scripture: Genesis 1:27-28
 prayer: |-
   Dear God,
