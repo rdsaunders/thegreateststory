@@ -4,7 +4,6 @@ baseURL: "/"
 params:
   language: en-GB
   layout_style: horizontal
-  palette: blue
   google_analytics: UA-164034709-1
   header:
     title: Greatest Story Ever

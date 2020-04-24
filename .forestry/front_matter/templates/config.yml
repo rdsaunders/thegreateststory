@@ -36,17 +36,6 @@ fields:
       - grid
       - list
       - horizontal
-  - type: select
-    name: palette
-    label: Color Palette
-    description: The color palette of the theme.
-    default: green
-    config:
-      source:
-        type: custom
-      options:
-      - green
-      - blue
   - type: field_group
     name: header
     label: Header Configuration
