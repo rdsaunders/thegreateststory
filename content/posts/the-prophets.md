@@ -5,7 +5,7 @@ date = 2020-04-24T06:06:59Z
 draft = true
 excerpt = ""
 layout = "post"
-order = nil
+order = 19
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
 prayer = "Dear God,\n\nThank you for giving warnings through the prophets because you love your people. Sorry for the times I have disobeyed you. Thank you that you sent the promised rescuer. Help me to live and speak and act for you today.\n\nAmen\n\nPray it +   Ask the Lord to give you his Holy Spirit so you can hear messages from him for other people."
 qrcode = ""
@@ -15,7 +15,7 @@ review = ""
 scripture = "Jeremiah 1:4-8"
 subtitle = "Hear God's heart"
 thumb_img_path = ""
-timeline = ""
+timeline = "Messengers"
 title = "Prophets"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sumaXbjP2Kg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n"
 
