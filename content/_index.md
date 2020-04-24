@@ -6,11 +6,11 @@ sections:
 - template: hero
   component: hero.html
   type: intro
-  content: A bite-size family experience of the Bible. Mixing online content (videos,
-    quizzes) and physical cards that form a colourful storyline in your own home.
-    Over 40 daily sessions (15 mins _ish_) you’ll discover how each Bible story forms
-    part of _The Greatest Story Ever_ and how we can live it today. No prior knowledge
-    or preparation is required.
+  content: The Greatest Story Ever mixes online content (videos, quizzes) and physical
+    cards to form a colourful storyline in your own home. Though daily sessions (15
+    mins _ish_) you’ll discover how each Bible story forms part of _the greatest story
+    ever_ and how we can live it today. It's simple to run. No prior knowledge is
+    required.
   title: A bite size family experience.
   actions:
   - label: Get started
