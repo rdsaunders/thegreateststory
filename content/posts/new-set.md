@@ -15,7 +15,7 @@ review = ""
 scripture = ""
 subtitle = "Coming Soon!"
 thumb_img_path = ""
-timeline = ""
+timeline = "Jesus"
 title = "New Set"
 watch = ""
 
