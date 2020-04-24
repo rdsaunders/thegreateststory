@@ -2,7 +2,6 @@
 action = ""
 content_img_path = ""
 date = 2020-04-24T20:06:23Z
-draft = true
 excerpt = ""
 layout = "post"
 order = 23
