@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Get started
-subtitle: A resource to help families experience the Bible together
+subtitle: How to set up your family Bible course
 img_path: ''
 menu:
   main:
