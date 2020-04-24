@@ -15,7 +15,7 @@ scripture = "Jeremiah 1:4-8"
 subtitle = "Hear God's heart"
 thumb_img_path = "/uploads/more-prophets.png"
 timeline = "Messengers"
-title = "Prophets"
+title = "More Prophets"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sumaXbjP2Kg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n"
 
 +++
