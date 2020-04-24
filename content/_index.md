@@ -11,7 +11,7 @@ sections:
     Over 40 daily sessions (15 mins _ish_) you’ll discover how each Bible story forms
     part of _The Greatest Story Ever_ and how we can live it today. No prior knowledge
     or preparation is required.
-  title: Experience the whole Bible as The Greatest Story Ever
+  title: A bite size family experience.
   actions:
   - label: Get started
     url: "/get-started/"
@@ -22,4 +22,5 @@ sections:
 menu:
   main:
     weight: 1
+
 ---
