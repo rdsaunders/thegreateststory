@@ -15,7 +15,7 @@ scripture = ""
 subtitle = ""
 thumb_img_path = ""
 timeline = "Mission"
-title = "Paul's Adventure"
+title = "Paul's Adventures"
 watch = ""
 
 +++
