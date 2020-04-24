@@ -21,7 +21,7 @@ body {
 }
 
 a {
-  border-bottom: 2px solid _palette(accent);
+  border-bottom: 2px solid _palette(brand);
   color: _palette(secondary);
   text-decoration: none;
   -webkit-transition: border .3s ease, color .3s ease;
@@ -145,7 +145,7 @@ blockquote {
   }
 
   &:before {
-    color: _palette(accent);
+    color: _palette(brand);
     content: "\201C";
     font-size: 64px;
     left: 0;
@@ -294,8 +294,8 @@ input[type="submit"],
 input[type="button"],
 input[type="reset"],
 .button {
-  background: _palette(accent);
-  border: 2px solid _palette(accent);
+  background: _palette(brand);
+  border: 2px solid _palette(brand);
   border-radius: 3px;
   box-sizing: border-box;
   color: #fff;
@@ -313,21 +313,21 @@ input[type="reset"],
   &:focus,
   &:active {
     background: 0;
-    border-color: _palette(accent);
-    color: _palette(accent);
+    border-color: _palette(brand);
+    color: _palette(brand);
     outline: 0;
   }
 }
 
 .button.inverse {
   background: 0;
-  color: _palette(accent);
+  color: _palette(brand);
 
   &:hover,
   &:focus,
   &:active {
-    background: _palette(accent);
-    border-color: _palette(accent);
+    background: _palette(brand);
+    border-color: _palette(brand);
     color: #fff;
   }
 }
@@ -335,13 +335,13 @@ input[type="reset"],
 .button.outline {
   color: #fff;
   border-color: #fff;
-  background-color: _palette(accent);
+  background-color: _palette(brand);
 
   &:hover,
   &:focus,
   &:active {
     background: #fff;
-    color: _palette(accent);
+    color: _palette(brand);
   }
 }
 

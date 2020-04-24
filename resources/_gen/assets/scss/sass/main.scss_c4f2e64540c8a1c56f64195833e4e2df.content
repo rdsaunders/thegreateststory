@@ -32,7 +32,7 @@ pre,
 code,
 kbd,
 samp {
-  font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   font-size: 1em; }
 
 audio,
@@ -1005,63 +1005,8 @@ img {
 .w-50 {
   width: 50%; }
 
-.set-intro .timeline-bar {
-  background-color: #016fd6; }
-
-.set-intro .card {
-  border-color: #016fd6; }
-
-.set-beginnings .timeline-bar {
-  background-color: #085c08; }
-
-.set-beginnings .card {
-  border-color: #085c08; }
-
-.set-family .timeline-bar {
-  background-color: #f4e006; }
-
-.set-family .card {
-  border-color: #f4e006; }
-
-.set-exodus .timeline-bar {
-  background-color: #da0909; }
-
-.set-exodus .card {
-  border-color: #da0909; }
-
-.set-leaders .timeline-bar {
-  background-color: #7b037b; }
-
-.set-leaders .card {
-  border-color: #7b037b; }
-
-.set-messengers .timeline-bar {
-  background-color: #ff9900; }
-
-.set-messengers .card {
-  border-color: #ff9900; }
-
-.set-exile .timeline-bar {
-  background-color: grey; }
-
-.set-exile .card {
-  border-color: grey; }
-
-.card-marker {
-  display: flex;
-  align-items: flex-end;
-  border-top-width: 1em;
-  width: 7em;
-  height: 9em; }
-
-.card-marker--inner {
-  text-align: left; }
-
-.set-period {
-  margin-bottom: 0; }
-
 .faq {
-  background-color: #016fd6;
+  background-color: #0155a3;
   color: #fff;
   padding-top: 3.33333em;
   padding-bottom: 3.33333em; }
@@ -1234,7 +1179,7 @@ img {
   margin-left: 0.5rem;
   margin-right: 0.5rem;
   text-align: center;
-  border: 2px solid #A5D3FD;
+  border: 2px solid #a5d3fd;
   padding: 0.75rem;
   border-radius: 0.33rem;
   position: relative; }
@@ -1247,7 +1192,7 @@ img {
   border: none; }
 
 .card a::after {
-  content: '';
+  content: "";
   position: absolute;
   left: 0;
   top: 0;
@@ -1260,7 +1205,7 @@ img {
 
 .card:focus-within,
 .card:hover {
-  box-shadow: 0 0 0 0.33rem #A5D3FD; }
+  box-shadow: 0 0 0 0.33rem #a5d3fd; }
 
 .card:focus-within h2 a:focus {
   text-decoration: none; }
@@ -1274,6 +1219,19 @@ img {
 .card-image {
   margin-bottom: 0.5rem;
   border-radius: 0.25rem; }
+
+.card-marker {
+  display: flex;
+  align-items: flex-end;
+  border-top-width: 1em;
+  width: 7em;
+  height: 9em; }
+
+.card-marker--inner {
+  text-align: left; }
+
+.set-period {
+  margin-bottom: 0; }
 
 .hero-block {
   background-color: #016fd6;
@@ -1319,3 +1277,45 @@ img {
   .dt--fixed-ns {
     table-layout: fixed;
     width: 100%; } }
+
+.set-intro .timeline-bar {
+  background-color: #016fd6; }
+
+.set-intro .card {
+  border-color: #016fd6; }
+
+.set-beginnings .timeline-bar {
+  background-color: #085c08; }
+
+.set-beginnings .card {
+  border-color: #085c08; }
+
+.set-family .timeline-bar {
+  background-color: #f4e006; }
+
+.set-family .card {
+  border-color: #f4e006; }
+
+.set-exodus .timeline-bar {
+  background-color: #da0909; }
+
+.set-exodus .card {
+  border-color: #da0909; }
+
+.set-leaders .timeline-bar {
+  background-color: #7b037b; }
+
+.set-leaders .card {
+  border-color: #7b037b; }
+
+.set-messengers .timeline-bar {
+  background-color: #ff9900; }
+
+.set-messengers .card {
+  border-color: #ff9900; }
+
+.set-exile .timeline-bar {
+  background-color: grey; }
+
+.set-exile .card {
+  border-color: grey; }
