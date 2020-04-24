@@ -1260,6 +1260,16 @@ img {
     border-bottom-color: #8438B7; }
   .timeline-logo-item.set-messengers {
     border-bottom-color: #FFA217; }
+  .timeline-logo-item.set-jesus {
+    border-bottom-color: #30C2E2; }
+  .timeline-logo-item.set-rescue {
+    border-bottom-color: #016fd6; }
+  .timeline-logo-item.set-mission {
+    border-bottom-color: #F10B7A; }
+  .timeline-logo-item.set-home {
+    border-bottom-color: #4FBB7D; }
+  .timeline-logo-item.set-outro {
+    border-bottom-color: #016fd6; }
   .timeline-logo-item a {
     border: none;
     padding: 0 0.5rem; }
@@ -1309,10 +1319,12 @@ img {
     table-layout: fixed;
     width: 100%; } }
 
-.set-intro .timeline-bar {
+.set-intro .timeline-bar,
+.set-outro .timeline-bar {
   background-color: #016fd6; }
 
-.set-intro .card {
+.set-intro .card,
+.set-outro .card {
   border-color: #016fd6; }
 
 .set-beginnings .timeline-bar {
@@ -1346,7 +1358,25 @@ img {
   border-color: #FFA217; }
 
 .set-exile .timeline-bar {
-  background-color: grey; }
+  background-color: #CE820F; }
 
 .set-exile .card {
-  border-color: grey; }
+  border-color: #CE820F; }
+
+.set-jesus .timeline-bar {
+  background-color: #30C2E2; }
+
+.set-jesus .card {
+  border-color: #30C2E2; }
+
+.set-rescue .timeline-bar {
+  background-color: #016fd6; }
+
+.set-rescue .card {
+  border-color: #016fd6; }
+
+.set-mission .timeline-bar {
+  background-color: #F10B7A; }
+
+.set-mission .card {
+  border-color: #F10B7A; }
