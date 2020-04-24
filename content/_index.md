@@ -11,7 +11,7 @@ sections:
     mins _ish_) you’ll discover how each Bible story forms part of _the greatest story
     ever_ and how we can live it today. It's simple to run. No prior knowledge is
     required.
-  title: A bite size family experience.
+  title: A bite size family experience
   actions:
   - label: Get started
     url: "/get-started/"

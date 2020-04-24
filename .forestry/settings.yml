@@ -17,7 +17,7 @@ sections:
   path: content/timeline
   label: Timeline
   create: documents
-  match: "**/*"
+  match: "**/*md"
   templates:
   - set
 - type: heading
