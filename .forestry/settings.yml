@@ -32,12 +32,13 @@ sections:
   label: FAQs
   create: documents
   match: "**/*.md"
+  exclude: _index.md
 - type: directory
   path: content
   label: Pages
   create: documents
   match: "**/*"
-  exclude: "{posts/**,timeline/**,_index.md,contact.md}"
+  exclude: "{posts/**,timeline/**,faqs/**,_index.md,contact.md}"
   templates:
   - page
 - type: heading
