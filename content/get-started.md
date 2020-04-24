@@ -1,16 +1,13 @@
 ---
 layout: page
 title: Get started
-subtitle: A resource to help families experience the Bible together
+subtitle: How to set up your family Bible course
 img_path: ''
 menu:
   main:
     weight: 3
 
 ---
-* **Learn it**: see how key Bible characters and events form one BIG story
-* **Live it**: discover how the Bible helps us live life to the full today
-
 <div class="full-bleed"><iframe width="560" height="315" src="https://www.youtube.com/embed/ahpCe-ugFAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Steps to get setup
