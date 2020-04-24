@@ -7,10 +7,9 @@ sections:
   component: hero.html
   type: intro
   content: The Greatest Story Ever mixes online content (videos, quizzes) and physical
-    cards to form a colourful storyline in your own home. Though daily sessions (15
-    mins _ish_) you’ll discover how each Bible story forms part of _the greatest story
-    ever_ and how we can live it today. It's simple to run. No prior knowledge is
-    required.
+    cards to form a colourful storyline in your own home. Through daily sessions (15
+    mins _ish_) discover how each Bible story forms part of _the greatest story ever_
+    and how we can live it today. Simple to run. No prior knowledge required.
   title: A bitesize family experience
   actions:
   - label: Get started
