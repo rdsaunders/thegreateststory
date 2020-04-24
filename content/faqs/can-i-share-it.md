@@ -1,6 +1,6 @@
 ---
 title: Can I share it with others?
 order: 6
----
 
-Sure thing.
+---
+Sure thing. Please do!

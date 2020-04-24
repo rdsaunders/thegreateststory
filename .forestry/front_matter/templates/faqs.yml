@@ -10,6 +10,7 @@ fields:
   name: order
   label: Display order
 pages:
+- content/faqs/can-i-share-it.md
 - content/faqs/is-this-as-good-as-it-gets.md
 - content/faqs/whats-next-after-the-greatest-story-ever.md
 - content/faqs/who-developed-this-resource.md
