@@ -57,4 +57,6 @@ review: |-
 watch: <iframe width="560" height="315" src="https://www.youtube.com/embed/6C4MEXXbBmM"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
+qrcode: "/uploads/qr-josiah.png"
+
 ---
