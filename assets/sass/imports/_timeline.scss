@@ -8,12 +8,15 @@
   margin-left: auto;
   margin-right: auto;
   justify-content: center;
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
 }
 
 .nav-timeline-item {
   border-bottom: 8px solid transparent;
 
-  &.set-intro {
+  &.set-intro,
+  &.set-outro {
     border-bottom-color: _palette(intro);
   }
   &.set-beginnings {
@@ -30,6 +33,15 @@
   }
   &.set-messengers {
     border-bottom-color: _palette(messengers);
+  }
+  &.set-jesus {
+    border-bottom-color: _palette(jesus);
+  }
+  &.set-rescue {
+    border-bottom-color: _palette(rescue);
+  }
+  &.set-mission {
+    border-bottom-color: _palette(mission);
   }
 
   a {
@@ -71,7 +83,6 @@
   scroll-snap-type: x proximity;
   padding: 0 1.5em;
   scroll-behavior: smooth;
-  margin-bottom: 3.33333em;
 }
 
 .set {

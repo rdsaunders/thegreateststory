@@ -1112,11 +1112,13 @@ img {
   padding: 0;
   margin-left: auto;
   margin-right: auto;
-  justify-content: center; }
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem; }
 
 .nav-timeline-item {
   border-bottom: 8px solid transparent; }
-  .nav-timeline-item.set-intro {
+  .nav-timeline-item.set-intro, .nav-timeline-item.set-outro {
     border-bottom-color: #016fd6; }
   .nav-timeline-item.set-beginnings {
     border-bottom-color: #4FBB7D; }
@@ -1128,6 +1130,12 @@ img {
     border-bottom-color: #8438B7; }
   .nav-timeline-item.set-messengers {
     border-bottom-color: #FFA217; }
+  .nav-timeline-item.set-jesus {
+    border-bottom-color: #30C2E2; }
+  .nav-timeline-item.set-rescue {
+    border-bottom-color: #016fd6; }
+  .nav-timeline-item.set-mission {
+    border-bottom-color: #F10B7A; }
   .nav-timeline-item a {
     border: none;
     padding: 0 0.5rem; }
@@ -1160,8 +1168,7 @@ img {
   -webkit-overflow-scrolling: touch;
   scroll-snap-type: x proximity;
   padding: 0 1.5em;
-  scroll-behavior: smooth;
-  margin-bottom: 3.33333em; }
+  scroll-behavior: smooth; }
 
 .set {
   margin-bottom: 2rem; }

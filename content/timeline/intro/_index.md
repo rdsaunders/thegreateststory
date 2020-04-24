@@ -1,7 +1,7 @@
 ---
 order: 0
 excerpt: 
-title: Introduction
+title: Intro
 period: 
 
 ---
