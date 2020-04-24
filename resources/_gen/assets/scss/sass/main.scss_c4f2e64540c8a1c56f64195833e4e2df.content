@@ -686,8 +686,8 @@ img {
   background: #fff;
   border-top: 5px solid #016fd6;
   border-bottom: 1px solid #dedede;
-  padding-bottom: 0.5em;
-  padding-top: 0.5em; }
+  padding-bottom: 1em;
+  padding-top: 1em; }
 
 .site-header-inside {
   align-items: center;
