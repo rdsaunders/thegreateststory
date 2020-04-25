@@ -1033,6 +1033,9 @@ img {
 .post-navigation-item {
   text-align: center; }
 
+.tc {
+  text-align: center; }
+
 /**
  * Subscribe
  * ----------------------------------------------------------------------------
@@ -1121,15 +1124,15 @@ img {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  margin-bottom: 1.5rem;
-  margin-top: 1.5rem;
   text-align: center;
   overflow-x: scroll;
   scroll-behavior: smooth;
-  scroll-snap-type: x proximity; }
+  scroll-snap-type: x proximity;
+  margin: 1.5rem auto; }
 
 .nav-timeline-item {
-  border-bottom: 8px solid transparent; }
+  border-bottom: 8px solid transparent;
+  margin: auto; }
   .nav-timeline-item a {
     border-width: 8px;
     padding: 0.5rem 0.75rem; }
