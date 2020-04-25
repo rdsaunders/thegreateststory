@@ -1,8 +1,8 @@
 +++
 action = "Do something kind and generous for a friend today."
-
 date = 2020-04-14T19:26:11Z
 description = ""
+images = ["/uploads/social-ruth.png"]
 layout = "post"
 order = 13
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -15,6 +15,7 @@ scripture = "Ruth 1:16, 4:13-14"
 subtitle = "Joining God's family"
 thumb_img_path = "/uploads/ruth.png"
 timeline = " Leaders"
+timeline_position = ""
 title = "Ruth"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/irThVpdeSXk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
