@@ -10,11 +10,9 @@ fields:
   config:
     required: true
 - name: images
-  type: file
-  config:
-    maxSize: 250
-  label: Social image
-  description: The image displayed when sharing an image on social media.
+  type: image_gallery
+  config: {}
+  label: Social card image
 - name: description
   type: textarea
   default: ''
