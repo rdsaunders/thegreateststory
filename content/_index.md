@@ -1,5 +1,5 @@
 ---
-title: Homepage - The Greatest Story Ever
+title: Family Bible Course
 layout: home
 image: ''
 sections:
