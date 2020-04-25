@@ -2,7 +2,7 @@
 action = "Find out about what God’s people are doing to help those who are still in slavery today.\n\n[https://www.modernslaveryeducation.com/slaverytoday](https://www.modernslaveryeducation.com/slaverytoday \"https://www.modernslaveryeducation.com/slaverytoday\")"
 date = 2020-04-13T09:32:34Z
 description = ""
-images = []
+images = ["/uploads/social-moses.png"]
 layout = "post"
 order = 8
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
