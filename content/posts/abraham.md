@@ -2,6 +2,7 @@
 action = "On a clear night do some stargazing. Thank God for keeping His promises."
 date = 2020-04-04T09:21:39Z
 description = ""
+images = ["/uploads/social-abraham.png"]
 layout = "post"
 order = 5
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -14,6 +15,7 @@ scripture = "Genesis 12:1-3"
 subtitle = "God makes a promise"
 thumb_img_path = "/uploads/abraham.png"
 timeline = "Family"
+timeline_position = ""
 title = "Abraham"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/NdqrwGJYePQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
