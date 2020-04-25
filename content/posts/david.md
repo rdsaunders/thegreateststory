@@ -1,8 +1,8 @@
 +++
 action = "\nGo look in the mirror and tell yourself: “God’s more concerned about my heart than my hair!”"
-
 date = 2020-04-15T20:52:04Z
 description = ""
+images = ["/uploads/social-king-david.png"]
 layout = "post"
 order = 14
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -15,6 +15,7 @@ scripture = "1 Samuel 16:6-7, 13"
 subtitle = "A heart for God"
 thumb_img_path = "/uploads/king-david.png"
 timeline = " Leaders"
+timeline_position = ""
 title = "King David"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OnNXbj6udy4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
