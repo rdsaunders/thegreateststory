@@ -1,8 +1,8 @@
 +++
 action = "How about trying out life as an Old Testament prophet –\n\n1. Take an item of clothing and hide it under a rock\n2. Build a model city and attack it\n3. Walk around in your underpants\n\n   Or\n4. Next time you bbq use cow poo"
-content_img_path = ""
+
 date = 2020-04-24T06:06:59Z
-excerpt = ""
+description = ""
 layout = "post"
 order = 19
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."

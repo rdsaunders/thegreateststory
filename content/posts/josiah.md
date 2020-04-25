@@ -3,8 +3,7 @@ title: Josiah
 subtitle: Obey God's word
 date: 2020-03-29T00:00:00.000+00:00
 thumb_img_path: "/uploads/josiah.png"
-content_img_path: ''
-excerpt: ''
+description: ''
 layout: post
 scripture: 2 Kings 22:2  & 23:25
 questions: |-

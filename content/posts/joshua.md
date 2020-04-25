@@ -1,8 +1,8 @@
 +++
 action = "Memorise Joshua’s words and say them whenever you’re intimidated.\n\n“The LORD is with us…so don't be afraid.” Numbers 14v.9"
-content_img_path = ""
+
 date = 2020-04-13T10:18:19Z
-excerpt = ""
+description = ""
 layout = "post"
 order = 11
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."

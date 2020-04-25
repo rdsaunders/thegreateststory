@@ -1,8 +1,8 @@
 ---
 action: Draw a rainbow. Keep it with you. Remember God cares for you.
-content_img_path: "/uploads/page-timeline.png"
+
 date: 2020-04-04T09:16:50.000+00:00
-excerpt: ''
+description: ''
 layout: post
 order: 3
 place: Finally - have a look at the back of your card. What does it say? You can now

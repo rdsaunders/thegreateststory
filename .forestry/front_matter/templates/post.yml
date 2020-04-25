@@ -62,7 +62,7 @@ fields:
   description: The date that the card was first published.
   hidden: true
 - type: file
-  name: content_img_path
+  name: timeline_position
   label: Timeline visual
   description: The timeline and marker to display above a story
   hidden: false

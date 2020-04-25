@@ -1,8 +1,8 @@
 +++
 action = "God wrote the Ten Commandments on stone tablets. Find a rock or pebble and write on it the commandment you are working on."
-content_img_path = ""
+
 date = 2020-04-13T09:55:10Z
-excerpt = ""
+description = ""
 layout = "post"
 order = 10
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."

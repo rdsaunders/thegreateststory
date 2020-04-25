@@ -1,8 +1,8 @@
 +++
 action = "\nAt your next family meal set an extra place as a reminder that you are hosting the presence of God."
-content_img_path = ""
+
 date = 2020-04-16T13:47:14Z
-excerpt = ""
+description = ""
 layout = "post"
 order = 15
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."

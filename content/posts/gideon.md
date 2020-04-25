@@ -1,8 +1,8 @@
 +++
 action = "Set a reminder on your phone or put a note in your pocket to remember to thank God for the wonderful things He’s done."
-content_img_path = ""
+
 date = 2020-04-13T19:37:49Z
-excerpt = ""
+description = ""
 layout = "post"
 order = 12
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."

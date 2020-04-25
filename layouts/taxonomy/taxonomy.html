@@ -8,9 +8,9 @@
     {{ .Params.excerpt | safeHTML }}
   </div>
   {{ end }}
-  {{ if .Params.content_img_path }}
+  {{ if .Params.timeline_position}}
   <div class="post-thumbnail">
-    <img class="thumbnail" src="{{ .Params.content_img_path | relURL }}" alt="{{ .Params.title }}" />
+    <img class="thumbnail" src="{{ .Params.timeline_position | relURL }}" alt="{{ .Params.title }}" />
   </div>
   {{ end }}
   <div class="post-content">

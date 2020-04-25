@@ -1,8 +1,8 @@
 +++
 action = "Do something kind and generous for a friend today."
-content_img_path = ""
+
 date = 2020-04-14T19:26:11Z
-excerpt = ""
+description = ""
 layout = "post"
 order = 13
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."

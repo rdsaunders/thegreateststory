@@ -1,8 +1,8 @@
 +++
 action = "Share some good news about God with a friend or someone in your family (text, snapchat, whatsapp...)."
-content_img_path = ""
+
 date = 2020-04-21T17:23:48Z
-excerpt = ""
+description = ""
 layout = "post"
 order = 17
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."

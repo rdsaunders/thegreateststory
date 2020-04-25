@@ -1,8 +1,8 @@
 ---
 action: 'Find out how to say "Hello" and "Thank you" in another language. '
-content_img_path: "/uploads/page-timeline.png"
+
 date: 2020-04-02T13:22:41.000+00:00
-excerpt: ''
+description: ''
 layout: post
 order: 4
 place: Finally - have a look at the back of your card. What does it say? You can now

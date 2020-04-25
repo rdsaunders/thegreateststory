@@ -1,8 +1,8 @@
 +++
 action = "\nTurn the tap on. Thank God for water. Shout three times “The Lord is God. We worship him!”"
-content_img_path = ""
+
 date = 2020-04-20T19:57:15Z
-excerpt = ""
+description = ""
 layout = "post"
 order = 16
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."

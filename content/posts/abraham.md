@@ -1,8 +1,7 @@
 +++
 action = "On a clear night do some stargazing. Thank God for keeping His promises."
-content_img_path = "/uploads/page-timeline.png"
 date = 2020-04-04T09:21:39Z
-excerpt = ""
+description = ""
 layout = "post"
 order = 5
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."

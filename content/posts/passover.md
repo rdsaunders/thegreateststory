@@ -1,8 +1,8 @@
 +++
 action = "\nMunch a cracker or some flat bread and thank God for Passover and freedom."
-content_img_path = ""
+
 date = 2020-04-13T09:47:54Z
-excerpt = ""
+description = ""
 layout = "post"
 order = 9
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."

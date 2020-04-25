@@ -1,8 +1,8 @@
 +++
 action = "Set up your story line. Print out and cup up your first set of cards, “Beginnings”."
-content_img_path = ""
+
 date = 2020-04-20T11:13:48Z
-excerpt = ""
+description = ""
 layout = "post"
 order = 0
 place = "You can place the “Beginnings” marker at the start of your story line."

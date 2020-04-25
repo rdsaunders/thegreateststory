@@ -3,9 +3,9 @@ action: |-
   When making choices today, think:  _What would God want me to do?_
 
   And don’t talk to snakes!
-content_img_path: "/uploads/page-timeline.png"
+
 date: 2020-04-04T09:09:16.000+00:00
-excerpt: ''
+description: ''
 layout: post
 order: 2
 place: Finally - have a look at the back of your card. What does it say? You can now

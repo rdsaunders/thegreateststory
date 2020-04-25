@@ -1,8 +1,8 @@
 +++
 action = "Next time you feel afraid tell yourself, “God is with me. We can do this!”"
-content_img_path = ""
+
 date = 2020-04-13T09:11:58Z
-excerpt = ""
+description = ""
 layout = "post"
 order = 6
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
