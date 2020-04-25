@@ -2,7 +2,6 @@
 title: Creation
 date: 2020-03-28T20:51:46.000+00:00
 thumb_img_path: "/uploads/creation.png"
-
 description: ''
 layout: post
 subtitle: God made it good
@@ -42,5 +41,6 @@ place: Finally - have a look at the back of your card. What does it say? You can
   place your card onto your story line.
 qrcode: "/uploads/qr-creation.png"
 timeline: Beginnings
+images: "/uploads/social-creation.png"
 
 ---
