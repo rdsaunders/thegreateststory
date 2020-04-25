@@ -41,7 +41,6 @@ place: Finally - have a look at the back of your card. What does it say? You can
   place your card onto your story line.
 qrcode: "/uploads/qr-creation.png"
 timeline: Beginnings
-images: 
-- /uploads/social-creation.png
+images: []
 
 ---
