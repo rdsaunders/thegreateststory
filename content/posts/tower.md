@@ -1,6 +1,5 @@
 ---
 action: 'Find out how to say "Hello" and "Thank you" in another language. '
-
 date: 2020-04-02T13:22:41.000+00:00
 description: ''
 layout: post
@@ -41,5 +40,6 @@ title: Tower
 watch: <iframe width="560" height="315" src="https://www.youtube.com/embed/CW-NXNzdZhM"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
+images: "/uploads/social-tower.png"
 
 ---
