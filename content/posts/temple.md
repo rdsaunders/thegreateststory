@@ -1,8 +1,8 @@
 +++
 action = "\nAt your next family meal set an extra place as a reminder that you are hosting the presence of God."
-
 date = 2020-04-16T13:47:14Z
 description = ""
+images = ["/uploads/social-solomons-temple.png"]
 layout = "post"
 order = 15
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -15,6 +15,7 @@ scripture = "I Kings 8:20-21"
 subtitle = "A home for God"
 thumb_img_path = "/uploads/solomons-temple.png"
 timeline = " Leaders"
+timeline_position = ""
 title = "Solomon's Temple"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2n0N6iE3n30\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
