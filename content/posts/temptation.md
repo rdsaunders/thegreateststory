@@ -3,7 +3,6 @@ action: |-
   When making choices today, think:  _What would God want me to do?_
 
   And don’t talk to snakes!
-
 date: 2020-04-04T09:09:16.000+00:00
 description: ''
 layout: post
@@ -43,5 +42,7 @@ watch: <iframe width="560" height="315" src="https://www.youtube.com/embed/Kg2lk
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
 timeline: Beginnings
+images: "/uploads/social-temptation.png"
+timeline_position: ''
 
 ---
