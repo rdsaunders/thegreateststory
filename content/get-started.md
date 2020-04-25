@@ -22,7 +22,6 @@ menu:
 
 The Greatest Story Ever has 40 sessions that are arranged into 10 sets. To get started print the ‘Beginnings’ pdf. Then the rest as and when.
 
-* [Intro](/uploads/set_intro.pdf "Intro")
 * [Beginnings](/uploads/set_beginnings.pdf "Beginnings")
 * [Family](/uploads/set_family.pdf "Family")
 * [Exodus](/uploads/set_exodus.pdf "Exodus")
@@ -33,7 +32,6 @@ The Greatest Story Ever has 40 sessions that are arranged into 10 sets. To get s
 * Rescue _(Coming soon)_
 * Mission _(Coming soon)_
 * Home _(Coming soon)_
-* Outro _(Coming soon)_
 
 ## How each session works
 
