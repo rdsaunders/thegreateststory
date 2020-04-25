@@ -1,8 +1,8 @@
 +++
 action = "Set a reminder on your phone or put a note in your pocket to remember to thank God for the wonderful things He’s done."
-
 date = 2020-04-13T19:37:49Z
 description = ""
+images = ["/uploads/social-judge-gideon.png"]
 layout = "post"
 order = 12
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -15,6 +15,7 @@ scripture = "Judges 6:12-14"
 subtitle = "Israel gets stuck "
 thumb_img_path = "/uploads/judge-gideon.png"
 timeline = " Leaders"
+timeline_position = ""
 title = "Judge Gideon"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/U68cIMZSgvQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
