@@ -48,11 +48,17 @@ fields:
     min: 
     max: 
     step: '1'
+- name: images
+  type: file
+  config:
+    maxSize: 250
+  label: Social image
+  description: The image displayed when sharing an image on social media
 - type: text
-  name: excerpt
-  label: Summary
-  description: The summary of the story, to be displayed on the homepage and in search
-    engines.
+  name: description
+  label: Social description
+  description: The summary of the story, to be displayed in search engines and social
+    sharing.
 - type: datetime
   name: date
   label: Publish date
