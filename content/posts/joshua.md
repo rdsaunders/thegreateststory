@@ -1,8 +1,8 @@
 +++
 action = "Memorise Joshua’s words and say them whenever you’re intimidated.\n\n“The LORD is with us…so don't be afraid.” Numbers 14v.9"
-
 date = 2020-04-13T10:18:19Z
 description = ""
+images = ["/uploads/social-joshua.png"]
 layout = "post"
 order = 11
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -15,6 +15,7 @@ scripture = "\rNumbers 14:6-9\r"
 subtitle = "The Promised Land"
 thumb_img_path = "/uploads/joshua.png"
 timeline = "Exodus"
+timeline_position = ""
 title = "Joshua"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/wUKWt46vubo\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
