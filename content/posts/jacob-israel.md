@@ -1,8 +1,8 @@
 +++
 action = "Next time you feel afraid tell yourself, “God is with me. We can do this!”"
-
 date = 2020-04-13T09:11:58Z
 description = ""
+images = ["/uploads/social-jacob-israel.png"]
 layout = "post"
 order = 6
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -15,6 +15,7 @@ scripture = "Genesis 32: 27-29"
 subtitle = "God gives a name"
 thumb_img_path = "/uploads/jacob-israel.png"
 timeline = "Family"
+timeline_position = ""
 title = "Jacob"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0zIbU866z6A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
