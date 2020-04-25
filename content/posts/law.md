@@ -1,8 +1,8 @@
 +++
 action = "God wrote the Ten Commandments on stone tablets. Find a rock or pebble and write on it the commandment you are working on."
-
 date = 2020-04-13T09:55:10Z
 description = ""
+images = ["/uploads/social-law.png"]
 layout = "post"
 order = 10
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -15,6 +15,7 @@ scripture = "Exodus 20:1-4"
 subtitle = "The 10 Commands"
 thumb_img_path = "/uploads/law.png"
 timeline = "Exodus"
+timeline_position = ""
 title = "Law"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/aX28nAB4S7A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 

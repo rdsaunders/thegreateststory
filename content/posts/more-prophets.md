@@ -1,8 +1,8 @@
 +++
 action = "How about trying out life as an Old Testament prophet –\n\n1. Take an item of clothing and hide it under a rock\n2. Build a model city and attack it\n3. Walk around in your underpants\n\n   Or\n4. Next time you bbq use cow poo"
-
 date = 2020-04-24T06:06:59Z
 description = ""
+images = ["/uploads/social-more-prophets.png"]
 layout = "post"
 order = 19
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -15,6 +15,7 @@ scripture = "Jeremiah 1:4-8"
 subtitle = "Hear God's heart"
 thumb_img_path = "/uploads/more-prophets.png"
 timeline = "Messengers"
+timeline_position = ""
 title = "More Prophets"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sumaXbjP2Kg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n"
 
