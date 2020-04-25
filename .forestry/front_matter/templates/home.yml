@@ -23,7 +23,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Description
+  label: Social description
 - type: blocks
   name: sections
   label: Sections
