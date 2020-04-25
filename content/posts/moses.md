@@ -1,8 +1,8 @@
 +++
 action = "Find out about what God’s people are doing to help those who are still in slavery today.\n\n[https://www.modernslaveryeducation.com/slaverytoday](https://www.modernslaveryeducation.com/slaverytoday \"https://www.modernslaveryeducation.com/slaverytoday\")"
-
 date = 2020-04-13T09:32:34Z
 description = ""
+images = []
 layout = "post"
 order = 8
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -15,6 +15,7 @@ scripture = "Exodus 3:4,7, 10-12"
 subtitle = "The rescue plan"
 thumb_img_path = "/uploads/moses.png"
 timeline = "Exodus"
+timeline_position = ""
 title = "Moses"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0eEHT6dCKbI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
