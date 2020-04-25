@@ -1,8 +1,8 @@
 +++
 action = "\nMunch a cracker or some flat bread and thank God for Passover and freedom."
-
 date = 2020-04-13T09:47:54Z
 description = ""
+images = ["/uploads/social-passover.png"]
 layout = "post"
 order = 9
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -15,6 +15,7 @@ scripture = "Exodus 12:21-23"
 subtitle = "The blood of the lamb"
 thumb_img_path = "/uploads/passover.png"
 timeline = "Exodus"
+timeline_position = ""
 title = "Passover"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1IwMt-KLkSE\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
