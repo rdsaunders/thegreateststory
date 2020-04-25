@@ -49,11 +49,10 @@ fields:
     max: 
     step: '1'
 - name: images
-  type: file
-  config:
-    maxSize: 250
+  type: image_gallery
+  config: {}
   label: Social image
-  description: The image displayed when sharing an image on social media
+  description: The image displayed when sharing an image on social media.
 - type: text
   name: description
   label: Social description
