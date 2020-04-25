@@ -36,10 +36,11 @@
 .site-title {
   color: _palette(secondary);
   font-family: _font(secondary);
-  font-size: 1.66667rem;
+  font-size: 1.7rem;
   font-weight: bold;
   line-height: 1.2;
   margin: 0;
+  text-transform: uppercase;
 
   a {
     border: 0;

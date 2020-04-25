@@ -172,6 +172,18 @@
   border-top-width: 1em;
   width: 7em;
   height: 9em;
+
+  a {
+    text-decoration: none;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: _palette(brand);
+  }
+
+  a:hover {
+    text-decoration: none;
+    border: none;
+  }
 }
 
 .card-marker--inner {
