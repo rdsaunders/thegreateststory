@@ -22,7 +22,12 @@ sections:
     allowfullscreen></iframe>
 images:
 - "/uploads/social-homepage.png"
-description: ''
+description: 'The Greatest Story Ever is a family devotional course.  Through daily
+  sessions discover how each story, character and event in the Bible forms part of
+  the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior
+  knowledge is required.
+
+'
 menu:
   main:
     weight: 1
