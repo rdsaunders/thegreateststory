@@ -5,6 +5,7 @@ params:
   language: en-GB
   layout_style: horizontal
   google_analytics: UA-164034709-1
+  description: 
   header:
     title: The Greatest Story Ever
     sub_title: Family Bible Course
