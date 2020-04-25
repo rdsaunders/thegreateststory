@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Homepage - The Greatest Story Ever
 layout: home
 image: ''
 sections:
@@ -18,7 +18,8 @@ sections:
   embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/ahpCe-ugFAI"
     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
-images: "/uploads/social-homepage.png"
+images:
+- "/uploads/social-homepage.png"
 description: ''
 menu:
   main:
