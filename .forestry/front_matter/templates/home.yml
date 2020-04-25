@@ -9,6 +9,20 @@ fields:
     used.
   config:
     required: true
+- name: images
+  type: file
+  config:
+    maxSize: 250
+  label: Social image
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
 - type: blocks
   name: sections
   label: Sections
