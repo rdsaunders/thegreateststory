@@ -1,8 +1,8 @@
 +++
 action = "Share some good news about God with a friend or someone in your family (text, snapchat, whatsapp...)."
-
 date = 2020-04-21T17:23:48Z
 description = ""
+images = ["/uploads/social-jonah.png"]
 layout = "post"
 order = 17
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -15,6 +15,7 @@ scripture = "Jonah 1:1-3, 2:10-3:2"
 subtitle = "Go God's way"
 thumb_img_path = "/uploads/jonah.png"
 timeline = "Messengers"
+timeline_position = ""
 title = "Jonah "
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jO2QsF_nnIU\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n"
 
