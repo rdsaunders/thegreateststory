@@ -1,8 +1,8 @@
 +++
 action = "\nTurn the tap on. Thank God for water. Shout three times “The Lord is God. We worship him!”"
-
 date = 2020-04-20T19:57:15Z
 description = ""
+images = ["/uploads/social-elijah.png"]
 layout = "post"
 order = 16
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -15,6 +15,7 @@ scripture = " 1 Kings 17:1 1 Kings 18:20-21"
 subtitle = "The Lord is God"
 thumb_img_path = "/uploads/elijah.png"
 timeline = "Messengers"
+timeline_position = ""
 title = "Elijah"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2T5gAXoerjw\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
