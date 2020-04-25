@@ -1125,7 +1125,8 @@ img {
   justify-content: center;
   margin-bottom: 1.5rem;
   margin-top: 1.5rem;
-  text-align: center; }
+  text-align: center;
+  overflow-x: auto; }
 
 .nav-timeline-item {
   border-bottom: 8px solid transparent; }

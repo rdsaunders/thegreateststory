@@ -43,7 +43,7 @@ watch: <iframe width="560" height="315" src="https://www.youtube.com/embed/Kg2lk
   allowfullscreen></iframe>
 timeline: Beginnings
 images:
-- "/uploads/social-temptation-1.png"
+- "/uploads/social-temptation.png"
 timeline_position: ''
 
 ---
