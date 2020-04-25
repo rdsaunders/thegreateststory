@@ -1,8 +1,8 @@
 +++
 action = "Put on something colourful and remember God’s got a plan even when it’s tricky."
-
 date = 2020-04-13T09:22:56Z
 description = ""
+images = ["/uploads/social-joseph.png"]
 layout = "post"
 order = 7
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -15,6 +15,7 @@ scripture = "Genesis 37:3, 50:19-21"
 subtitle = "God works it out"
 thumb_img_path = "/uploads/joseph.png"
 timeline = "Family"
+timeline_position = ""
 title = "Joseph"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/NQ7wLTBnF84\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
