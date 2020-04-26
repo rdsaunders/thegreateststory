@@ -8,7 +8,7 @@ menu:
     weight: 3
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kJxWGBIb_us" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {{< youtube oJlVt8GPF-I >}}
 
 ## Steps to get setup
 
