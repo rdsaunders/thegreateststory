@@ -17,7 +17,9 @@ sections:
   - label: Get started
     url: "/get-started/"
   section_id: ''
-  embed: ''
+  embed: 'https://youtu.be/iusUr-SB88M
+
+'
 images:
 - "/uploads/social-homepage.png"
 description: 'The Greatest Story Ever is a family devotional course.  Through daily
