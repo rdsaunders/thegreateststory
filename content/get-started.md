@@ -8,7 +8,7 @@ menu:
     weight: 3
 
 ---
-<div class="full-bleed"><iframe width="560" height="315" src="https://www.youtube.com/embed/ahpCe-ugFAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJlVt8GPF-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Steps to get setup
 
@@ -39,10 +39,10 @@ The cards tag to the online content through a QR code. Point your camera phone a
 
 Each session follows the same pattern:
 
-* **Review it**: someone talks through the cards on the storyline to give a quick recap.
-* **Watch it**: we really love these God’s Story videos by Crossroads Kids’ Club and we’re grateful we can share them via YouTube.
-* **Read it**: on the web page there’s a short Bible reading. We encourage you to find it in a hard copy of the Bible too.
-* **Quiz it**: talk through the questions on the web page. (Probably best if an adult leads this bit). The first question is a warm up. Some questions are fact finding others more applied. Sentences in bold give further information. 'Quiz It' should take about 7 mins, so keep it moving!
+* **Review it**: Someone talks through the cards on the storyline to give a quick recap.
+* **Watch it**: We really love these God’s Story videos by Crossroads Kids’ Club and we’re grateful we can share them via YouTube.
+* **Read it**: On the web page there’s a short Bible reading. We encourage you to find it in a hard copy of the Bible too.
+* **Quiz it**: Talk through the questions on the web page. (Probably best if an adult leads this bit). The first question is a warm up. Some questions are fact finding others more applied. Sentences in bold give further information. 'Quiz It' should take about 7 mins, so keep it moving!
 * **Pray it:** Take a moment to be still and read the prayer. **Pray It+** gives suggestions for more open prayer as a family.
-* **Do it:** this final suggestion gives a punchy and practical application.
+* **Do it:** This final suggestion gives a punchy and practical application.
 * **Place it:** Give the session card to one of the kids. Ask them to read the summary info on the back and then place it on the storyline.
