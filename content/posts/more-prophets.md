@@ -1,7 +1,7 @@
 +++
 action = "How about trying out life as an Old Testament prophet –\n\n1. Take an item of clothing and hide it under a rock\n2. Build a model city and attack it\n3. Walk around in your underpants"
 date = 2020-04-24T06:06:59Z
-description = ""
+description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
 images = ["/uploads/social-more-prophets.png"]
 layout = "post"
 order = 19
