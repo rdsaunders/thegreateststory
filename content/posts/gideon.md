@@ -1,7 +1,7 @@
 +++
 action = "Set a reminder on your phone or put a note in your pocket to remember to thank God for the wonderful things He’s done."
 date = 2020-04-13T19:37:49Z
-description = ""
+description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
 images = ["/uploads/social-judge-gideon.png"]
 layout = "post"
 order = 12
