@@ -1,7 +1,7 @@
 +++
 action = "God wrote the Ten Commandments on stone tablets. Find a rock or pebble and write on it the commandment you are working on."
 date = 2020-04-13T09:55:10Z
-description = ""
+description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
 images = ["/uploads/social-law.png"]
 layout = "post"
 order = 10
