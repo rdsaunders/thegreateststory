@@ -1,7 +1,7 @@
 +++
 action = "On a clear night do some stargazing. Thank God for keeping His promises."
 date = 2020-04-04T09:21:39Z
-description = ""
+description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
 images = ["/uploads/social-abraham.png"]
 layout = "post"
 order = 5
