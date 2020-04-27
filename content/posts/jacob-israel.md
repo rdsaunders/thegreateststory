@@ -1,7 +1,7 @@
 +++
 action = "Next time you feel afraid tell yourself, “God is with me. We can do this!”"
 date = 2020-04-13T09:11:58Z
-description = ""
+description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
 images = ["/uploads/social-jacob-israel.png"]
 layout = "post"
 order = 6
