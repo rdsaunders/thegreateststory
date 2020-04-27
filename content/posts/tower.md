@@ -1,7 +1,10 @@
 ---
 action: 'Find out how to say "Hello" and "Thank you" in another language. '
 date: 2020-04-02T13:22:41.000+00:00
-description: ''
+description: The Greatest Story Ever is a family devotional course.  Through daily
+  sessions discover how each story, character and event in the Bible forms part of
+  the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior
+  knowledge is required.
 layout: post
 order: 4
 place: Finally - have a look at the back of your card. What does it say? You can now
