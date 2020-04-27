@@ -2,7 +2,10 @@
 title: Creation
 date: 2020-03-28T20:51:46.000+00:00
 thumb_img_path: "/uploads/creation.png"
-description: ''
+description: The Greatest Story Ever is a family devotional course.  Through daily
+  sessions discover how each story, character and event in the Bible forms part of
+  the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior
+  knowledge is required.
 layout: post
 subtitle: God made it good
 questions: "**The creation story tells us that God made everything for us to enjoy.**\n\n*
