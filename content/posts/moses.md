@@ -1,7 +1,7 @@
 +++
 action = "Find out about what God’s people are doing to help those who are still in slavery today.\n\n[https://www.modernslaveryeducation.com/slaverytoday](https://www.modernslaveryeducation.com/slaverytoday \"https://www.modernslaveryeducation.com/slaverytoday\")"
 date = 2020-04-13T09:32:34Z
-description = ""
+description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
 images = ["/uploads/social-moses.png"]
 layout = "post"
 order = 8
