@@ -1,7 +1,7 @@
 +++
 action = "\nMunch a cracker or some flat bread and thank God for Passover and freedom."
 date = 2020-04-13T09:47:54Z
-description = ""
+description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
 images = ["/uploads/social-passover.png"]
 layout = "post"
 order = 9
