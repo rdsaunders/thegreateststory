@@ -6,8 +6,8 @@ sections:
 - template: hero
   component: hero.html
   type: intro
-  content: Through 15 minute sessions explore where Bible characters and events fit
-    into _The Greatest Story Ever_ and discover how we can be part of it today. Simple
+  content: Through 15 minute sessions explore famous characters and events that form
+    _The Greatest Story Ever_ and discover how we can be part of it today.  Simple
     to run. Fun. Free. No prior knowledge required.  This family devotional course
     mixes online content (videos, readings, discussion) and printed cards to form
     a colourful learning experience in your own home.
