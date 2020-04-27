@@ -1,7 +1,7 @@
 +++
 action = "Memorise Joshua’s words and say them whenever you’re intimidated.\n\n“The LORD is with us…so don't be afraid.” Numbers 14v.9"
 date = 2020-04-13T10:18:19Z
-description = ""
+description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
 images = ["/uploads/social-joshua.png"]
 layout = "post"
 order = 11
