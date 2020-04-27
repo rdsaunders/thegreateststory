@@ -53,25 +53,25 @@
     {{ if .Params.questions }}
     <div>
       <h2>Quiz it</h2>
-      {{ .Params.questions | markdownify }}
+      {{ partial "markdownify-block" .Params.questions }}
     </div>
     {{ end }}
     {{ if .Params.prayer }}
     <div>
       <h2>Pray it</h2>
-      <p>{{ .Params.prayer | markdownify }}</p>
+      {{ partial "markdownify-block" .Params.prayer }}
     </div>
     {{ end }}
     {{ if .Params.action }}
     <div>
       <h2>Do it</h2>
-      <p>{{ .Params.action | markdownify }}</p>
+      {{ partial "markdownify-block" .Params.action }}
     </div>
     {{ end }}
     {{ if .Params.place }}
     <div>
       <h2>Place it</h2>
-      <p>{{ .Params.place | markdownify }}</p>
+      {{ partial "markdownify-block" .Params.place }}
     </div>
     {{ end }}
     <hr />

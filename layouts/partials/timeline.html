@@ -5,7 +5,7 @@
 <div class="set-wrapper">
 
     {{ range sort .Site.Taxonomies.timeline ".Page.Params.order" "asc" }}
-        <section class="set set-{{ lower .Page.Params.title }}" id="{{ lower .Page.Params.title }}">
+        <section class="set set-{{ lower .Page.Params.title }}" id="set-{{ lower .Page.Params.title }}">
             
             <div class="timeline-bar">
                 <div class="timeline-marker"></div>
