@@ -1,7 +1,7 @@
 +++
 action = "Speak of an area in which they need to be more courageous. Roar like a lion and go do it!"
 date = 2020-04-24T20:00:25Z
-description = ""
+description = "Through 15 minute sessions explore famous characters and events that form The Greatest Story Ever and discover how we can be part of it today.  Simple to run. Fun. Free. No prior knowledge required.  This family devotional course mixes online content (videos, readings, discussion) and printed cards to form a colourful learning experience in your own home."
 draft = true
 images = []
 layout = "post"
