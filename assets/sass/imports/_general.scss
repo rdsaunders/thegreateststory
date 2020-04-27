@@ -427,9 +427,18 @@ img {
   border-radius: 3px;
 }
 
+.tc {
+  text-align: center;
+}
 
+.flex {
+  display: flex;
+}
 
-.col {
+.ml-auto {
+  margin-left: auto;
+}
+
+.w-50 {
   width: 50%;
-  max-width: 50%;
 }

@@ -27,7 +27,7 @@
     {{ if .Params.review }}
     <div class="intro">
       <h2>Review it</h2>
-      <p>{{ .Params.review | safeHTML }}</p>
+      {{ partial "markdownify-block" .Params.review }}
     </div>
     {{ end }}
 
@@ -45,7 +45,7 @@
       <p>{{ .Params.scripture }}</p>
       {{ if .Params.read_scripture }}
         <div class="post-scripture">
-          <p>{{ .Params.read_scripture | safeHTML }}</p>
+         {{ partial "markdownify-block" .Params.read_scripture }}
         </div>
       {{ end }}
     </div>

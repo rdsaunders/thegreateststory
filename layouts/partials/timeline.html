@@ -1,8 +1,10 @@
 <div class="tc">
-<h2>Scroll or swipe the interactive storyline</h2>
-<p>Click on a picture for devotional content that relates to the printed card</p>
+    <h2>Scroll or swipe the interactive storyline</h2>
+    <p>Click on a picture for devotional content that relates to the printed card</p>
 </div>
-<div class="set-wrapper">
+
+<div class="timeline-wrapper">
+
 
     {{ range sort .Site.Taxonomies.timeline ".Page.Params.order" "asc" }}
         <section class="set set-{{ lower .Page.Params.title }}" id="set-{{ lower .Page.Params.title }}">
@@ -11,13 +13,13 @@
                 <div class="timeline-marker"></div>
             </div>
            
-            <ul class="cards">
-                <li class="card card-marker">
-                    <div class="card-marker--inner">    
+            <ul class="timeline-cards">
+                <li class="timeline-card timeline-card-marker">
+                    <div class="timeline-card-marker__inner">
                         <div>
 
                         {{ if .Page.Params.icon }}
-                        <img class="set-icon" width="64" height="64" src="{{ .Page.Params.icon | relURL }}" alt="{{ .Page.Params.title }}" />
+                        <img class="timeline__icon" width="64" height="64" src="{{ .Page.Params.icon | relURL }}" alt="{{ .Page.Params.title }}" />
                         {{ end }}
                         
                         <h3 class="set-title">{{ .Page.Params.title }}</h3>
@@ -30,24 +32,26 @@
                         <a href="{{.Page.Params.set_download}}" id="{{ lower .Page.Params.title }}" target="_blank">Print cards</a>
                         {{ end }}
                         </div>
-                    </div>                
+                    </div>
                 </li>
 
                
                 {{ range .Pages.ByParam "order" }}
-                    <li class="card">
-                        <h3 class="card-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Params.title }}</a></h3>
+                    <li class="timeline-card">
+                        <h3 class="timeline-card__title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Params.title }}</a></h3>
 
                         {{ if .Params.thumb_img_path }}
-                        <img class="card-image" width="216" height="288" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
+                        <img class="timeline-card__image" width="216" height="288" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
                         {{ end }}
                     
                         <div>
-                        <p class="card-subtitle">{{ .Params.subtitle }}</p>
+                        <p class="timeline-card__subtitle">{{ .Params.subtitle }}</p>
                         </div>
                     </li>
                 {{ end }}
             </ul>
         </section>
     {{ end }}
+    <!-- <div class="timeline-pager__next"></div>
+    <div class="timeline-pager__prev"></div> -->
 </div>

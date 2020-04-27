@@ -1,3 +1,33 @@
+// Block
+.intro-block {
+  margin-bottom: 2.5rem;
+
+  @media only screen and (min-width: 801px) {
+    margin-bottom: 3.33333rem;
+  }
+}
+
+.intro-text {
+  color: _palette(secondary);
+  font-family: _font(secondary);
+  font-size: 1.33333rem;
+  line-height: 1.5;
+  margin-bottom: 1.66667rem;
+
+  > * {
+    margin-bottom: 1.66667rem;
+  }
+
+}
+
+.intro-cta {
+  .button {
+    margin: 0 15px 0.83333rem 0;
+  }
+}
+
+// Hero block
+
 .hero-block {
     background-color: _palette(brand);
     color: #fff;
