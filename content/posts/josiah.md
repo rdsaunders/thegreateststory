@@ -3,7 +3,10 @@ title: Josiah
 subtitle: Obey God's word
 date: 2020-03-29T00:00:00.000+00:00
 thumb_img_path: "/uploads/josiah.png"
-description: ''
+description: The Greatest Story Ever is a family devotional course.  Through daily
+  sessions discover how each story, character and event in the Bible forms part of
+  the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior
+  knowledge is required.
 layout: post
 scripture: 2 Kings 22:2  & 23:25
 questions: |-
