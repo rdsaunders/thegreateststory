@@ -1,7 +1,7 @@
 +++
 action = "Share some good news about God with a friend or someone in your family (text, snapchat, whatsapp...)."
 date = 2020-04-21T17:23:48Z
-description = ""
+description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
 images = ["/uploads/social-jonah.png"]
 layout = "post"
 order = 17
