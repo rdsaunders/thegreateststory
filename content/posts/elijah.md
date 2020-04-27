@@ -1,7 +1,7 @@
 +++
 action = "\nTurn the tap on. Thank God for water. Shout three times “The Lord is God. We worship him!”"
 date = 2020-04-20T19:57:15Z
-description = ""
+description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
 images = ["/uploads/social-elijah.png"]
 layout = "post"
 order = 16
