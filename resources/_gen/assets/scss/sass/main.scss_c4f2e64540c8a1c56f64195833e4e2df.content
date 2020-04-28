@@ -928,6 +928,9 @@ img {
   width: 200px;
   border-radius: 0.25rem; }
 
+.post-navigation {
+  margin-bottom: 1.66667rem; }
+
 .post-nav-image {
   width: 5em; }
 
