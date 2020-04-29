@@ -2,7 +2,7 @@
 action = "\nFind out about Christians who are persecuted. Pray for them.\n\nCheck out answers about most difficult places to be a Christian\n\nLook up the Open Doors watch list to find out more.\n\n[**https://www.opendoorsuk.org/persecution/countries/?ref=footlnk**](https://www.opendoorsuk.org/persecution/countries/?ref=footlnk \"https://www.opendoorsuk.org/persecution/countries/?ref=footlnk\")"
 date = 2020-04-24T20:05:04Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-images = []
+images = ["/uploads/social-esther.png"]
 layout = "post"
 order = 21
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
