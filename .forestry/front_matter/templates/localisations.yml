@@ -10,6 +10,7 @@ fields:
     name: id
     label: Code identifier
     description: This is the value used in code to reference the text {{ i18n "id"}}.
+      This field cannot have spaces, replaces any spaces with underscores.
     config:
       required: true
   - type: text
@@ -18,5 +19,8 @@ fields:
     description: This is the text that should be displayed for this localisation.
     config:
       required: true
+  description: Both the Code identifier and localisation fields have to be populated
+    and used in code. Do not use spaces in the code identifier, replace any spaces
+    with underscaores.
 pages:
 - i18n/en.yaml
