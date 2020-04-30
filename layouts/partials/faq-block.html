@@ -1,0 +1,12 @@
+<section class="faq full-bleed">
+    <div class="faq-inner">
+      <h2>{{ i18n "faq_title" }}</h3>
+      <dl class="faq-list">
+        {{ $faqs := where .Site.Pages "Section" "faqs" }}
+        {{ range sort $faqs ".Page.Params.order" "asc" }}
+          <dt class="question">{{ .Title }}</dt>
+          <dd>{{ .Content }}</dd>
+        {{ end }}
+      </dl>
+    </div>
+</section>

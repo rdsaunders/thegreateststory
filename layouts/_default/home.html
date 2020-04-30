@@ -10,24 +10,9 @@
     <img src="{{ .Params.image | relURL }}" alt="" />
   </div>
   {{ end }}
+
   {{ partial "timeline.html" . }}
   {{ partial "nav-timeline.html" . }}
-
-
-
-<section class="faq full-bleed">
-  <div class="faq-inner">
-    <h2>Frequently Asked Questions</h3>
-    <dl class="faq-list">
-      {{ $faqs := where .Site.Pages "Section" "faqs" }}
-      {{ range sort $faqs ".Page.Params.order" "asc" }}
-        <dt class="question">{{ .Title }}</dt>
-        <dd>{{ .Content }}</dd>
-      {{ end }}
-      </dl>
-  </div>
-</section>
-
-
+  {{ partial "faq-block.html" . }}
 
 {{ end }}

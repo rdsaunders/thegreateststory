@@ -6,7 +6,7 @@
         {{ if .Params.thumb_img_path }}
         <img class="post-nav-image" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
         {{ end }}
-        <div><a title="Previous page in {{ .Section }}" href="{{ .Permalink }}">Previous: {{ .Title }}</a></div>
+        <div><a title="Previous page in {{ .Section }}" href="{{ .Permalink }}">{{ i18n "previous_story" }} {{ .Title }}</a></div>
     </div>
     {{ end }}
    
@@ -15,7 +15,7 @@
     {{ if .Params.thumb_img_path }}
         <img class="post-nav-image" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
         {{ end }}
-      <div><a title="Next page in {{ .Section }}" href="{{ .Permalink }}">Next: {{ .Title }}</a></div>
+      <div><a title="Next page in {{ .Section }}" href="{{ .Permalink }}">{{ i18n "next_story" }} {{ .Title }}</a></div>
   </div>
   {{ end }}
   </nav>
