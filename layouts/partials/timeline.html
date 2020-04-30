@@ -38,10 +38,13 @@
                
                 {{ range .Pages.ByParam "order" }}
                     <li class="timeline-card">
-                        <h3 class="timeline-card__title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Params.title }}</a></h3>
 
                         {{ if .Params.thumb_img_path }}
+                        <h3 class="timeline-card__title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Params.title }}</a></h3>
                         <img class="timeline-card__image" width="216" height="288" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
+                        {{ else }}
+                        <h3 class="timeline-card__title">{{ .Params.title }}</h3>
+                        <img class="timeline-card__image" width="216" height="288" src="/uploads/coming-soon.png" alt="{{ .Params.subtitle }}" />
                         {{ end }}
                     
                         <div>
