@@ -70,7 +70,7 @@ fields:
   name: timeline_position
   label: Timeline visual
   description: The timeline and marker to display above a story
-  hidden: false
+  hidden: true
 - name: review
   type: textarea
   default: ''
@@ -156,7 +156,7 @@ fields:
 - name: qrcode
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: QR Code
   description: 'A QR code for this page, can be generated at: <a href="https://www.qrcode-monkey.com/"
     title="https://www.qrcode-monkey.com/" target="_blank">https://www.qrcode-monkey.com/</a>'
