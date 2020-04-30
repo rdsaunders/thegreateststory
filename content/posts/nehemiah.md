@@ -17,6 +17,6 @@ thumb_img_path = ""
 timeline = "Exile"
 timeline_position = ""
 title = "Nehemiah"
-watch = "\nIf you click the “cc” button on the bottom right of the video helpful subtitles appear.\n\n\n"
+watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HdDvqWtVkro\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nIf you click the “cc” button on the bottom right of the video helpful subtitles appear."
 
 +++
