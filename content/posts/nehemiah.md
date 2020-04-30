@@ -1,21 +1,22 @@
 +++
-action = ""
-
+action = "In Nehemiah it says the people’s rejoicing could be heard far and wide! So play your favourite worship song really loudly. March round your house singing to God at the top of your voice."
 date = 2020-04-24T20:05:41Z
 description = ""
+images = []
 layout = "post"
 order = 22
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
-prayer = ""
+prayer = "Dear God,\n\nThank you that Jesus is our saviour who forgives our sins and rebuilds our lives.  Thank you that we get to muck in and build up your people, the church. Give us the courage and determination of Nehemiah to take risks and to serve your cause in the world.\n\nAmen\n\n**Pray it+**   Think of a church or project near you that God’s people are involved in. Pray for its success."
 qrcode = ""
-questions = ""
-read_scripture = ""
-review = ""
-scripture = ""
-subtitle = "Coming soon…"
+questions = "**When Nebuchadnezaar and the Babylonian army conquered Jerusalem, they demolished it. Decades later exiles began to return to live in Jerusalem but the city walls were still ruined.**\n\n* Where was Nehemiah and what was he doing when he heard that Jerusalem’s walls still lay in ruins?\n* How did Nehemiah respond to this news? Nehemiah 1:4\n\n**For Nehemiah ,who was an Israelite, the state of Jerusalem reflected badly on God and his people. That is why he was so upset about the rubble.**\n\n* If someone said that God’s church is in ruin and disrepair today what would you say?\n\n_(Steer the conversation away from buildings to how healthy and active God’s people are in worshipping God and witnessing to the community around in practical ways)._\n\n* What did Nehemiah decide to do about the situation?\n* What risks did he take?\n\n**Nehemiah risked his life, gave up his job, traveled over 800 miles and used his personal resources to help rebuild Jerusalem. When he arrived, he discovered that God’s people had enemies near Jerusalem too.**\n\n* What did they do to try and stop the walls being rebuilt?\n* How did Nehemiah and the people respond?\n\n**When people work together with a plan and a clear sense of God’s favour amazing things can happen. Everyone mucked in.**\n\n* How long did it take to rebuild the entire walls of Jerusalem? Nehemiah 6:\n\n**When we take risks, sacrifice and serve we get to take part in what God is doing through his people today its really exciting.**\n\n* How can you muck in where you live in order to serve God’s people?\n\n**The people then thanked God for how he had helped them rebuild their home in Jerusalem. They sang and marched around the city walls and up to the temple.**\n\n* When have you been full of joy and celebrated something God has done?"
+read_scripture = "[Nehemiah records] "
+review = "\nTell the story so far, using the cards from previous days along the storyline.\n\nNow take a look at the next card…"
+scripture = "Nehemiah 1:2-4 & 6:15-16"
+subtitle = "Building God's people "
 thumb_img_path = ""
 timeline = "Exile"
+timeline_position = ""
 title = "Nehemiah"
-watch = ""
+watch = "\nIf you click the “cc” button on the bottom right of the video helpful subtitles appear.\n\n\n"
 
 +++
