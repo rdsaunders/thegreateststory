@@ -46,6 +46,10 @@ sections:
 - type: heading
   label: Configuration
 - type: document
+  path: i18n/en.yaml
+  label: Localisations
+  match: "**/*"
+- type: document
   path: content/contact.md
   label: Contact
   templates:
