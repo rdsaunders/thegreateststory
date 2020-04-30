@@ -4,11 +4,19 @@ hide_body: true
 fields:
 - type: field_group_list
   name: En
-  label: En
+  label: English localisation
   fields:
   - type: text
     name: id
-    label: id
+    label: Code identifier
+    description: This is the value used in code to reference the text {{ i18n "id"}}.
+    config:
+      required: true
   - type: text
     name: translation
-    label: translation
+    label: Text to display
+    description: This is the text that should be displayed for this localisation.
+    config:
+      required: true
+pages:
+- i18n/en.yaml

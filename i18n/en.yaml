@@ -1,34 +1,37 @@
+---
 - id: menu_open
-  translation: "Open menu"
+  translation: Open menu
 - id: menu_close
-  translation: "Close menu"
+  translation: Close menu
 - id: review_it
-  translation: "Review it"
+  translation: Review it
 - id: watch_it
-  translation: "Watch it"
+  translation: Watch it
 - id: read_it
-  translation: "Read it"
+  translation: Read it
 - id: quiz_it
-  translation: "Quiz it"
+  translation: Quiz it
 - id: pray_it
-  translation: "Pray it"
+  translation: Pray it
 - id: do_it
-  translation: "Do it"
+  translation: Do it
 - id: place_it
-  translation: "Place it"
+  translation: Place it
 - id: improve_it
-  translation: "Improve it"
+  translation: Improve it
 - id: improve_it_description
-  translation: "We hope you are enjoying the story so far. We would love to hear your thoughts on what’s working and what’s confusing? Thanks"
+  translation: We hope you are enjoying the story so far. We would love to hear your
+    thoughts on what’s working and what’s confusing? Thanks
 - id: improve_it_submit
-  translation: "Send feedback"
+  translation: Send feedback
 - id: previous_story
-  translation: "Previous:"
+  translation: 'Previous:'
 - id: next_story
-  translation: "Next:"
+  translation: 'Next:'
 - id: timeline_title
-  translation: "Scroll or swipe the interactive storyline"
+  translation: Scroll or swipe the interactive storyline
 - id: timeline_description
-  translation: "Click on a picture for devotional content that relates to the printed card"
+  translation: Click on a picture for devotional content that relates to the printed
+    card
 - id: faq_title
-  translation: "Frequently Asked Questions"
+  translation: Frequently Asked Questions
