@@ -1,7 +1,7 @@
 +++
 action = ""
 date = 2020-04-24T20:51:56Z
-description = ""
+description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
 images = []
 layout = "post"
 order = 39
