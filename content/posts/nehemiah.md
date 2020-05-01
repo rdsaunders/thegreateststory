@@ -2,7 +2,7 @@
 action = "In Nehemiah it says the people’s rejoicing could be heard far and wide! So, play your favourite worship song really loudly. March round your house singing to God at the top of your voices."
 date = 2020-04-24T20:05:41Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-images = []
+images = ["/uploads/social-nehemiah.png"]
 layout = "post"
 order = 22
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -13,7 +13,7 @@ read_scripture = "[Nehemiah records]  Hanani, one of my brothers, arrived from J
 review = "\nTell the story so far, using the cards from previous days along the storyline.\n\nNow take a look at the next card…"
 scripture = "Nehemiah 1:2-4 & 6:15-16"
 subtitle = "Building God's people "
-thumb_img_path = ""
+thumb_img_path = "/uploads/nehemiah.png"
 timeline = "Exile"
 timeline_position = ""
 title = "Nehemiah"
