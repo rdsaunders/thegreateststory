@@ -57,10 +57,7 @@
     a {border-color: _palette(exile);}
   }
   &.set-jesus {
-    a {border-color: _palette(jesus);}
-  }
-  &.set-rescue {
-    a {border-color: _palette(rescue);}
+    a {border-color: _palette(jesus); width: 10em;}
   }
   &.set-mission {
     a {border-color: _palette(mission);}
