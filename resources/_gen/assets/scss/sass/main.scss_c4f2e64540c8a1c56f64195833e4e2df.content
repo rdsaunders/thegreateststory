@@ -1038,11 +1038,14 @@ img {
   margin-right: -5px; }
   .nav-timeline-item a {
     border-width: 8px;
-    padding: 0.5rem 0.75rem; }
+    padding: 0.5rem 0.75rem;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
   .nav-timeline-item a:hover {
     opacity: 0.5; }
   .nav-timeline-item a img {
-    margin: 0 auto; }
+    margin-right: 0.25em; }
   .nav-timeline-item.set-intro, .nav-timeline-item.set-outro {
     display: none; }
   .nav-timeline-item.set-beginnings a, .nav-timeline-item.set-home a {

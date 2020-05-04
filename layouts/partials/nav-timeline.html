@@ -2,7 +2,7 @@
     {{ range sort .Site.Taxonomies.timeline ".Page.Params.order" "asc"}}
         <li class="nav-timeline-item set-{{ lower .Page.Params.title }}">
             
-            <a href="#set-{{ lower .Page.Params.title }}" class="dt"><img class="dtc" width="32" height="32" src="{{ .Page.Params.icon | relURL }}" alt="" />{{ title .Page.Params.title }}</a>
+            <a href="#set-{{ lower .Page.Params.title }}"><img width="32" height="32" src="{{ .Page.Params.icon | relURL }}" alt="" />{{ title .Page.Params.title }}</a>
         </li>
     {{ end }}
 </ul>
