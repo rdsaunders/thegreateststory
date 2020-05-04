@@ -1058,7 +1058,7 @@ img {
   .nav-timeline-item.set-exile a {
     border-color: #777777; }
   .nav-timeline-item.set-jesus a {
-    border-color: #30C2E2;
+    border-color: #016fd6;
     width: 10em; }
   .nav-timeline-item.set-mission a {
     border-color: #F10B7A; }
@@ -1148,11 +1148,11 @@ img {
 
 .timeline-card-marker {
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   border-top-width: 1em;
   width: 7em;
   height: 9em;
-  text-align: left; }
+  justify-content: center; }
   .timeline-card-marker a {
     text-decoration: none;
     border-bottom-width: 2px;
@@ -1212,10 +1212,10 @@ img {
   border-color: #777777; }
 
 .set-jesus .timeline-bar {
-  background-color: #30C2E2; }
+  background-color: #016fd6; }
 
 .set-jesus .timeline-card {
-  border-color: #30C2E2; }
+  border-color: #016fd6; }
 
 .set-mission .timeline-bar {
   background-color: #F10B7A; }
@@ -1302,7 +1302,7 @@ img {
   .timeline-logo-item.set-exile {
     border-bottom-color: #777777; }
   .timeline-logo-item.set-jesus {
-    border-bottom-color: #30C2E2; }
+    border-bottom-color: #016fd6; }
   .timeline-logo-item.set-mission {
     border-bottom-color: #F10B7A; }
   .timeline-logo-item a {
