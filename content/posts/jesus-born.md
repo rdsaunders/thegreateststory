@@ -17,6 +17,6 @@ thumb_img_path = ""
 timeline = "Jesus"
 timeline_position = ""
 title = "Jesus Born"
-watch = "https://www.youtube.com/watch?v=FrOBJo6LNfw&feature=youtu.be"
+watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/FrOBJo6LNfw\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++
