@@ -176,11 +176,11 @@
 
 .timeline-card-marker {
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   border-top-width: 1em;
   width: 7em;
   height: 9em;
-  text-align: left;
+  justify-content: center;
 
   a {
     text-decoration: none;
