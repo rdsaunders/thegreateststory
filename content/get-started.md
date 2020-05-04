@@ -8,7 +8,7 @@ menu:
     weight: 3
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oJlVt8GPF-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IvX0yZpABOk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Steps to get setup
 
@@ -27,7 +27,7 @@ The Greatest Story Ever has 40 sessions that are arranged into 10 sets. To get s
 * [Exodus](/uploads/set_exodus.pdf "Exodus")
 * [Leaders](/uploads/set_leaders.pdf "Leaders")
 * [Messengers](/uploads/set_messengers.pdf "Messengers")
-* Exile _(Coming soon)_
+* [Exile](https://app.forestry.io/sites/y3kzbwlvpanzca/body-media//uploads/set_exile.pdf "Exile")
 * Jesus _(Coming soon)_
 * Rescue _(Coming soon)_
 * Mission _(Coming soon)_
