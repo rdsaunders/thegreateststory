@@ -27,7 +27,7 @@ The Greatest Story Ever has 40 sessions that are arranged into 10 sets. To get s
 * [Exodus](/uploads/set_exodus.pdf "Exodus")
 * [Leaders](/uploads/set_leaders.pdf "Leaders")
 * [Messengers](/uploads/set_messengers.pdf "Messengers")
-* Exile _(Coming soon)_
+* [Exile](https://app.forestry.io/sites/y3kzbwlvpanzca/body-media//uploads/set_exile.pdf "Exile")
 * Jesus _(Coming soon)_
 * Rescue _(Coming soon)_
 * Mission _(Coming soon)_
