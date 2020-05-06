@@ -16,7 +16,7 @@ subtitle = "The happy life"
 thumb_img_path = ""
 timeline = "Jesus"
 timeline_position = ""
-title = "Jesus Teaches"
+title = "Jesus the Teacher"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Ze7w3-BL3OM\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++
