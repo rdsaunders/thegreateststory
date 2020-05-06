@@ -18,6 +18,6 @@ thumb_img_path = ""
 timeline = "Jesus"
 timeline_position = ""
 title = "Jesus the Healer "
-watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/y1cykPOiMuY\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/SWDgdPiNpz0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++
