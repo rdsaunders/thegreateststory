@@ -17,7 +17,7 @@ subtitle = "The loving father "
 thumb_img_path = ""
 timeline = "Jesus"
 timeline_position = ""
-title = "Jesus the story teller"
+title = "Jesus the Storyteller"
 watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/kfDfMZ6MTJs\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++
