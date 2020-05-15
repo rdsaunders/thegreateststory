@@ -2,7 +2,7 @@
 action = "\nDO IT\n\nChoose one of these key words from Jesus’ teaching and write it out creatively (bubble writing, graffiti, drawing, painting). Display it somewhere as a reminder.\n\nKINDNESS \n\nHUMILITY \n\nFORGIVENESS \n\nTRUST"
 date = 2020-04-24T20:09:11Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-images = []
+images = ["/uploads/social-jesus-the-teacher.png"]
 layout = "post"
 order = 26
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -13,7 +13,7 @@ read_scripture = "\n\nJesus saw the crowds and went up a hill, where he sat down
 review = "Tell the story so far, using the cards from previous days along the storyline.   Now take a look at the next card…"
 scripture = "Matthew 5:1-6"
 subtitle = "Live the happy life!"
-thumb_img_path = ""
+thumb_img_path = "/uploads/jesus-the-teacher.png"
 timeline = "Jesus"
 timeline_position = ""
 title = "Jesus the Teacher"

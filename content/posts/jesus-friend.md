@@ -2,7 +2,7 @@
 action = "Go climb a tree and thank Jesus for being the best friend you will ever have."
 date = 2020-04-24T20:10:17Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-images = []
+images = ["/uploads/social-jesus-the-friend.png"]
 layout = "post"
 order = 29
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -13,7 +13,7 @@ read_scripture = "\nZaccheus ran ahead of the crowd and climbed a sycomore tree 
 review = ""
 scripture = "Luke 19:4-9"
 subtitle = "Changed for good"
-thumb_img_path = ""
+thumb_img_path = "/uploads/jesus-the-friend.png"
 timeline = "Jesus"
 timeline_position = ""
 title = "Jesus the Friend"

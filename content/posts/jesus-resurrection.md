@@ -2,7 +2,7 @@
 action = "Set a timer for three minutes (Jesus was dead for three days). Lie down on the floor. Shut your eyes. No giggling. When the timer goes off, jump up and shout, “Jesus is alive!” As you lie there think about Jesus’ victory over death."
 date = 2020-04-24T20:11:57Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-images = []
+images = ["/uploads/social-jesus-risen.png"]
 layout = "post"
 order = 32
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -13,7 +13,7 @@ read_scripture = "Very early on Sunday morning the women went to the tomb, carry
 review = ""
 scripture = "Luke 24:1-7"
 subtitle = "A great victory "
-thumb_img_path = ""
+thumb_img_path = "/uploads/jesus-risen.png"
 timeline = "Jesus"
 timeline_position = ""
 title = "Jesus Risen"

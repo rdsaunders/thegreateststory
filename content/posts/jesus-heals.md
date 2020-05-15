@@ -2,7 +2,7 @@
 action = "Re-enact the story and film it. (You could make a model or dress up.)  Send it to someone to remind them that God can heal them. "
 date = 2020-04-24T20:09:44Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-images = []
+images = ["/uploads/social-jesus-the-healer.png"]
 layout = "post"
 order = 27
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -13,7 +13,7 @@ read_scripture = "A few days later Jesus went back to Capernaum, and the news sp
 review = "Tell the story so far, using the cards from previous days along the storyline. Now take a look at the next card…"
 scripture = " Mark 2 v 1-5 & 12"
 subtitle = "Get up and walk!"
-thumb_img_path = ""
+thumb_img_path = "/uploads/jesus-the-healer.png"
 timeline = "Jesus"
 timeline_position = ""
 title = "Jesus the Healer "

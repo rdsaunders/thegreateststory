@@ -2,7 +2,7 @@
 action = "Get out some pots and pans.  Make a joyful racket and shout, “Jesus is our King!”"
 date = 2020-04-24T20:11:06Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-images = []
+images = ["/uploads/social-jesus-the-king.png"]
 layout = "post"
 order = 30
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -13,7 +13,7 @@ read_scripture = "As he rode on, people spread their cloaks on the road.\nWhen h
 review = ""
 scripture = "Luke 19: 36-40"
 subtitle = "A noisy welcome"
-thumb_img_path = ""
+thumb_img_path = "/uploads/jesus-the-king.png"
 timeline = "Jesus"
 timeline_position = ""
 title = "Jesus the King "
