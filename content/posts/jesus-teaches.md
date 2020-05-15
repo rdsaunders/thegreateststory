@@ -2,7 +2,6 @@
 action = "\nDO IT\n\nChoose one of these key words from Jesus’ teaching and write it out creatively (bubble writing, graffiti, drawing, painting). Display it somewhere as a reminder.\n\nKINDNESS \n\nHUMILITY \n\nFORGIVENESS \n\nTRUST"
 date = 2020-04-24T20:09:11Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-draft = true
 images = []
 layout = "post"
 order = 26
