@@ -36,7 +36,7 @@ watch: <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZPfC
 read_scripture: So God created human beings, making them to be like himself. He created
   them male and female, blessed them, and said, “Have many children, so that your
   descendants will live all over the earth and bring it under their control. I am
-  putting you in charge of the fish, the birds, and all the wild animals.
+  putting you in charge of the fish, the birds, and all the wild animals."
 order: 1
 review: 'Have a look at the front of your first card. What is the picture about and
   what do the words say? '

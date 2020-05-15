@@ -22,7 +22,7 @@ questions: |-
   * How had the world and people changed from when God first created it?
   * Why did God choose to flood the world?
 
-  **Noah was God’s friend, he was different to everyone else because he lived to please God.**
+  **Noah was God’s friend. He was different to everyone else because he lived to please God.**
 
   * Why did God ask Noah to build an ark?
   * What did Noah’s friends and neighbours think of him building a boat?
@@ -32,16 +32,14 @@ questions: |-
 
   * What does the rainbow mean for Noah and us?
 
-  **As God’s friends he promises to rescue us and take care of us.**
+  **When we are God’s friends he promises to rescue us and take care of us.**
 
   * How does that make you feel?
-read_scripture: "\nWhen the LORD saw how wicked everyone on earth was and how evil
-  their thoughts were all the time, he was sorry that he had ever made them and put
-  them on the earth.   He was so filled with regret that he said, “I will wipe out
-  these people I have created, and also the animals and the birds, because I am sorry
-  that I made any of them.”\nWhenever I cover the sky with clouds and the rainbow
-  appears, I will remember my promise to you and to all the animals that a flood will
-  never again destroy all living beings. \n"
+read_scripture: |2
+
+  When the LORD saw how wicked everyone on earth was and how evil their thoughts were all the time, he was sorry that he had ever made them and put them on the earth.   He was so filled with regret that he said, “I will wipe out these people I have created, and also the animals and the birds, because I am sorry that I made any of them.”
+
+  "Whenever I cover the sky with clouds and the rainbow appears, I will remember my promise to you and to all the animals that a flood will never again destroy all living beings."
 review: |-
   Tell the story so far, using the cards from previous days along the storyline.
 

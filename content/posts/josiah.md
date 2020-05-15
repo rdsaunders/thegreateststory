@@ -10,11 +10,11 @@ description: The Greatest Story Ever is a family devotional course.  Through dai
 layout: post
 scripture: 2 Kings 22:2  & 23:25
 questions: |-
-  **Remember, prophets were people God gave messages to for Israel. The prophet today is a lady, Huldah. She helped Josiah understand the law that he found and that the people had forgotten about.**
+  **Remember, prophets were people God gave messages to for Israel. The prophet in the reading is a lady, Huldah. She helped Josiah understand the law that he found and that the people had forgotten about.**
 
   **Josiah became king age 8.**
 
-  * If you were king or queen for day what would you do?
+  * If you were a king or queen for day what would you do?
 
   **Israel had forgotten about God and his law by the time Josiah became King.**
 
@@ -29,7 +29,7 @@ questions: |-
 
   * Who did he ask and what did she say?
 
-  **Encouraged by Hulda Josiah gathered Israel together to read the book of the law to them.**
+  **Encouraged by Huldah Josiah gathered Israel together to read the book of the law to them.**
 
   * After reading the book of the law what difficult things did Josiah do?
 
