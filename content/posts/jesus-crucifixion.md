@@ -2,7 +2,7 @@
 action = "Make a cross out of card, or something else. Hang it somewhere to remind you that Jesus loves you."
 date = 2020-04-24T20:11:34Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-images = []
+images = ["/uploads/social-jesus-crucified.png"]
 layout = "post"
 order = 31
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -13,7 +13,7 @@ read_scripture = "It was about twelve o'clock when the sun stopped shining and d
 review = "Tell the story so far, using the cards from previous days along the storyline.  Now take a look at the next card….."
 scripture = "Luke 23:24-27"
 subtitle = "A loving death "
-thumb_img_path = ""
+thumb_img_path = "/uploads/jesus-crucified.png"
 timeline = "Jesus"
 timeline_position = ""
 title = "Jesus Crucified "
