@@ -2,7 +2,6 @@
 action = "Go climb a tree and thank Jesus for being the best friend you will ever have."
 date = 2020-04-24T20:10:17Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-draft = true
 images = []
 layout = "post"
 order = 29

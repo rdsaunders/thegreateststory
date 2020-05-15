@@ -2,7 +2,6 @@
 action = "Re-enact the story and film it. (You could make a model or dress up.)  Send it to someone to remind them that God can heal them. "
 date = 2020-04-24T20:09:44Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-draft = true
 images = []
 layout = "post"
 order = 27
