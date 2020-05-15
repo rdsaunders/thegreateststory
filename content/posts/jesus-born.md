@@ -2,8 +2,7 @@
 action = "Grab a tea towel or a pair of angel wings. Pretend to be a shepherd or angel and announce that the saviour of the world has been born!"
 date = 2020-04-24T20:08:05Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-draft = true
-images = []
+images = ["/uploads/social-jesus-born.png"]
 layout = "post"
 order = 24
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
