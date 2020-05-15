@@ -2,7 +2,7 @@
 action = "Muddle up the cards on the storyline. See if your adults can put them back in the correct order - without checking out the numbers on the back!"
 date = 2020-04-24T20:06:23Z
 description = ""
-images = []
+images = ["/uploads/social-jesus-expected.png"]
 layout = "post"
 order = 23
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
