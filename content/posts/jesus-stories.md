@@ -2,7 +2,6 @@
 action = "This story deserves to be shared. Why not re-tell the story or share the video with someone else?"
 date = 2020-04-24T20:10:42Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-draft = true
 images = []
 layout = "post"
 order = 28

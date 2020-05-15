@@ -2,7 +2,6 @@
 action = "Get out some pots and pans.  Make a joyful racket and shout, “Jesus is our King!”"
 date = 2020-04-24T20:11:06Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-draft = true
 images = []
 layout = "post"
 order = 30
