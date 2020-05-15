@@ -2,7 +2,7 @@
 action = "Go into the garden. Catch a locust. Dip it in honey and eat it!\n\nOr - if you can’t find a locust - dip something else in honey and eat it!\n\nWith your mouth full shout out, \"I'm going to point to Jesus!\""
 date = 2020-04-24T20:08:36Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-images = []
+images = ["/uploads/social-jesus-baptised.png"]
 layout = "post"
 order = 25
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -13,7 +13,7 @@ read_scripture = "\n\nJohn said to the crowds …\n\n\"I baptise you with water,
 review = ""
 scripture = "Mark 1:8-11"
 subtitle = "God alongside us "
-thumb_img_path = ""
+thumb_img_path = "/uploads/jesus-baptised.png"
 timeline = "Jesus"
 timeline_position = ""
 title = "Jesus Baptised"
