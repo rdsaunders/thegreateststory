@@ -3,21 +3,7 @@
     <div class="site-header-inside">
 
       <div class="site-branding">
-        {{ if .Site.Params.header.logo_img }}
-        <p class="site-logo">
-          <a href='{{ "/" | relURL }}'><img src="{{ .Site.Params.header.logo_img | relURL }}"
-              alt="Logo" /></a>
-        </p>
-        {{ end }}
-        {{ if eq .Params.layout "home" }}
-        <h1 class="site-title"><a href='{{ "/" | relURL }}'>{{ .Site.Params.header.title }}</a></h1>
-        {{ partial "timeline-logo.html" . }}
-        <div class="site-subtitle">{{ .Site.Params.header.sub_title }}</div>
-        {{ else }}
-        <p class="site-title"><a href='{{ "/" | relURL }}'>{{ .Site.Params.header.title }}</a></p>
-        {{ partial "timeline-logo.html" . }}
-        <div class="site-subtitle">{{ .Site.Params.header.sub_title }}</div>
-        {{ end }}
+        <a href='{{ "/" | relURL }}' class="link-logo">{{ partial "tgse-logo.html" .}}</a>
       </div><!-- .site-branding -->
 
       <!--{{ partial "site-navigation.html" .}}-->

@@ -1,18 +1,19 @@
 // Font.
 $font: (
-  primary: ("PT Sans", sans-serif),
-  secondary: ("PT Serif", serif)
+  primary: ("Poppins", sans-serif),
+  secondary: ("Poppins", sans-serif)
 );
 
 // Palette.
 $palette: (
-  primary:       #5e5e5e,
-  secondary:     darken(#5e5e5e, 25%),
+  primary:       #3F4143,
+  secondary:     #3F4143,
   meta:          #757575,
   border:        lighten(#5e5e5e, 50%),
   bg:            lighten(#5e5e5e, 60%),
   brand:        #016fd6,
   brand-darker:   darken(#016fd6, 10%),
+  brand-darkest: #233F66,
   intro:         #016fd6,
   beginnings:    #4FBB7D,
   family:        #F5E411,
@@ -21,7 +22,6 @@ $palette: (
   messengers:    #FFA217,
   exile:         #777777,
   jesus:         #016fd6,
-  //rescue:        #30C2E2,
   mission:       #F10B7A,
   home:          #4FBB7D
 );
@@ -37,6 +37,5 @@ $palette: (
 @import "imports/subscribe";
 @import "imports/footer";
 @import "imports/timeline";
-@import "imports/timeline-logo";
 @import "imports/blocks";
 @import "imports/pages";

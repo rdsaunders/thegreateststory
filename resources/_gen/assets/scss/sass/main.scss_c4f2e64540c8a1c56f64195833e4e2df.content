@@ -177,22 +177,23 @@ table {
  * ----------------------------------------------------------------------------
  */
 html {
-  font-family: "PT Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 112.5%;
   height: 100%;
-  min-height: 100%; }
+  min-height: 100%;
+  font-weight: 300; }
   @media only screen and (max-width: 600px) {
     html {
       font-size: 100%; } }
 body {
   background: #fff;
-  color: #5e5e5e;
+  color: #3F4143;
   line-height: 1.66667;
   overflow-x: hidden; }
 
 a {
   border-bottom: 2px solid #016fd6;
-  color: #1e1e1e;
+  color: #3F4143;
   text-decoration: none;
   transition: border .3s ease, color .3s ease; }
   a:hover {
@@ -205,9 +206,9 @@ h3,
 h4,
 h5,
 h6 {
-  color: #1e1e1e;
-  font-family: "PT Serif", serif;
-  font-weight: bold;
+  color: #3F4143;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
   line-height: 1.2;
   margin: 1.66667rem 0 0.83333rem;
   text-rendering: optimizeLegibility; }
@@ -249,20 +250,20 @@ address {
 mark,
 ins {
   background: #fff493;
-  color: #1e1e1e;
+  color: #3F4143;
   padding: 0 3px;
   text-decoration: none; }
 
 code {
   background: #f7f7f7;
   border-radius: 3px;
-  color: #1e1e1e;
+  color: #3F4143;
   padding: 0 3px; }
 
 pre {
   border: 1px solid #dedede;
   border-radius: 3px;
-  color: #1e1e1e;
+  color: #3F4143;
   font-size: 0.88889rem;
   margin: 0 0 1.66667rem;
   overflow: auto;
@@ -285,8 +286,8 @@ pre {
 
 blockquote {
   border-top: 3px solid #dedede;
-  color: #1e1e1e;
-  font-family: "PT Serif", serif;
+  color: #3F4143;
+  font-family: "Poppins", sans-serif;
   font-size: 1.33333rem;
   line-height: 1.4;
   margin: 2.5rem auto;
@@ -361,12 +362,12 @@ td {
   padding: 0.5em 5px; }
 
 th {
-  color: #1e1e1e;
+  color: #3F4143;
   font-weight: bold; }
 
 /* Form fields */
 label {
-  color: #1e1e1e;
+  color: #3F4143;
   font-weight: bold; }
   label > span {
     font-size: 14px;
@@ -391,7 +392,7 @@ textarea {
   border-radius: 3px;
   box-shadow: none;
   box-sizing: border-box;
-  color: #5e5e5e;
+  color: #3F4143;
   display: inline-block;
   font-size: 16px;
   font-weight: normal;
@@ -437,7 +438,8 @@ input[type="reset"],
   padding: 0.25em 25px;
   text-transform: uppercase;
   -webkit-transition: .3s ease;
-  transition: .3s ease; }
+  transition: .3s ease;
+  font-weight: 400; }
   button:hover, button:focus, button:active,
   input[type="submit"]:hover,
   input[type="submit"]:focus,
@@ -467,7 +469,7 @@ input[type="reset"],
 .button.outline {
   color: #fff;
   border-color: #fff;
-  background-color: #016fd6; }
+  background-color: #233F66; }
   .button.outline:hover, .button.outline:focus, .button.outline:active {
     background: #fff;
     color: #016fd6; }
@@ -512,8 +514,7 @@ img {
   border-radius: 3px; }
 
 /* Text meant only for screen readers */
-.screen-reader-text,
-.site-logo + .site-title {
+.screen-reader-text {
   border: 0;
   clip: rect(1px, 1px, 1px, 1px);
   height: 1px;
@@ -704,18 +705,16 @@ img {
 
 .site-branding {
   flex: 0 1 auto;
-  text-align: center; }
+  text-align: center;
+  width: 100%;
+  max-width: 30em; }
 
-.site-logo {
-  margin: 0; }
-  .site-logo a {
-    border: 0; }
-  .site-logo img {
-    max-height: 60px; }
+.link-logo {
+  border: 0; }
 
 .site-title {
-  color: #1e1e1e;
-  font-family: "PT Serif", serif;
+  color: #3F4143;
+  font-family: "Poppins", sans-serif;
   font-size: 1.7rem;
   font-weight: bold;
   line-height: 1.2;
@@ -830,7 +829,7 @@ img {
     border: 0;
     color: inherit; }
     .post-title a:hover {
-      color: #5e5e5e; }
+      color: #3F4143; }
 
 .post-subtitle {
   font-size: 1.33333rem;
@@ -844,7 +843,7 @@ img {
     width: 100%; }
 
 .post-scripture {
-  font-family: "PT Serif", serif; }
+  font-family: "Poppins", sans-serif; }
 
 .post-feed {
   margin-bottom: 4vw; }
@@ -1112,14 +1111,15 @@ img {
   scroll-snap-align: start; }
 
 .timeline-card {
-  width: 11em;
+  width: 13em;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
   text-align: center;
   border: 2px solid #a5d3fd;
   padding: 0.75rem;
   border-radius: 0.33rem;
-  position: relative; }
+  position: relative;
+  padding-top: 1em; }
   .timeline-card a {
     outline: none;
     text-decoration: none;
@@ -1140,7 +1140,8 @@ img {
     text-decoration: none; }
 
 .timeline-card__title {
-  font-size: 1.2em; }
+  font-size: 1.1em;
+  text-transform: uppercase; }
 
 .timeline-card__subtitle {
   margin-bottom: 0; }
@@ -1153,7 +1154,7 @@ img {
   display: flex;
   align-items: center;
   border-top-width: 1em;
-  width: 7em;
+  width: 8em;
   height: 9em;
   justify-content: center; }
   .timeline-card-marker a {
@@ -1262,64 +1263,14 @@ img {
   left: 47%;
   transform: translate(-50%, -50%) rotate(-45deg); }
 
-.timeline-logo {
-  display: flex;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  margin-left: auto;
-  margin-right: auto;
-  justify-content: center; }
-
-.timeline-logo-item {
-  display: block;
-  width: 3em;
-  height: 1em;
-  border-bottom: 8px solid transparent;
-  margin-bottom: 0.75em;
-  position: relative; }
-  .timeline-logo-item + li:before {
-    position: absolute;
-    left: 0;
-    top: 50%;
-    width: 1em;
-    height: 1em;
-    background-color: #fff;
-    border: 1px solid #777777;
-    border-radius: 1em;
-    z-index: 100;
-    display: block;
-    content: " "; }
-  .timeline-logo-item.set-intro, .timeline-logo-item.set-outro {
-    display: none; }
-  .timeline-logo-item.set-beginnings, .timeline-logo-item.set-home {
-    border-bottom-color: #4FBB7D; }
-  .timeline-logo-item.set-family {
-    border-bottom-color: #F5E411; }
-  .timeline-logo-item.set-exodus {
-    border-bottom-color: #E14430; }
-  .timeline-logo-item.set-leaders {
-    border-bottom-color: #8438B7; }
-  .timeline-logo-item.set-messengers {
-    border-bottom-color: #FFA217; }
-  .timeline-logo-item.set-exile {
-    border-bottom-color: #777777; }
-  .timeline-logo-item.set-jesus {
-    border-bottom-color: #016fd6; }
-  .timeline-logo-item.set-mission {
-    border-bottom-color: #F10B7A; }
-  .timeline-logo-item a {
-    border: none;
-    padding: 0 0.5rem; }
-
 .intro-block {
   margin-bottom: 2.5rem; }
   @media only screen and (min-width: 801px) {
     .intro-block {
       margin-bottom: 3.33333rem; } }
 .intro-text {
-  color: #1e1e1e;
-  font-family: "PT Serif", serif;
+  color: #3F4143;
+  font-family: "Poppins", sans-serif;
   font-size: 1.33333rem;
   line-height: 1.5;
   margin-bottom: 1.66667rem; }
@@ -1330,7 +1281,7 @@ img {
   margin: 0 15px 0.83333rem 0; }
 
 .hero-block {
-  background-color: #016fd6;
+  background-color: #233F66;
   color: #fff;
   padding: 2em 0;
   margin-bottom: 3.33333em; }

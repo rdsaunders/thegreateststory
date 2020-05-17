@@ -14,6 +14,11 @@
   text-transform: uppercase;
 }
 
+.post-image {
+  width: 200px;
+  border-radius: 0.25rem;
+}
+
 .post-title {
   font-size: 2.66667rem;
 
@@ -166,16 +171,11 @@
   }
 }
 
-/* Post navigation */
+// Post navigation
+
 .post-nav-title {
   font-size: 1.33333rem;
   margin-bottom: 1.66667rem;
-}
-
-
-.post-image {
-  width: 200px;
-  border-radius: 0.25rem;
 }
 
 

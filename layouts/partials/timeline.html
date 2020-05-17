@@ -8,11 +8,10 @@
 
     {{ range sort .Site.Taxonomies.timeline ".Page.Params.order" "asc" }}
         <section class="set set-{{ lower .Page.Params.title }}" id="set-{{ lower .Page.Params.title }}">
-            
             <div class="timeline-bar">
                 <div class="timeline-marker"></div>
             </div>
-           
+                      
             <ul class="timeline-cards">
                 <li class="timeline-card timeline-card-marker">
                     <div class="timeline-card-marker__inner">
@@ -49,7 +48,7 @@
 
                         {{ else }}
                         <h3 class="timeline-card__title">{{ .Params.title }}</h3>
-                        <img class="timeline-card__image" width="216" height="288" src="/uploads/coming-soon.png" alt="{{ .Params.subtitle }}" />
+                        <img class="timeline-card__image" width="200" height="266" src="/uploads/coming-soon.png" alt="{{ .Params.subtitle }}" />
 
                         <div>
                             <p class="timeline-card__subtitle">{{ i18n "story_coming_soon" }}</p>
@@ -59,6 +58,8 @@
                     </li>
                 {{ end }}
             </ul>
+
+
         </section>
     {{ end }}
     <!-- <div class="timeline-pager__next"></div>

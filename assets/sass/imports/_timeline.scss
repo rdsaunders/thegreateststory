@@ -123,7 +123,7 @@
 }
 
 .timeline-card {
-  width: 11em;
+  width: 13em;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
   text-align: center;
@@ -131,6 +131,7 @@
   padding: 0.75rem;
   border-radius: 0.33rem;
   position: relative;
+  padding-top: 1em;
 
   a {
   outline: none;
@@ -165,7 +166,8 @@
 }
 
 .timeline-card__title {
-  font-size: 1.2em;
+  font-size: 1.1em;
+  text-transform: uppercase;
 }
 
 .timeline-card__subtitle {
@@ -181,7 +183,7 @@
   display: flex;
   align-items: center;
   border-top-width: 1em;
-  width: 7em;
+  width: 8em;
   height: 9em;
   justify-content: center;
 

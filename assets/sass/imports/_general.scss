@@ -7,6 +7,7 @@ html {
   font-size: 112.5%;
   height: 100%;
   min-height: 100%;
+  font-weight: 300;
 
   @media only screen and (max-width: 600px) {
     font-size: 100%;
@@ -40,7 +41,7 @@ h5,
 h6 {
   color: _palette(secondary);
   font-family: _font(secondary);
-  font-weight: bold;
+  font-weight: 700;
   line-height: 1.2;
   margin: 1.66667rem 0 0.83333rem;
   text-rendering: optimizeLegibility;
@@ -307,6 +308,7 @@ input[type="reset"],
   text-transform: uppercase;
   -webkit-transition: .3s ease;
   transition: .3s ease;
+  font-weight: 400;
 
   &:hover,
   &:focus,
@@ -334,7 +336,7 @@ input[type="reset"],
 .button.outline {
   color: #fff;
   border-color: #fff;
-  background-color: _palette(brand);
+  background-color: _palette(brand-darkest);
 
   &:hover,
   &:focus,
@@ -394,8 +396,7 @@ img {
 }
 
 /* Text meant only for screen readers */
-.screen-reader-text,
-.site-logo + .site-title {
+.screen-reader-text {
   border: 0;
   clip: rect(1px, 1px, 1px, 1px);
   height: 1px;
