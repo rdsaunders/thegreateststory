@@ -1,8 +1,8 @@
 ---
 order: 7
-excerpt:
+excerpt: 
 title: Jesus
-period: 
+period: 4BC-30AD
 icon: "/uploads/jesus.png"
 
 ---
