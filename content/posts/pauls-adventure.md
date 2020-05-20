@@ -15,6 +15,6 @@ subtitle = "Mission with friends"
 thumb_img_path = ""
 timeline = "Mission"
 title = "Paul's Adventures"
-watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BK8MM42pi1A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BK8MM42pi1A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BK8MM42pi1A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5t_3BuseTS0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++
