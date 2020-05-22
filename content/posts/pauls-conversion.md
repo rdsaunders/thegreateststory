@@ -1,5 +1,5 @@
 +++
-action = "\nWatch this amazing story about Shane Taylor who like Paul totally changed his mind about Jesus. (Parents – check out the first minute to check if it’s age appropriate.)\n\n[https://www.youtube.com/watch?v=W1n5M9L2EeY](https://www.youtube.com/watch?v=W1n5M9L2EeY \"https://www.youtube.com/watch?v=W1n5M9L2EeY\")"
+action = "Watch this amazing story about Darrell Tunningley who like Paul totally changed his mind about Jesus. \n\n[https://www.youtube.com/watch?time_continue=7&v=SBCywwPStSY&feature=emb_logo](https://www.youtube.com/watch?time_continue=7&v=SBCywwPStSY&feature=emb_logo \"https://www.youtube.com/watch?time_continue=7&v=SBCywwPStSY&feature=emb_logo\")"
 date = 2020-04-24T20:14:17Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
 layout = "post"
