@@ -1,5 +1,5 @@
 +++
-action = "Watch this amazing story about Darrell Tunningley who like Paul totally changed his mind about Jesus. (Parents – check out the first minute to check if it’s age appropriate.)\n\n<iframe width=\"560\" height=\"315\" src=\"[https://www.youtube.com/embed/SBCywwPStSY](https://www.youtube.com/embed/SBCywwPStSY \"https://www.youtube.com/embed/SBCywwPStSY\")\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+action = "Watch this amazing story about Darrell Tunningley who like Paul totally changed his mind about Jesus. (Parents – check out the first minute to check if it’s age appropriate.)\n\n[https://www.youtube.com/watch?time_continue=7&v=SBCywwPStSY&feature=emb_logo](https://www.youtube.com/watch?time_continue=7&v=SBCywwPStSY&feature=emb_logo \"https://www.youtube.com/watch?time_continue=7&v=SBCywwPStSY&feature=emb_logo\")"
 date = 2020-04-24T20:14:17Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
 layout = "post"
