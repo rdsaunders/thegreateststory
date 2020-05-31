@@ -12,7 +12,7 @@ read_scripture = "\n[In Philippi] one of those who heard us was Lydia… who was
 review = "Tell the story so far, using the cards from previous days along the storyline.  Now take a look at the next card…"
 scripture = "Acts 16: 14, 25-31"
 subtitle = "Mission with friends"
-thumb_img_path = ""
+thumb_img_path = "/uploads/pauls-adventures.png"
 timeline = "Mission"
 title = "Paul's Adventures"
 watch = "Today you get to watch two short videos before you do Quiz It !\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BK8MM42pi1A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5t_3BuseTS0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
