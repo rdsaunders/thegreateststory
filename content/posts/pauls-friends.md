@@ -12,7 +12,7 @@ read_scripture = "Surely you know that many runners take part in a race, but onl
 review = "Tell the story so far, using the cards from previous days along the storyline.  Now take a look at the next card…"
 scripture = " 1 Corinthians 9:24-26"
 subtitle = "Living with focus"
-thumb_img_path = ""
+thumb_img_path = "/uploads/pauls-letters.png"
 timeline = "Mission"
 title = "Paul's Letters"
 watch = "\nYou get to watch two again today….\n\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/YxfzYYQ51gc\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5TUFWB_U3kc\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
