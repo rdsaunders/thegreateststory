@@ -2,7 +2,7 @@
 action = "**Write down the names of two or three friends you could share the good news of Jesus with. Keep them safe. We’ll use them tomorrow.**"
 date = 2020-04-24T20:13:47Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-images = []
+images = ["/uploads/social-persistence.png"]
 layout = "post"
 order = 34
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
@@ -13,7 +13,7 @@ read_scripture = "They brought the apostles in, made them stand before the Counc
 review = "Tell the story so far, using the cards from previous days along the storyline.  Now take a look at the next card…"
 scripture = "Acts 5:27-32"
 subtitle = "Sharing the good news"
-thumb_img_path = ""
+thumb_img_path = "/uploads/persistence.png"
 timeline = "Mission"
 timeline_position = ""
 title = "Persistence"
