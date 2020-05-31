@@ -2,7 +2,7 @@
 action = "Find out how many followers of Jesus there are in the world today. You’ll be amazed at the answer. Write the number out in full with all the zeros! \n\nAsk Alexa, Siri, google or wikipedia. \n\n[https://en.wikipedia.org/wiki/Christian_population_growth](https://en.wikipedia.org/wiki/Christian_population_growth \"https://en.wikipedia.org/wiki/Christian_population_growth\")"
 date = 2020-04-24T20:12:27Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
-images = []
+images = ["/uploads/social-pentecost.png"]
 layout = "post"
 order = 33
 place = "Finally - have a look at the back of your card. What does it say? You can now place your card onto your story line."
