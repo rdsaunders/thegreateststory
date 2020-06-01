@@ -431,16 +431,18 @@ input[type="reset"],
   border-radius: 3px;
   box-sizing: border-box;
   color: #fff;
-  display: inline-block;
+  display: inline-flex;
   font-size: 14px;
   height: 3em;
   letter-spacing: 0.075em;
-  line-height: 1.5;
+  line-height: 1;
   padding: 0.25em 25px;
   text-transform: uppercase;
   -webkit-transition: .3s ease;
   transition: .3s ease;
-  font-weight: 400; }
+  font-weight: 400;
+  align-items: center;
+  justify-content: center; }
   button:hover, button:focus, button:active,
   input[type="submit"]:hover,
   input[type="submit"]:focus,
@@ -459,6 +461,10 @@ input[type="reset"],
     color: #016fd6;
     outline: 0; }
 
+button:hover svg {
+  fill: #016fd6;
+  color: #016fd6; }
+
 .button.inverse {
   background: 0;
   color: #016fd6; }
@@ -474,6 +480,9 @@ input[type="reset"],
   .button.outline:hover, .button.outline:focus, .button.outline:active {
     background: #fff;
     color: #016fd6; }
+
+button svg {
+  margin-right: 0.5rem; }
 
 a.button {
   padding-bottom: 0.60714em;

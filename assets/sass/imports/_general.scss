@@ -299,16 +299,18 @@ input[type="reset"],
   border-radius: 3px;
   box-sizing: border-box;
   color: #fff;
-  display: inline-block;
+  display: inline-flex;
   font-size: 14px;
   height: 3em;
   letter-spacing: 0.075em;
-  line-height: 1.5;
+  line-height: 1;
   padding: 0.25em 25px;
   text-transform: uppercase;
   -webkit-transition: .3s ease;
   transition: .3s ease;
   font-weight: 400;
+  align-items: center;
+  justify-content: center;
 
   &:hover,
   &:focus,
@@ -318,6 +320,11 @@ input[type="reset"],
     color: _palette(brand);
     outline: 0;
   }
+}
+
+button:hover svg {
+  fill: _palette(brand);
+  color: _palette(brand);
 }
 
 .button.inverse {
@@ -345,7 +352,9 @@ input[type="reset"],
     color: _palette(brand);
   }
 }
-
+button svg {
+  margin-right: 0.5rem;
+}
 
 a.button {
   padding-bottom: 0.60714em;
