@@ -18,6 +18,12 @@
   "homepage": "https://github.com/rdsaunders/thegreateststory#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-imagemin": "^7.1.0"
-  }
+    "gulp-count": "^1.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-svg-sprites": "^4.1.2",
+    "gulp-svgmin": "^2.2.0",
+    "gulp-svgstore": "^7.0.1",
+    "path": "^0.12.7"
+  },
+  "dependencies": {}
 }

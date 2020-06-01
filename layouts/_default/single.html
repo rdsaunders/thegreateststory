@@ -2,7 +2,6 @@
 
   <article class="post post-full">
 
-
     <header class="post-header flex">
       <div class="">
       <h1 class="post-title">{{ .Params.title }}</h1>
@@ -17,13 +16,8 @@
         <img class="post-image" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
         {{ end }}
       </div>
-    </header><!-- .post-header -->
+    </header>
 
-    <!--{{ if .Params.timeline_position }}
-    <div class="post-thumbnail">
-      <img class="thumbnail" src="{{ .Params.timeline_position | relURL }}" alt="{{ .Params.title }}" />
-    </div>
-    {{ end }}-->
     {{ if .Params.review }}
     <div class="intro">
       <h2>{{ i18n "review_it" }}</h2>
@@ -74,6 +68,7 @@
       {{ partial "markdownify-block" .Params.place }}
     </div>
     {{ end }}
+    {{ partial "social-share.html" .}}
     <hr />
     {{ partial "story-navigation.html" . }}
 

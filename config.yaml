@@ -24,6 +24,7 @@ params:
       Course](https://www.biblesociety.org.uk/explore-the-bible/the-bible-course/
       "The Bible Course")'
   google-analytics: UA-164034709-1
+  cloudinary_url: "https://res.cloudinary.com/tgse/upload/image"
 disableKinds:
 - RSS
 permalinks:

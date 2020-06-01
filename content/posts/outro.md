@@ -1,5 +1,5 @@
 +++
-action = "Congratulations! You have finished 'The Greatest Story Ever'. \n\n1. Take a selfie of your family with your story line of cards or with the story line visual from the home page on your device. Upload it.\n2. Think about what you could do next as a family.  Here are some recommendations for Bible reading. Which would be best for you?\n\n* _“Long Story Short”_ by Marty Machowski takes you through the Bible's salvation plan from Genesis to Revelation:  [https://www.amazon.co.uk/Long-Story-Short-Marty-Machowski/dp/1935273817](https://www.amazon.co.uk/Long-Story-Short-Marty-Machowski/dp/1935273817 \"https://www.amazon.co.uk/Long-Story-Short-Marty-Machowski/dp/1935273817\")\n* The _\"Jesus Storyteller Bible\"_by Sally Lloyd-Jones helps see how the whole Bible is one big story that centres on Jesus: [https://www.10ofthose.com/uk/products/12406/the-jesus-storybook-bible](https://www.10ofthose.com/uk/products/12406/the-jesus-storybook-bible \"https://www.10ofthose.com/uk/products/12406/the-jesus-storybook-bible\")\n* If you are a little bit older you could do _\"The Bible Course\"_ that we created with Bible Society: [https://www.biblesociety.org.uk/explore-the-bible/the-bible-course/](https://www.biblesociety.org.uk/explore-the-bible/the-bible-course/ \"https://www.biblesociety.org.uk/explore-the-bible/the-bible-course/\")\n* Or why not do _“The Greatest Story Ever”_ again? There’s lots more to take in second time round!"
+action = "Congratulations! You have finished 'The Greatest Story Ever'.\n\n1. Take a selfie of your family with your story line of cards or with the story line visual from the home page on your device. Upload it.\n2. Think about what you could do next as a family.  Here are some recommendations for Bible reading. Which would be best for you?\n\n* _“_[_Long Story Short_](https://www.amazon.co.uk/Long-Story-Short-Marty-Machowski/dp/1935273817)_”_ by Marty Machowski takes you through the Bible's salvation plan from Genesis to Revelation \n* The \"[_Jesus Storybook Bible_](https://www.10ofthose.com/uk/products/12406/the-jesus-storybook-bible)\" by Sally Lloyd-Jones helps see how the whole Bible is one big story that centres on Jesus \n* If you are a little bit older you could do _\"_[_The Bible Course_]( https://www.biblesociety.org.uk/explore-the-bible/the-bible-course/)_\"_ that we created with Bible Society\n* Or why not do _“The Greatest Story Ever”_ again? There’s lots more to take in second time round!"
 date = 2020-04-24T20:16:31Z
 description = "The Greatest Story Ever is a family devotional course.  Through daily sessions discover how each story, character and event in the Bible forms part of the whole, and learn how we can live it today. Simple to run. Fun. Free. No prior knowledge is required."
 layout = "post"
@@ -12,8 +12,8 @@ read_scripture = "All Scripture [the Bible] is inspired by God and is useful for
 review = "There is no printed card for this session. "
 scripture = "2 Timothy 3:16&17"
 slug = "outro"
-subtitle = "But the story continues..."
-thumb_img_path = "/uploads/intro.png"
+subtitle = "But the story continues…"
+thumb_img_path = ""
 timeline = "Outro"
 title = "The End"
 watch = "This video may be familiar. We saw it in the first session. As you watch think about how much more you now know!\n\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ebrbdbXzMrg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

@@ -44,6 +44,7 @@ audio:not([controls]) {
   display: none;
   height: 0; }
 
+.is-hidden,
 [hidden],
 template {
   display: none; }
@@ -696,7 +697,8 @@ img {
   flex: 0 1 auto;
   text-align: center;
   width: 100%;
-  max-width: 30em; }
+  max-width: 28em;
+  margin-bottom: 1em; }
 
 .link-logo {
   border: 0; }

@@ -52,6 +52,7 @@ audio:not([controls]) {
   height: 0;
 }
 
+.is-hidden,
 [hidden],
 template {
   display: none;
