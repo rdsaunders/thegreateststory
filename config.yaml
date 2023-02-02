@@ -16,6 +16,9 @@ params:
       must not be copied in other publications, mass produced or retailed in part
       or in whole.
     links:
+    - text: Privacy policy
+      url: "/privacy-policy"
+      new_window: false
     - text: The Bible Course
       url: https://www.biblesociety.org.uk/explore-the-bible/the-bible-course/
       new_window: true
@@ -24,7 +27,7 @@ params:
       Course](https://www.biblesociety.org.uk/explore-the-bible/the-bible-course/
       "The Bible Course")'
   google-analytics: G-ZQR36FMNV3
-  cloudinary_url: "https://res.cloudinary.com/tgse/upload/image"
+  cloudinary_url: https://res.cloudinary.com/tgse/upload/image
 disableKinds:
 - RSS
 permalinks:
