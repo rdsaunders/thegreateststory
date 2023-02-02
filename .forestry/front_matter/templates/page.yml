@@ -25,3 +25,4 @@ fields:
     required: true
 pages:
 - content/get-started.md
+- content/privacy-policy.md
