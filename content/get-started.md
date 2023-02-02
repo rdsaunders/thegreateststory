@@ -29,7 +29,6 @@ The Greatest Story Ever has 40 sessions that are arranged into 10 sets. To get s
 * [Messengers](/uploads/set_messengers.pdf "Messengers")
 * [Exile](/uploads/set_exile.pdf "Exile")
 * [Jesus](/uploads/set_jesus.pdf "Jesus")
-* [Rescue](/uploads/set_rescue.pdf)
 * [Mission](/uploads/set_mission.pdf)
 * [Home](/uploads/set_home.pdf)
 
@@ -41,7 +40,7 @@ Each session follows the same pattern:
 
 * **Review it**: Someone talks through the cards on the storyline to give a quick recap.
 * **Watch it**: We really love these God’s Story videos by Crossroads Kids’ Club, and we’re grateful we can share them via YouTube.
-* **Read it**: There’s a short Bible reading on the web page. We encourage you to find it in a hard copy of the Bible too.
+* **Read it**: There’s a short Bible reading on the web page; we encourage you to find it in a hard copy of the Bible too.
 * **Quiz it**: Talk through the questions on the web page. (Probably best if an adult leads this bit). The first question is a warm-up. Some questions are fact-finding, and others are more applied. Sentences in bold give further information. 'Quiz It' should take about 7 mins, so keep it moving!
 * **Pray it:** Take a moment to be still and read the prayer. **Pray It+** gives suggestions for more open prayer as a family.
 * **Do it:** This final suggestion gives a punchy and practical application.
