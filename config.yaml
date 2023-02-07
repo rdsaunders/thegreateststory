@@ -16,7 +16,7 @@ params:
       must not be copied in other publications, mass produced or retailed in part
       or in whole.
     links:
-    - text: Privacy policy
+    - text: 'Privacy policy '
       url: "/privacy-policy"
       new_window: false
     - text: The Bible Course
