@@ -5,8 +5,6 @@ subtitle = ""
 title = "Privacy policy"
 
 +++
-# Privacy policy
-
 The Greatest Story Ever ("TGSE") has adopted this Privacy Policy (‘the policy’) as we recognise the right of people to keep their personal information private. The policy covers the TGSE’s use of personally identifiable information that you provide, that we collect or hold, including when you continue to browse and use this website [www.thegreateststoryever.org](https://www.thegreateststoryever.org).
 
 ## 1. Data protection
