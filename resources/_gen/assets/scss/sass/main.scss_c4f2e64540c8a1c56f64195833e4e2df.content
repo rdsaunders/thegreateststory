@@ -552,6 +552,29 @@ img {
 .w-50 {
   width: 50%; }
 
+.list-inline {
+  list-style: none;
+  margin-left: -0.5em;
+  margin-right: -0.5em;
+  padding-left: 0; }
+
+.list-inline > li {
+  display: inline-block;
+  margin-left: 0.5em;
+  margin-right: 0.5em; }
+
+/**
+ * @bugfix Prevent webkit from removing list semantics
+ * https://www.scottohara.me/blog/2019/01/12/lists-and-safari.html
+ * 1. Add a non-breaking space
+ * 2. Make sure it doesn't mess up the DOM flow
+ */
+.list-inline > li:before {
+  content: "\200B";
+  /* 1 */
+  position: absolute;
+  /* 2 */ }
+
 /**
  * Icons
  * ----------------------------------------------------------------------------

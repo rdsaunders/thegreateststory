@@ -3,13 +3,29 @@
     <div class="site-footer-inside">
       <div class="site-info">
         <p class="copyright">{{ .Site.Params.footer.copyright | safeHTML }}</p>
-        <p class="site-info-supporting">{{ .Site.Params.footer.supporting_content | markdownify }}</p>
+        <ul class="list-inline">
+          {{ range .Site.Params.footer.links }}
+            <li>
+              <a href="{{ .url }}">{{ .text  | markdownify }}</a>
+            </li>
+          {{ end }}
+        </ul>
 
-      </div><!-- .site-info -->
-
+        <ul class="list-inline quicklinks">
+          {{ range .Site.Params.footer.quicklinks }}
+            <li>
+              <a href="{{ .link }}">{{ .text  | markdownify }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+      <!-- .site-info -->
       <div class="copyright-summary">
         <p>{{ .Site.Params.footer.content | safeHTML }}</p>
+      </div>
     </div>
-    </div><!-- .site-footer-inside -->
-  </div><!-- .inner -->
-</footer><!-- .site-footer -->
+    <!-- .site-footer-inside -->
+  </div>
+  <!-- .inner -->
+</footer>
+<!-- .site-footer -->
