@@ -33,7 +33,18 @@
                 {{ range .Pages.ByParam "order" }}
                     <li class="timeline-card">
 
-                        {{ if .Params.thumb_img_path }}
+                        {{ if .Params.start_here  }}
+                        <h3 class="timeline-card__title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Params.title }}</a></h3>
+                        <img class="timeline-card__image" width="216" height="288" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
+
+                        <div>
+                            <p class="timeline-card__subtitle">{{ .Params.subtitle }}</p>
+                        </div>
+
+                        <img src="/images/get-started-button.svg" class="get-started" />
+                        
+
+                        {{ else if .Params.thumb_img_path }}
                         <h3 class="timeline-card__title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Params.title }}</a></h3>
                         <img class="timeline-card__image" width="216" height="288" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
 
@@ -49,6 +60,7 @@
                             <p class="timeline-card__subtitle">{{ i18n "story_coming_soon" }}</p>
                         </div>
                         {{ end }}
+
                         
                     </li>
                 {{ end }}

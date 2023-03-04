@@ -4,6 +4,7 @@ date = 2020-04-20T11:13:48Z
 description = ""
 layout = "post"
 order = 0
+start_here = true
 place = "You can place the “Beginnings” marker at the start of your story line - once you've printed it out."
 prayer = "Dear God,\n\nThank you that you are the author of the greatest story ever. Thank you that you sent Jesus to be the hero. Please help us as we find out more about this story and as we learn about playing our part.\n\nAmen"
 qrcode = ""
