@@ -13,6 +13,12 @@
   white-space: nowrap;
 }
 
+.nav-timeline-title {
+  text-align: center;
+  padding: 2em 0 1em 0;
+  margin-bottom: 0;
+}
+
 .nav-timeline-item {
   border-bottom: 8px solid transparent;
   display: inline-block;
@@ -165,6 +171,14 @@
 
 }
 
+.timeline-card-marker {
+
+  &:focus-within,
+  &:hover {
+  box-shadow: none;
+  }
+}
+
 .timeline-card__title {
   font-size: 1.1em;
   text-transform: uppercase;
@@ -207,54 +221,59 @@
 .set-intro,
 .set-outro {
   .timeline-bar {background-color: _palette(intro);}
-  .timeline-card {border-color: _palette(intro);
-  }
+  .timeline-card {border-color: _palette(intro);}
+  .timeline-card-marker {border-color: transparent;}
 }
 
 .set-beginnings,
 .set-home {
   .timeline-bar {background-color: _palette(beginnings);}
-  .timeline-card {border-color: _palette(beginnings);
-  }
+  .timeline-card {border-color: _palette(beginnings);}
+  .timeline-card-marker {border-color: transparent;}
+
 }
 .set-family {
   .timeline-bar {background-color: _palette(family);}
-  .timeline-card {border-color: _palette(family);
-  }
+  .timeline-card {border-color: _palette(family);}
+  .timeline-card-marker {border-color: transparent;}
 }
 .set-exodus {
   .timeline-bar {background-color: _palette(exodus);}
-  .timeline-card {border-color: _palette(exodus);
-  }
+  .timeline-card {border-color: _palette(exodus);}
+  .timeline-card-marker {border-color: transparent;}
 }
 .set-leaders {
   .timeline-bar {background-color: _palette(leaders);}
-  .timeline-card {border-color: _palette(leaders);
-  }
+  .timeline-card {border-color: _palette(leaders);}
+  .timeline-card-marker {border-color: transparent;}
 }
 .set-messengers {
   .timeline-bar {background-color: _palette(messengers);}
-  .timeline-card {border-color: _palette(messengers);
-  }
+  .timeline-card {border-color: _palette(messengers);}
+  .timeline-card-marker {border-color: transparent;}
 }
 .set-exile {
   .timeline-bar {background-color: _palette(exile);}
   .timeline-card {border-color: _palette(exile);}
+  .timeline-card-marker {border-color: transparent;}
 }
 
 .set-jesus {
   .timeline-bar {background-color: _palette(jesus);}
   .timeline-card {border-color: _palette(jesus); }
+  .timeline-card-marker {border-color: transparent;}
 }
 
 .set-rescue {
   .timeline-bar {background-color: _palette(rescue);}
   .timeline-card {border-color: _palette(rescue);}
+  .timeline-card-marker {border-color: transparent;}
 }
 
 .set-mission {
   .timeline-bar {background-color: _palette(mission);}
   .timeline-card {border-color: _palette(mission);}
+  .timeline-card-marker {border-color: transparent;}
 }
 
 

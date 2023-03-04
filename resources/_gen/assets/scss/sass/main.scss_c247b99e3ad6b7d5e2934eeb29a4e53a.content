@@ -969,6 +969,11 @@ img {
   margin: 1.5rem auto;
   white-space: nowrap; }
 
+.nav-timeline-title {
+  text-align: center;
+  padding: 2em 0 1em 0;
+  margin-bottom: 0; }
+
 .nav-timeline-item {
   border-bottom: 8px solid transparent;
   display: inline-block;
@@ -1078,6 +1083,9 @@ img {
   .timeline-card:focus-within h2 a:focus {
     text-decoration: none; }
 
+.timeline-card-marker:focus-within, .timeline-card-marker:hover {
+  box-shadow: none; }
+
 .timeline-card__title {
   font-size: 1.1em;
   text-transform: uppercase; }
@@ -1116,6 +1124,10 @@ img {
 .set-outro .timeline-card {
   border-color: #016fd6; }
 
+.set-intro .timeline-card-marker,
+.set-outro .timeline-card-marker {
+  border-color: transparent; }
+
 .set-beginnings .timeline-bar,
 .set-home .timeline-bar {
   background-color: #4FBB7D; }
@@ -1124,11 +1136,18 @@ img {
 .set-home .timeline-card {
   border-color: #4FBB7D; }
 
+.set-beginnings .timeline-card-marker,
+.set-home .timeline-card-marker {
+  border-color: transparent; }
+
 .set-family .timeline-bar {
   background-color: #F5E411; }
 
 .set-family .timeline-card {
   border-color: #F5E411; }
+
+.set-family .timeline-card-marker {
+  border-color: transparent; }
 
 .set-exodus .timeline-bar {
   background-color: #E14430; }
@@ -1136,11 +1155,17 @@ img {
 .set-exodus .timeline-card {
   border-color: #E14430; }
 
+.set-exodus .timeline-card-marker {
+  border-color: transparent; }
+
 .set-leaders .timeline-bar {
   background-color: #8438B7; }
 
 .set-leaders .timeline-card {
   border-color: #8438B7; }
+
+.set-leaders .timeline-card-marker {
+  border-color: transparent; }
 
 .set-messengers .timeline-bar {
   background-color: #FFA217; }
@@ -1148,11 +1173,17 @@ img {
 .set-messengers .timeline-card {
   border-color: #FFA217; }
 
+.set-messengers .timeline-card-marker {
+  border-color: transparent; }
+
 .set-exile .timeline-bar {
   background-color: #777777; }
 
 .set-exile .timeline-card {
   border-color: #777777; }
+
+.set-exile .timeline-card-marker {
+  border-color: transparent; }
 
 .set-jesus .timeline-bar {
   background-color: #016fd6; }
@@ -1160,11 +1191,20 @@ img {
 .set-jesus .timeline-card {
   border-color: #016fd6; }
 
+.set-jesus .timeline-card-marker {
+  border-color: transparent; }
+
+.set-rescue .timeline-card-marker {
+  border-color: transparent; }
+
 .set-mission .timeline-bar {
   background-color: #F10B7A; }
 
 .set-mission .timeline-card {
   border-color: #F10B7A; }
+
+.set-mission .timeline-card-marker {
+  border-color: transparent; }
 
 .timeline-pager__prev,
 .timeline-pager__next {

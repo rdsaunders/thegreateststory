@@ -8,7 +8,7 @@
             </div>
                       
             <ul class="timeline-cards">
-                <!--<li class="timeline-card timeline-card-marker">
+                <li class="timeline-card timeline-card-marker">
                     <div class="timeline-card-marker__inner">
                         <div>
 
@@ -22,12 +22,12 @@
                         <p class="set-period">{{ .Page.Params.period }}</p>
                         {{end}}
 
-                        {{ if .Page.Params.set_download }}
+                        <!--{{ if .Page.Params.set_download }}
                         <a href="{{.Page.Params.set_download}}" id="{{ lower .Page.Params.title }}" target="_blank">Print cards</a>
-                        {{ end }}
+                        {{ end }}-->
                         </div>
                     </div>
-                </li>-->
+                </li>
 
                
                 {{ range .Pages.ByParam "order" }}
