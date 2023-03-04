@@ -45,34 +45,49 @@
   &.set-outro {
     display: none;
   }
-  
+
   &.set-beginnings,
-  &.set-home{
-    a {border-color: _palette(beginnings);}
+  &.set-home {
+    a {
+      border-color: _palette(beginnings);
+    }
   }
   &.set-family {
-    a {border-color: _palette(family);}
+    a {
+      border-color: _palette(family);
+    }
   }
   &.set-exodus {
-    a {border-color: _palette(exodus);}
+    a {
+      border-color: _palette(exodus);
+    }
   }
   &.set-leaders {
-    a {border-color: _palette(leaders);}
+    a {
+      border-color: _palette(leaders);
+    }
   }
   &.set-messengers {
-    a {border-color: _palette(messengers);}
+    a {
+      border-color: _palette(messengers);
+    }
   }
   &.set-exile {
-    a {border-color: _palette(exile);}
+    a {
+      border-color: _palette(exile);
+    }
   }
   &.set-jesus {
-    a {border-color: _palette(jesus); width: 10em;}
+    a {
+      border-color: _palette(jesus);
+      width: 10em;
+    }
   }
   &.set-mission {
-    a {border-color: _palette(mission);}
+    a {
+      border-color: _palette(mission);
+    }
   }
-
-
 }
 
 .timeline-wrapper {
@@ -106,17 +121,17 @@
   border-radius: 1em;
 }
 
-  .timeline-marker {
-    background-color: #ffffff;
-    width: 1.5em;
-    height: 1.5em;
-    border-radius: 2em;
-    display: block;
-    position: relative;
-    top: -0.5em;
-    left: -0.75em;
-    border: 2px solid #5e5e5e;
-  }
+.timeline-marker {
+  background-color: #ffffff;
+  width: 1.5em;
+  height: 1.5em;
+  border-radius: 2em;
+  display: block;
+  position: relative;
+  top: -0.5em;
+  left: -0.75em;
+  border: 2px solid #5e5e5e;
+}
 
 .timeline-cards {
   display: flex;
@@ -140,35 +155,33 @@
   padding-top: 1em;
 
   a {
-  outline: none;
-  text-decoration: none;
-  border: none;
-  
-    &:focus {
     outline: none;
-    text-decoration: underline;
+    text-decoration: none;
+    border: none;
+
+    &:focus {
+      outline: none;
+      text-decoration: underline;
     }
 
     &::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    top: 0;
-    right: 0;
-    bottom: 0;
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
     }
-  
   }
 
   &:focus-within,
   &:hover {
-  box-shadow: 0 0 0 0.33rem #a5d3fd;
+    box-shadow: 0 0 0 0.33rem #a5d3fd;
   }
 
   &:focus-within h2 a:focus {
-  text-decoration: none;
+    text-decoration: none;
   }
-
 }
 .get-started {
   display: block;
@@ -178,10 +191,9 @@
 }
 
 .timeline-card-marker {
-
   &:focus-within,
   &:hover {
-  box-shadow: none;
+    box-shadow: none;
   }
 }
 
@@ -226,82 +238,139 @@
 
 .set-intro,
 .set-outro {
-  .timeline-bar {background-color: _palette(intro);}
-  .timeline-card {border-color: _palette(intro);}
-  .timeline-card-marker {border-color: transparent;}
+  .timeline-bar {
+    background-color: _palette(intro);
+  }
+  .timeline-card {
+    border-color: _palette(intro);
+  }
+  .timeline-card-marker {
+    border-color: transparent;
+  }
 }
 
 .set-beginnings,
 .set-home {
-  .timeline-bar {background-color: _palette(beginnings);}
-  .timeline-card {border-color: _palette(beginnings);}
-  .timeline-card-marker {border-color: transparent;}
-
+  .timeline-bar {
+    background-color: _palette(beginnings);
+  }
+  .timeline-card {
+    border-color: _palette(beginnings);
+  }
+  .timeline-card-marker {
+    border-color: transparent;
+  }
 }
 .set-family {
-  .timeline-bar {background-color: _palette(family);}
-  .timeline-card {border-color: _palette(family);}
-  .timeline-card-marker {border-color: transparent;}
+  .timeline-bar {
+    background-color: _palette(family);
+  }
+  .timeline-card {
+    border-color: _palette(family);
+  }
+  .timeline-card-marker {
+    border-color: transparent;
+  }
 }
 .set-exodus {
-  .timeline-bar {background-color: _palette(exodus);}
-  .timeline-card {border-color: _palette(exodus);}
-  .timeline-card-marker {border-color: transparent;}
+  .timeline-bar {
+    background-color: _palette(exodus);
+  }
+  .timeline-card {
+    border-color: _palette(exodus);
+  }
+  .timeline-card-marker {
+    border-color: transparent;
+  }
 }
 .set-leaders {
-  .timeline-bar {background-color: _palette(leaders);}
-  .timeline-card {border-color: _palette(leaders);}
-  .timeline-card-marker {border-color: transparent;}
+  .timeline-bar {
+    background-color: _palette(leaders);
+  }
+  .timeline-card {
+    border-color: _palette(leaders);
+  }
+  .timeline-card-marker {
+    border-color: transparent;
+  }
 }
 .set-messengers {
-  .timeline-bar {background-color: _palette(messengers);}
-  .timeline-card {border-color: _palette(messengers);}
-  .timeline-card-marker {border-color: transparent;}
+  .timeline-bar {
+    background-color: _palette(messengers);
+  }
+  .timeline-card {
+    border-color: _palette(messengers);
+  }
+  .timeline-card-marker {
+    border-color: transparent;
+  }
 }
 .set-exile {
-  .timeline-bar {background-color: _palette(exile);}
-  .timeline-card {border-color: _palette(exile);}
-  .timeline-card-marker {border-color: transparent;}
+  .timeline-bar {
+    background-color: _palette(exile);
+  }
+  .timeline-card {
+    border-color: _palette(exile);
+  }
+  .timeline-card-marker {
+    border-color: transparent;
+  }
 }
 
 .set-jesus {
-  .timeline-bar {background-color: _palette(jesus);}
-  .timeline-card {border-color: _palette(jesus); }
-  .timeline-card-marker {border-color: transparent;}
+  .timeline-bar {
+    background-color: _palette(jesus);
+  }
+  .timeline-card {
+    border-color: _palette(jesus);
+  }
+  .timeline-card-marker {
+    border-color: transparent;
+  }
 }
 
 .set-rescue {
-  .timeline-bar {background-color: _palette(rescue);}
-  .timeline-card {border-color: _palette(rescue);}
-  .timeline-card-marker {border-color: transparent;}
+  .timeline-bar {
+    background-color: _palette(rescue);
+  }
+  .timeline-card {
+    border-color: _palette(rescue);
+  }
+  .timeline-card-marker {
+    border-color: transparent;
+  }
 }
 
 .set-mission {
-  .timeline-bar {background-color: _palette(mission);}
-  .timeline-card {border-color: _palette(mission);}
-  .timeline-card-marker {border-color: transparent;}
+  .timeline-bar {
+    background-color: _palette(mission);
+  }
+  .timeline-card {
+    border-color: _palette(mission);
+  }
+  .timeline-card-marker {
+    border-color: transparent;
+  }
 }
-
-
 
 .timeline-pager__prev,
 .timeline-pager__next {
   position: absolute;
-  top:50%;
+  top: 50%;
   width: 3rem;
   height: 3rem;
-  background-color: #FFF;
+  background-color: #fff;
   transform: translateY(-50%);
   border-radius: 50%;
-  cursor: pointer; 
+  cursor: pointer;
   z-index: 1001; /* Sit on top of everything */
   border: 1px solid black;
 }
 .timeline-pager__prev {
-  left:0;
+  left: 0;
 }
 .timeline-pager__next {
-  right:0;
+  right: 0;
 }
 .timeline-pager__prev::after,
 .timeline-pager__next::after {
