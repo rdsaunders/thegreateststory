@@ -110,7 +110,7 @@
 }
 
 .set-period {
-  margin-bottom: 0;
+  margin-bottom: 0.5em;
 }
 
 // Timeline bar & markers
@@ -221,14 +221,16 @@
 
   a {
     text-decoration: none;
-    border-bottom-width: 2px;
-    border-bottom-style: solid;
-    border-bottom-color: _palette(brand);
+    border-width: 2px;
+    border-style: solid;
+    border-color: _palette(brand);
+    padding: 0 0.5em;
+    border-radius: 1em;
   }
 
   a:hover {
+    border-color: _palette(border);
     text-decoration: none;
-    border: none;
   }
 }
 
