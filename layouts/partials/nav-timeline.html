@@ -1,5 +1,5 @@
     <!--<h2>{{ i18n "timeline_title" }}</h2>-->
-    <p class="nav-timeline-title">{{ i18n "timeline_description" }}</p>
+    <!-- <p class="nav-timeline-title">{{ i18n "timeline_description" }}</p> -->
 <ul class="nav-timeline">
     {{ range sort .Site.Taxonomies.timeline ".Page.Params.order" "asc"}}
         <li class="nav-timeline-item set-{{ lower .Page.Params.title }}">
