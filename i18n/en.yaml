@@ -37,3 +37,6 @@
   translation: Frequently Asked Questions
 - id: story_coming_soon
   translation: Coming soon…
+- id: return_home
+  translation: Return to the homepage
+

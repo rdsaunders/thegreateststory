@@ -6,12 +6,8 @@ sections:
 - template: hero
   component: hero.html
   type: intro
-  content: Through 15 minute sessions explore famous characters and events that form
-    _The Greatest Story Ever_ and discover how we can be part of it today.  Simple
-    to run. Fun. Free. No prior knowledge required.  This family devotional course
-    mixes online content (videos, readings, discussion) and printed cards to form
-    a colourful learning experience in your own home.
-  title: A bitesize Bible experience
+  content: Explore famous characters and events that form The Greatest Story Ever and discover how you can be part of it today. This family devotional course mixes online content and printed cards to form a colourful learning experience in you own home. Simple to run. Fun. Free. No prior knowledge required.
+  title: A Bitesize Bible Experience
   actions:
   - label: Get started
     url: "/get-started/"

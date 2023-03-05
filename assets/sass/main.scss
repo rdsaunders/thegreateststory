@@ -23,7 +23,13 @@ $palette: (
   exile:         #777777,
   jesus:         #016fd6,
   mission:       #F10B7A,
-  home:          #4FBB7D
+  home:          #4FBB7D,
+  quiz:          #4FBB7D,
+  read:          #FFA217,
+  watch:         #E14430,
+  do:            #8438B7,
+  pray:          #F10B7A,
+
 );
 
 @import "imports/functions";
@@ -31,6 +37,7 @@ $palette: (
 @import "imports/reset";
 @import "imports/general";
 @import "imports/icons";
+@import "imports/steps";
 @import "imports/structure";
 @import "imports/header";
 @import "imports/content";
