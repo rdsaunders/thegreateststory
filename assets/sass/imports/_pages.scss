@@ -1,21 +1,24 @@
 // Homepage FAQs
 
-.faq {
-    background-color: _palette(brand-darker);
+.faq,
+.getting-started {
     color: #fff;
     padding-top: 3.33333em;
     padding-bottom: 3.33333em;
   
-    .faq-inner {
+    .inner {
     padding-left: 4vw;
     padding-right: 4vw;
     }
   
     h2 {
       color: #fff;
-      text-align: center;
       font-size: 2.22222rem;
       margin-bottom: 2.22222rem;
+
+      @media only screen and (min-width: 681px) {
+        text-align: center;
+      }
     }
 
     h3 {
@@ -37,6 +40,14 @@
       padding: 0;
       margin: 0;
     }
+  }
+
+  .faq {
+    background-color: _palette(brand-darkest);
+  }
+
+  .getting-started {
+    background-color: _palette(brand-darker);
   }
   
   .question {

@@ -33,6 +33,11 @@ a {
   }
 }
 
+// :focus {
+//   outline: .25rem solid transparent;
+//   box-shadow: 0 0 0 .125rem _palette(white),0 0 0 .25rem rgb(76, 154, 255);
+// }
+
 h1,
 h2,
 h3,
@@ -316,8 +321,8 @@ input[type="reset"],
   &:focus,
   &:active {
     background: 0;
-    border-color: _palette(brand);
-    color: _palette(brand);
+    border-color: _palette(white);
+    color: _palette(white);
     outline: 0;
   }
 }
@@ -463,5 +468,16 @@ img {
 .list-inline > li:before {
 	content: "\200B"; /* 1 */
 	position: absolute; /* 2 */
+}
+
+
+.video-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+
+@media only screen and (min-width: 681px) {
+  max-width: 750px;
+}
+
 }
 
