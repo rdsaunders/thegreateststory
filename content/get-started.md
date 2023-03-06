@@ -10,14 +10,6 @@ menu:
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IvX0yZpABOk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Steps to get setup
-
-* **Find a slot each day**: About 15 mins. We did it after breakfast. But before bedtime could work well. The same time each day really helps. Before Joe Wicks?
-* **Print and cut out the cards**: below are links to the pdf for each set of cards. Print out the pdf in colour onto white card.
-* **Setting up the storyline**: The cards could stand up on a window sill, but we used some string and small suction cups. (We used [these](https://www.amazon.co.uk/dp/B00O7OXLHY/ref=cm_sw_r_sms_awdb_t1_F7MVEb3SX2FQP "Suction cups and hooks") from Amazon.) Our storyline is strung up across the kitchen window.
-* **Find a bible**: we use the Good News Version.
-* **Do the first session:** _The Bible -_ [_The Greatest Story Ever_](/stories/intro/)_._
-
 ## Sets of cards to print
 
 The Greatest Story Ever has 40 sessions that are arranged into 10 sets. To get started, print the ‘Beginnings’ pdf. Then the rest as and when.
