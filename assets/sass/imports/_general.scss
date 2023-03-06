@@ -428,6 +428,11 @@ img {
   padding: 1rem;
   background-color: _palette(bg);
   border-radius: 3px;
+
+  button:hover {
+    border-color: _palette(border);
+    color: _palette(primary);
+  }
 }
 
 .tc {
