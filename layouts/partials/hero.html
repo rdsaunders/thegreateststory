@@ -1,9 +1,7 @@
 <div id="{{ .section.section_id }}" class="full-bleed hero-block">
 
   <div class="block-ns dt-ns dt--fixed-ns w-100">
-    <div class="dtc-ns v-mid pa3">
-      {{ .section.embed | safeHTML }}
-    </div>
+
 
     <div class="dtc-ns v-mid pa3">
       <div class="hero-title">
@@ -21,6 +19,10 @@
         {{ end }}
       </p>
       {{ end }}
+    </div>
+
+    <div class="dtc-ns v-mid pa3">
+      {{ .section.embed | safeHTML }}
     </div>
   </div>
 

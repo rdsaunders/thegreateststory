@@ -457,8 +457,8 @@ input[type="reset"],
   .button:focus,
   .button:active {
     background: 0;
-    border-color: #016fd6;
-    color: #016fd6;
+    border-color: #ffffff;
+    color: #ffffff;
     outline: 0; }
 
 button:hover svg {
@@ -539,6 +539,9 @@ img {
   padding: 1rem;
   background-color: #f7f7f7;
   border-radius: 3px; }
+  .feedback button:hover {
+    border-color: #dedede;
+    color: #3F4143; }
 
 .tc {
   text-align: center; }
@@ -575,6 +578,12 @@ img {
   position: absolute;
   /* 2 */ }
 
+.video-wrapper {
+  margin-left: auto;
+  margin-right: auto; }
+  @media only screen and (min-width: 681px) {
+    .video-wrapper {
+      max-width: 750px; } }
 /**
  * Icons
  * ----------------------------------------------------------------------------
@@ -658,6 +667,88 @@ img {
   -webkit-transform-origin: top right;
   transform-origin: top right; }
 
+.steps {
+  display: flex;
+  align-content: center;
+  justify-content: center; }
+
+.step-list {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+.step {
+  gap: 0.5em;
+  align-items: center;
+  font-weight: 700; }
+
+.step--watch {
+  margin-left: 5em; }
+  .step--watch .step-icon {
+    background-color: #E14430; }
+
+.step--read {
+  margin-left: 7em; }
+  .step--read .step-icon {
+    background-color: #FFA217; }
+
+.step--quiz {
+  margin-left: 9em; }
+  .step--quiz .step-icon {
+    background-color: #4FBB7D; }
+
+.step--pray {
+  margin-left: 7em; }
+  .step--pray .step-icon {
+    background-color: #F10B7A; }
+
+.step--do {
+  margin-left: 5em; }
+  .step--do .step-icon {
+    background-color: #8438B7; }
+
+.step-circle {
+  display: flex; }
+
+.step-pill {
+  display: inline-flex;
+  background-color: #016fd6;
+  color: #fff;
+  height: 1em;
+  padding: 0.5em 1em;
+  border-radius: 1em; }
+
+.step-icon {
+  width: 4em;
+  height: 4em;
+  border-radius: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+@media only screen and (min-width: 681px) {
+  .step-list {
+    display: flex;
+    align-items: flex-end;
+    gap: 0.5em; }
+  .step {
+    gap: 0; }
+  .step-circle {
+    flex-direction: column-reverse; }
+  .step--watch {
+    margin-left: 0; }
+  .step--read {
+    margin-left: 0;
+    margin-bottom: 1em; }
+  .step--quiz {
+    margin-left: 0;
+    margin-bottom: 2em; }
+  .step--pray {
+    margin-left: 0;
+    margin-bottom: 1em; }
+  .step--do {
+    margin-left: 0; } }
+
 /**
  * Structure
  * ----------------------------------------------------------------------------
@@ -704,7 +795,8 @@ img {
 .post-full .post-content,
 .post-nav-title,
 .post-thumbnail,
-.faq-inner {
+.faq-inner,
+.steps {
   margin-left: auto;
   margin-right: auto;
   max-width: 750px; }
@@ -729,9 +821,11 @@ img {
   flex: 0 1 auto;
   text-align: center;
   width: 100%;
-  max-width: 20em;
+  max-width: 15em;
   margin-bottom: 1em; }
-
+  @media only screen and (min-width: 681px) {
+    .site-branding {
+      max-width: 20em; } }
 .link-logo {
   border: 0; }
 
@@ -1019,14 +1113,14 @@ img {
   scroll-behavior: smooth; }
 
 .set {
-  margin-bottom: 2rem; }
+  margin-bottom: 3rem; }
 
 .set-title {
   margin-bottom: 0.25em;
   margin-top: 0; }
 
 .set-period {
-  margin-bottom: 0; }
+  margin-bottom: 0.5em; }
 
 .timeline-bar {
   width: 100%;
@@ -1055,7 +1149,7 @@ img {
   scroll-snap-align: start; }
 
 .timeline-card {
-  width: 13em;
+  width: 10em;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
   text-align: center;
@@ -1064,6 +1158,9 @@ img {
   border-radius: 0.33rem;
   position: relative;
   padding-top: 1em; }
+  @media only screen and (min-width: 681px) {
+    .timeline-card {
+      width: 13em; } }
   .timeline-card a {
     outline: none;
     text-decoration: none;
@@ -1083,13 +1180,21 @@ img {
   .timeline-card:focus-within h2 a:focus {
     text-decoration: none; }
 
+.get-started {
+  display: block;
+  position: absolute;
+  padding-left: 1em;
+  bottom: -3em; }
+
 .timeline-card-marker:focus-within, .timeline-card-marker:hover {
   box-shadow: none; }
 
 .timeline-card__title {
-  font-size: 1.1em;
+  font-size: 1em;
   text-transform: uppercase; }
-
+  @media only screen and (min-width: 681px) {
+    .timeline-card__title {
+      font-size: 1.1em; } }
 .timeline-card__subtitle {
   margin-bottom: 0; }
 
@@ -1101,17 +1206,23 @@ img {
   display: flex;
   align-items: center;
   border-top-width: 1em;
-  width: 8em;
-  height: 9em;
+  width: 7em;
+  height: 6em;
   justify-content: center; }
+  @media only screen and (min-width: 681px) {
+    .timeline-card-marker {
+      width: 8em;
+      height: 9em; } }
   .timeline-card-marker a {
     text-decoration: none;
-    border-bottom-width: 2px;
-    border-bottom-style: solid;
-    border-bottom-color: #016fd6; }
+    border-width: 2px;
+    border-style: solid;
+    border-color: #016fd6;
+    padding: 0 0.5em;
+    border-radius: 1em; }
   .timeline-card-marker a:hover {
-    text-decoration: none;
-    border: none; }
+    border-color: #dedede;
+    text-decoration: none; }
 
 .timeline-card-marker--inner {
   text-align: left; }
@@ -1212,7 +1323,7 @@ img {
   top: 50%;
   width: 3rem;
   height: 3rem;
-  background-color: #FFF;
+  background-color: #fff;
   transform: translateY(-50%);
   border-radius: 50%;
   cursor: pointer;
@@ -1291,6 +1402,9 @@ img {
 .pa3 {
   padding: 1.5em; }
 
+.mb0 {
+  margin-bottom: 0; }
+
 .w-100 {
   width: 100%; }
 
@@ -1303,29 +1417,50 @@ img {
     table-layout: fixed;
     width: 100%; } }
 
-.faq {
-  background-color: #0155a3;
+.faq,
+.getting-started {
   color: #fff;
   padding-top: 3.33333em;
   padding-bottom: 3.33333em; }
-  .faq .faq-inner {
+  .faq .inner,
+  .getting-started .inner {
     padding-left: 4vw;
     padding-right: 4vw; }
-  .faq h2 {
+  .faq h2,
+  .getting-started h2 {
     color: #fff;
-    text-align: center;
     font-size: 2.22222rem;
     margin-bottom: 2.22222rem; }
-  .faq a {
+    @media only screen and (min-width: 681px) {
+      .faq h2,
+      .getting-started h2 {
+        text-align: center; } }
+  .faq h3,
+  .getting-started h3 {
+    color: #fff; }
+  .faq a,
+  .getting-started a {
     color: #fff;
     border-color: #fff; }
-    .faq a:hover {
+    .faq a:hover,
+    .getting-started a:hover {
       border-color: #016fd6;
       text-decoration: none; }
-  .faq ul {
+  .faq ul,
+  .getting-started ul {
     list-style-type: none;
     padding: 0;
     margin: 0; }
 
+.faq {
+  background-color: #233F66; }
+
+.getting-started {
+  background-color: #0155a3; }
+
 .question {
   font-size: 1.33333rem; }
+
+.steps {
+  padding-top: 3.33333em;
+  padding-bottom: 3.33333em; }
