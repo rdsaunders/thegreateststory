@@ -101,7 +101,7 @@
 }
 
 .set {
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 
 .set-title {
@@ -144,7 +144,7 @@
 }
 
 .timeline-card {
-  width: 13em;
+  width: 10em;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
   text-align: center;
@@ -153,6 +153,10 @@
   border-radius: 0.33rem;
   position: relative;
   padding-top: 1em;
+
+  @media only screen and (min-width: 681px) {
+    width: 13em;
+  }
 
   a {
     outline: none;
@@ -198,8 +202,13 @@
 }
 
 .timeline-card__title {
-  font-size: 1.1em;
+  font-size: 1em;
   text-transform: uppercase;
+  
+  @media only screen and (min-width: 681px) {
+  font-size: 1.1em;
+  }
+
 }
 
 .timeline-card__subtitle {
@@ -215,9 +224,15 @@
   display: flex;
   align-items: center;
   border-top-width: 1em;
-  width: 8em;
-  height: 9em;
+  width: 7em; 
+  height: 6em; 
   justify-content: center;
+
+  @media only screen and (min-width: 681px) {
+    width: 8em;
+    height: 9em;
+    }
+
 
   a {
     text-decoration: none;
