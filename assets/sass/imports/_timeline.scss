@@ -192,6 +192,12 @@
   position: absolute;
   padding-left: 1em;
   bottom: -3em;
+
+  @media only screen and (min-width: 681px) {
+    width: 7em;
+    bottom: -3.5em;
+    }
+
 }
 
 .timeline-card-marker {
