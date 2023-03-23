@@ -39,3 +39,5 @@ Each session follows the same pattern:
 * **Pray it:** Take a moment to be still and read the prayer. **Pray It+** gives suggestions for more open prayer as a family.
 * **Do it:** This final suggestion gives a punchy and practical application.
 * **Place it:** Give the session card to one of the kids. Ask them to read the summary info on the back and then place it on the storyline.
+
+<a href="/#set-intro" class="button">Start here</a>
