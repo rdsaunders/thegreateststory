@@ -23,7 +23,7 @@ params:
       url: https://www.biblesociety.org.uk/explore-the-bible/the-bible-course/
       new_window: true
     copyright: "&copy; 2020-2023 The Greatest Story Ever."
-  google-analytics: G-ZQR36FMNV3
+  google-analytics: GTM-N5ZZ826
   cloudinary_url: https://res.cloudinary.com/tgse/upload/image
 disableKinds:
 - RSS
