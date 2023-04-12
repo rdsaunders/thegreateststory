@@ -30,7 +30,7 @@ prayer: |-
 
   **Pray it +**  Thank God for some specific things that he has made that you enjoy.
 action: Keep your eyes peeled – what could you say “wow” about that God has made?
-watch: <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZPfCWV81pE?enablejsapi=1"
+watch: <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZPfCWV81pE?enablejsapi=1\"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
 read_scripture: So God created human beings, making them to be like himself. He created

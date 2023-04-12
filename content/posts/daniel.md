@@ -17,6 +17,6 @@ thumb_img_path = "/uploads/daniel.png"
 timeline = "Exile"
 timeline_position = ""
 title = "Daniel "
-watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GY0pARvYcyw?enablejsapi=1" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GY0pARvYcyw?enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++

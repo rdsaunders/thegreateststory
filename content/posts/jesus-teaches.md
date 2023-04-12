@@ -17,6 +17,6 @@ thumb_img_path = "/uploads/jesus-the-teacher.png"
 timeline = "Jesus"
 timeline_position = ""
 title = "Jesus the Teacher"
-watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Ze7w3-BL3OM?enablejsapi=1" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Ze7w3-BL3OM?enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++
