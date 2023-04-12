@@ -17,6 +17,6 @@ thumb_img_path = "/uploads/jesus-the-king.png"
 timeline = "Jesus"
 timeline_position = ""
 title = "Jesus the King "
-watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lTmbTuutBgg?enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lTmbTuutBgg?enablejsapi=1&origin=http://www.thegreateststoryever.org\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++

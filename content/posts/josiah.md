@@ -56,7 +56,7 @@ review: |-
   Tell the story so far, using the cards from previous days along the storyline.
 
   Now take a look at the next card…
-watch: <iframe width="560" height="315" src="https://www.youtube.com/embed/6C4MEXXbBmM?enablejsapi=1\"
+watch: <iframe width="560" height="315" src="https://www.youtube.com/embed/6C4MEXXbBmM?enablejsapi=1&origin=http://www.thegreateststoryever.org\"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
 qrcode: "/uploads/qr-josiah.png"

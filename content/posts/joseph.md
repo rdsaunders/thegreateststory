@@ -17,6 +17,6 @@ thumb_img_path = "/uploads/joseph.png"
 timeline = "Family"
 timeline_position = ""
 title = "Joseph"
-watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/NQ7wLTBnF84?enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/NQ7wLTBnF84?enablejsapi=1&origin=http://www.thegreateststoryever.org\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++

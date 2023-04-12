@@ -17,6 +17,6 @@ thumb_img_path = "/uploads/jonah.png"
 timeline = "Messengers"
 timeline_position = ""
 title = "Jonah "
-watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jO2QsF_nnIU?enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n"
+watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jO2QsF_nnIU?enablejsapi=1&origin=http://www.thegreateststoryever.org\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n"
 
 +++

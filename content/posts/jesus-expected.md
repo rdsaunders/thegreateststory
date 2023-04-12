@@ -17,6 +17,6 @@ thumb_img_path = "/uploads/jesus-expected.png"
 timeline = "Jesus"
 timeline_position = ""
 title = "Jesus Expected"
-watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/67HqiVGt6xI?enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/67HqiVGt6xI?enablejsapi=1&origin=http://www.thegreateststoryever.org\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++

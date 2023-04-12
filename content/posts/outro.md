@@ -16,6 +16,6 @@ subtitle = "But the story continues…"
 thumb_img_path = "/uploads/intro.png"
 timeline = "Outro"
 title = "The End"
-watch = "This video may be familiar. We saw it in the first session. As you watch think about how much more you now know!\n\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ebrbdbXzMrg?enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+watch = "This video may be familiar. We saw it in the first session. As you watch think about how much more you now know!\n\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ebrbdbXzMrg?enablejsapi=1&origin=http://www.thegreateststoryever.org\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++
