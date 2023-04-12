@@ -12,7 +12,7 @@ sections:
   - label: Get started
     url: "/get-started/"
   section_id: ''
-  embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/8CinIZk5gaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/8CinIZk5gaI?enablejsapi=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 images:
 - "/uploads/social-homepage.png"
 description: 'The Greatest Story Ever is a family devotional course.  Through daily

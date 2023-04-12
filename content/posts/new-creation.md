@@ -17,6 +17,6 @@ thumb_img_path = "/uploads/new-creation.png"
 timeline = "Home"
 timeline_position = ""
 title = "New Creation "
-watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/-eZxdYQCoUE\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/-eZxdYQCoUE?enablejsapi=1" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++

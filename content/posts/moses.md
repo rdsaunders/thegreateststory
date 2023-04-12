@@ -17,6 +17,6 @@ thumb_img_path = "/uploads/moses.png"
 timeline = "Exodus"
 timeline_position = ""
 title = "Moses"
-watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0eEHT6dCKbI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0eEHT6dCKbI?enablejsapi=1" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++

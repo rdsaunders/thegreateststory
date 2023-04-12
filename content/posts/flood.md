@@ -48,7 +48,7 @@ scripture: Genesis 6:5-7, 9:14-15
 subtitle: World washed clean
 thumb_img_path: "/uploads/flood.png"
 title: Flood
-watch: <iframe width="560" height="315" src="https://www.youtube.com/embed/4yzN0fUxjkQ"
+watch: <iframe width="560" height="315" src="https://www.youtube.com/embed/4yzN0fUxjkQ?enablejsapi=1"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
 timeline: Beginnings

@@ -17,6 +17,6 @@ thumb_img_path = "/uploads/jesus-the-friend.png"
 timeline = "Jesus"
 timeline_position = ""
 title = "Jesus the Friend"
-watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Fe7dTNID6h8\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Fe7dTNID6h8?enablejsapi=1" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++
