@@ -17,6 +17,6 @@ thumb_img_path = "/uploads/pentecost.png"
 timeline = "Mission"
 timeline_position = ""
 title = "Pentecost"
-watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OMQKy1Mx49M?enablejsapi=1&origin=http://www.thegreateststoryever.org\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OMQKy1Mx49M?enablejsapi=1&origin=https://www.thegreateststoryever.org\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++

@@ -15,6 +15,6 @@ subtitle = "Living for Jesus"
 thumb_img_path = "/uploads/pauls-letters.png"
 timeline = "Mission"
 title = "Paul's Letters"
-watch = "\nYou get to watch two again today….\n\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/YxfzYYQ51gc?enablejsapi=1&origin=http://www.thegreateststoryever.org\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5TUFWB_U3kc?enablejsapi=1&origin=http://www.thegreateststoryever.org\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+watch = "\nYou get to watch two again today….\n\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/YxfzYYQ51gc?enablejsapi=1&origin=https://www.thegreateststoryever.org\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5TUFWB_U3kc?enablejsapi=1&origin=https://www.thegreateststoryever.org\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++

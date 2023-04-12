@@ -40,7 +40,7 @@ timeline: Beginnings
 subtitle: The people scatter
 thumb_img_path: "/uploads/tower.png"
 title: Tower
-watch: <iframe width="560" height="315" src="https://www.youtube.com/embed/CW-NXNzdZhM?enablejsapi=1&origin=http://www.thegreateststoryever.org\"
+watch: <iframe width="560" height="315" src="https://www.youtube.com/embed/CW-NXNzdZhM?enablejsapi=1&origin=https://www.thegreateststoryever.org\"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
 images:

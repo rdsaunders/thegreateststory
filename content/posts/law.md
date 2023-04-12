@@ -17,6 +17,6 @@ thumb_img_path = "/uploads/law.png"
 timeline = "Exodus"
 timeline_position = ""
 title = "Law"
-watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/aX28nAB4S7A?enablejsapi=1&origin=http://www.thegreateststoryever.org\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+watch = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/aX28nAB4S7A?enablejsapi=1&origin=https://www.thegreateststoryever.org\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 +++
